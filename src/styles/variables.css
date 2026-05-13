@@ -1,0 +1,71 @@
+/* ===========================
+   CSS DESIGN TOKENS
+   =========================== */
+:root {
+  /* --- Colors --- */
+  /* Replicating InBio exact color palette */
+  --color-bg:           #212428;
+  --color-surface:      #212428; /* Base surface */
+  --color-surface-grad: linear-gradient(145deg, #1e2024, #23272b);
+  --color-surface-hover: linear-gradient(145deg, #23272b, #1e2024); /* Flipped for hover effect */
+  
+  --color-accent:       #FF014F;
+  --color-accent-dark:  #cc0040;
+  --color-accent-glow:  rgba(255, 1, 79, 0.2);
+  
+  --color-text:         #ffffff;
+  --color-text-muted:   #c4cfde; /* InBio light text color */
+  --color-text-dim:     #878e99; /* InBio darker text color */
+  
+  --color-border:       rgba(0, 0, 0, 0.2);
+  --color-border-light: rgba(255, 255, 255, 0.05);
+
+  /* --- Typography --- */
+  --font-primary:     'Poppins', sans-serif;
+  --fw-light:         300;
+  --fw-regular:       400;
+  --fw-medium:        500;
+  --fw-semibold:      600;
+  --fw-bold:          700;
+  --fw-extrabold:     800;
+
+  /* --- Spacing --- */
+  --section-py:       100px;
+  --container-max:    1200px;
+  --container-px:     24px;
+  --gap-sm:           12px;
+  --gap-md:           24px;
+  --gap-lg:           40px;
+  --gap-xl:           64px;
+
+  /* --- Border radius --- */
+  --radius-sm:        6px;
+  --radius-md:        10px;
+  --radius-lg:        20px;
+  --radius-xl:        30px;
+  --radius-full:      9999px;
+
+  /* --- Shadows (Exact InBio Neumorphic) --- */
+  /* Main card shadow */
+  --shadow-1:         10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
+  /* Hover/lifted shadow */
+  --shadow-hover:     10px 10px 19px #1c1e22, -10px -10px 19px #262a2e; /* We'll use transform for lifting */
+  /* Inset shadow (for "pressed" feel) */
+  --shadow-inset:     inset 2px 2px 5px #1c1e22, inset -5px -5px 10px #262a2e;
+  
+  /* Legacy shadow aliases for compatibility */
+  --shadow-neumorph:        var(--shadow-1);
+  --shadow-neumorph-hover:  var(--shadow-1);
+  --shadow-neumorph-accent: var(--shadow-1);
+
+  /* --- Transitions --- */
+  --transition-fast:  0.2s ease;
+  --transition-base:  0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow:  0.6s cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* --- Z-index layers --- */
+  --z-base:           1;
+  --z-overlay:        10;
+  --z-modal:          100;
+  --z-navbar:         1000;
+}
