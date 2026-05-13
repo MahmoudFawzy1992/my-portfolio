@@ -15,12 +15,40 @@ const INITIAL_FORM = { name: '', email: '', subject: '', message: '' };
 
 function validate(form) {
   const errs = {};
-  if (!form.name.trim())    errs.name    = 'Name is required';
-  if (!form.email.trim())   errs.email   = 'Email is required';
-  else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.email))
-    errs.email = 'Enter a valid email address';
-  if (!form.subject.trim()) errs.subject = 'Subject is required';
-  if (!form.message.trim()) errs.message = 'Message is required';
+  
+  // Name validation
+  if (!form.name.trim()) {
+    errs.name = 'Name is required';
+  } else if (form.name.trim().length < 3) {
+    errs.name = 'Name must be at least 3 characters';
+  } else if (form.name.trim().length > 50) {
+    errs.name = 'Name is too long (max 50)';
+  }
+
+  // Email validation
+  const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+  if (!form.email.trim()) {
+    errs.email = 'Email is required';
+  } else if (!emailRegex.test(form.email)) {
+    errs.email = 'Enter a valid professional email address';
+  }
+
+  // Subject validation
+  if (!form.subject.trim()) {
+    errs.subject = 'Subject is required';
+  } else if (form.subject.trim().length > 100) {
+    errs.subject = 'Subject is too long (max 100)';
+  }
+
+  // Message validation
+  if (!form.message.trim()) {
+    errs.message = 'Message is required';
+  } else if (form.message.trim().length < 10) {
+    errs.message = 'Message is too short (min 10 characters)';
+  } else if (form.message.trim().length > 2000) {
+    errs.message = 'Message is too long (max 2000 characters)';
+  }
+
   return errs;
 }
 

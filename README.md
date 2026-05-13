@@ -1,81 +1,40 @@
-# Mahmoud Fawzy — Professional Portfolio
+# Mahmoud Fawzy — Full-Stack Developer & AI Engineer
 
-A high-performance, responsive portfolio built with **React**, **Vite**, and **Framer Motion**. Optimized for SEO, performance (LCP), and accessibility.
+Welcome to my professional portfolio. This project showcases my experience in Web Development (React, WordPress, Shopify) and AI Automation. It is built for maximum speed, visual impact, and full mobile responsiveness.
 
-## 🚀 Key Features
-- **Modern UI/UX:** Neumorphic design language with smooth Framer Motion animations.
-- **Project Grid:** Dynamic filtering with automatic top-to-bottom image scrolling on hover.
-- **Responsive:** 100% mobile-friendly with fluid layouts.
-- **SEO Optimized:** Full meta tag support, Schema.org JSON-LD, and preloaded assets.
-- **Contact Form:** Integrated with EmailJS and protected by bot-detection (Honeypot).
+## ✨ Features
 
----
+- **Neumorphic Design:** A modern, clean, and interactive Soft-UI aesthetic.
+- **Dynamic Portfolio Grid:** Filterable projects with custom categories (WordPress, Shopify, React).
+- **Interactive Project Cards:** Automatic image scrolling effect on hover to showcase full-page project previews.
+- **Performance Optimized:** 
+  - 100% WebP image format for faster loading.
+  - Preloaded hero assets for optimal LCP scores.
+  - Component-level lazy loading for smooth performance.
+- **Contact System:** Integrated with EmailJS and protected by bot-detection (Honeypot) and field validation.
+- **SEO & Social:** Complete Meta Tags, OpenGraph support, and Schema.org JSON-LD for rich search results.
 
-## 🛠️ Deployment Instructions (Hostinger)
+## 🛠️ Tech Stack
 
-Since this is a Vite/React application, you need to build it into static files before uploading.
+- **Core:** React 18, Vite
+- **Styling:** Vanilla CSS (Custom tokens & Design System)
+- **Animations:** Framer Motion (Transitions & Layout)
+- **Icons:** React Icons
+- **Deployment:** Static hosting (Vite Build)
+- **Email:** EmailJS API
 
-### 1. Build the Project
-Open your terminal in the project folder and run:
-```bash
-npm run build
-```
-This will create a `dist/` folder. This folder contains the production-ready version of your site.
+## 📂 Project Structure
 
-### 2. Upload to Hostinger
-1. Log in to your **Hostinger hPanel**.
-2. Go to **File Manager** for your domain.
-3. Open the `public_html` folder.
-4. Upload all the contents **inside** the `dist/` folder (not the folder itself) directly into `public_html`.
+- `src/components/`: Modular React components.
+- `src/data/`: Centralized project and skill data files.
+- `src/assets/`: Design system tokens and assets.
+- `public/assets/images/`: Optimized WebP images and icons.
 
-### 3. Environment Variables
-Hostinger's standard shared hosting is for static files. Your `.env` variables are baked into the code during the `npm run build` process. **Ensure your `.env` file is present locally before running the build command.**
+## 🛡️ Privacy & Security
 
----
-
-## 📦 Git & GitHub Setup
-
-Follow these steps to push your code to a new GitHub repository:
-
-### 1. Initialize Git
-```bash
-git init
-```
-
-### 2. Add Files
-```bash
-git add .
-```
-
-### 3. Commit Changes
-```bash
-git commit -m "Initial commit: Professional portfolio ready for launch"
-```
-
-### 4. Link to GitHub
-Go to GitHub, create a new empty repository (e.g., `my-portfolio`), and then run:
-```bash
-git remote add origin https://github.com/MahmoudFawzy1992/my-portfolio.git
-git branch -M main
-git push -u origin main
-```
-
----
-
-## 🛡️ Security & Performance Audit
-- **Forms:** Honeypot anti-spam protection is active on the Contact form.
-- **Security:** `.gitignore` prevents sensitive `.env` files and `node_modules` from being leaked to GitHub.
-- **Performance:** Images are in WebP format, and the hero image is preloaded for a perfect Largest Contentful Paint (LCP) score.
-- **Assets:** All assets reside in `public/assets/` for clean routing.
-
----
-
-## 👨‍💻 Tech Stack
-- **Frontend:** React 18, Vite
-- **Animations:** Framer Motion
-- **Icons:** React Icons (Fi)
-- **Email Service:** EmailJS
-- **Styling:** Vanilla CSS (Custom tokens)
+- Environment variables are managed via `.env` and are never committed to version control.
+- Form validation prevents empty, short, or invalid data submission.
+- Honeypot system silently captures and blocks automated bot spam.
 
 ---
 © 2024 Mahmoud Fawzy. All Rights Reserved.
