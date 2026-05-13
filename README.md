@@ -32,9 +32,8 @@ Welcome to my professional portfolio. This project showcases my experience in We
 
 ## 🛡️ Privacy & Security
 
-- Environment variables are managed via `.env` and are never committed to version control.
 - Form validation prevents empty, short, or invalid data submission.
 - Honeypot system silently captures and blocks automated bot spam.
 
 ---
-© 2024 Mahmoud Fawzy. All Rights Reserved.
+© 2026 Mahmoud Fawzy. All Rights Reserved.
