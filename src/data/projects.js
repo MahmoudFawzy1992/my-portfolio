@@ -19,7 +19,7 @@ export const projects = [
     title: 'Yasmin Emam Law Firm',
     description:
       'A professional React legal site with multilingual support and lead capture.',
-    url: 'https://cornflowerblue-narwhal-387903.hostingersite.com/',
+    url: 'https://ye-lawfirm.com/',
     platform: 'React',
     image: '/assets/images/projects/ye-firm.webp',
   },
@@ -286,4 +286,4 @@ export const filterTabs = ['All', 'WordPress', 'Shopify', 'React'];
 
 // Pagination config
 export const INITIAL_COUNT = 9;
-export const BATCH_SIZE    = 6;
+export const BATCH_SIZE = 6;
