@@ -1,0 +1,69 @@
+{
+  "zipBytes": 11540534,
+  "zipFiles": 126,
+  "htmlFiles": [
+    "404.html",
+    "case-studies/happylife-tourism/index.html",
+    "case-studies/index.html",
+    "case-studies/n8n-acquisition-workflow/index.html",
+    "case-studies/upc-realty/index.html",
+    "contact/index.html",
+    "experience/index.html",
+    "index.html",
+    "work/index.html"
+  ],
+  "externalJs": [],
+  "unexpectedFiles": [],
+  "forbiddenPatterns": [],
+  "nestedHosting": true,
+  "emailjsFolderIncluded": false,
+  "publicOriginalBytes": 5529632,
+  "unusedGeneratedBytes": 575450,
+  "moduleHashes": [
+    {
+      "path": "404.html",
+      "bytes": 3947,
+      "sha256": "0574337839cdbb18a5d772744d81d438aa316103ac09ecf244bc8fa1e0e97d9b"
+    },
+    {
+      "path": "case-studies/happylife-tourism/index.html",
+      "bytes": 3947,
+      "sha256": "0574337839cdbb18a5d772744d81d438aa316103ac09ecf244bc8fa1e0e97d9b"
+    },
+    {
+      "path": "case-studies/index.html",
+      "bytes": 3947,
+      "sha256": "0574337839cdbb18a5d772744d81d438aa316103ac09ecf244bc8fa1e0e97d9b"
+    },
+    {
+      "path": "case-studies/n8n-acquisition-workflow/index.html",
+      "bytes": 3947,
+      "sha256": "0574337839cdbb18a5d772744d81d438aa316103ac09ecf244bc8fa1e0e97d9b"
+    },
+    {
+      "path": "case-studies/upc-realty/index.html",
+      "bytes": 3947,
+      "sha256": "0574337839cdbb18a5d772744d81d438aa316103ac09ecf244bc8fa1e0e97d9b"
+    },
+    {
+      "path": "contact/index.html",
+      "bytes": 3947,
+      "sha256": "0574337839cdbb18a5d772744d81d438aa316103ac09ecf244bc8fa1e0e97d9b"
+    },
+    {
+      "path": "experience/index.html",
+      "bytes": 3947,
+      "sha256": "0574337839cdbb18a5d772744d81d438aa316103ac09ecf244bc8fa1e0e97d9b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3947,
+      "sha256": "0574337839cdbb18a5d772744d81d438aa316103ac09ecf244bc8fa1e0e97d9b"
+    },
+    {
+      "path": "work/index.html",
+      "bytes": 3947,
+      "sha256": "0574337839cdbb18a5d772744d81d438aa316103ac09ecf244bc8fa1e0e97d9b"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+---
+import { profile } from '../data/profile';
+import Icon from './Icon.astro';
+const path = Astro.url.pathname;
+const links = path === '/' ? [{ href: '#home', label: 'Home' }, { href: '#expertise', label: 'My Expertise' }, { href: '#portfolio', label: 'Projects' }, { href: '#resume', label: 'Resume' }, { href: '#contact', label: 'Contacts' }] : [{ href: '/', label: 'Home' }, { href: '/work/', label: 'Projects' }, { href: '/case-studies/', label: 'Case Studies' }, { href: '/experience/', label: 'Resume' }, { href: '/contact/', label: 'Contacts' }];
+const current = (href: string) => path === '/' ? (href === '#home' ? 'location' : undefined) : (path === href || (href !== '/' && path.startsWith(href)) ? 'page' : undefined);
+---
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="/" aria-label="Mahmoud Fawzy — home"><img src="/assets/images/my-logo.png" alt="Mahmoud Fawzy" width="357" height="100" /></a>
+    <nav class="desktop-nav" aria-label="Main navigation">
+      {links.map(link => <a href={link.href} aria-current={current(link.href)}>{link.label}</a>)}
+    </nav>
+    <a class="button button-primary header-cv" href={profile.cv} download="Mahmoud-Fawzy-CV.pdf"><Icon name="download" /> Download My CV</a>
+    <details class="mobile-menu">
+      <summary aria-label="Open navigation"><Icon name="menu" class="menu-open-icon" /><Icon name="close" class="menu-close-icon" /><span class="sr-only">Navigation</span></summary>
+      <nav aria-label="Mobile navigation">
+        {links.map(link => <a href={link.href} aria-current={current(link.href)}>{link.label}</a>)}
+        <a class="button button-primary" href={profile.cv} download="Mahmoud-Fawzy-CV.pdf">Download CV ↓</a>
+      </nav>
+    </details>
+  </div>
+</header>

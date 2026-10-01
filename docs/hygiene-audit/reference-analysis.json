@@ -1,0 +1,5006 @@
+{
+  "inventory": [
+    {
+      "path": ".astro/content.d.ts",
+      "bytes": 5477,
+      "sha256": "0a20489627a4d52bbe18909bcfe64fbd014c15394a78d3afccdad1c8a06817fa"
+    },
+    {
+      "path": ".astro/dev.json",
+      "bytes": 236,
+      "sha256": "f931c4766ca3eba968a28343f6259bcfd44fb1ca11f710088dd3eb6562c1dd9b"
+    },
+    {
+      "path": ".astro/env.d.ts",
+      "bytes": 182,
+      "sha256": "a1c8d28349fbe40b3941f682d63a6ec74611aec39e0b6097aabbeeb6d5332cd7"
+    },
+    {
+      "path": ".astro/settings.json",
+      "bytes": 58,
+      "sha256": "769387f4e48fab07d1ab4cefd062cf21f8fac0da8bcca2d220d7607ced6998f7"
+    },
+    {
+      "path": ".astro/types.d.ts",
+      "bytes": 76,
+      "sha256": "38ea3df3779cce222cd51ba2c9dc9ac053a859208d3097aa3165f70c71517736"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 1517,
+      "sha256": "b8a9741793e6303fef5790de6f31b24ff2fc8103632251a5b1077cad58765c47"
+    },
+    {
+      "path": "astro.config.mjs",
+      "bytes": 425,
+      "sha256": "b6a11928c6689cbefe2d7df5844d6cde35163a49fb78062629ccb7f1066c3020"
+    },
+    {
+      "path": "dist/.htaccess",
+      "bytes": 1453,
+      "sha256": "d946fe2936bfcc0000687a522dded3806dc71b2f8afe463bf9637f023a535d04"
+    },
+    {
+      "path": "dist/404.html",
+      "bytes": 10457,
+      "sha256": "7b91e2583067d62a4e6b2ba50d9f22acbbfe4d6f51954bc8a6b526506b15d140"
+    },
+    {
+      "path": "dist/assets/images/contact-me.webp",
+      "bytes": 116812,
+      "sha256": "ec35c66c9edf5cf714eb15d03cc4f42c4b682555728b322738e47180cd285b05"
+    },
+    {
+      "path": "dist/assets/images/favicon.png",
+      "bytes": 2550,
+      "sha256": "683723254da3a658682045ef944ba47bcf3937fcb729ac861d04ff2a9618c025"
+    },
+    {
+      "path": "dist/assets/images/hero-profile.webp",
+      "bytes": 252680,
+      "sha256": "583089881c0ab37be1ceef336133a0bb3690e87a4f80b44a132f56130d5f62f1"
+    },
+    {
+      "path": "dist/assets/images/my-logo.png",
+      "bytes": 5869,
+      "sha256": "f01adba02710f1a95a41884c27826eeda4d6c396fa2e581bb803ed7b26415839"
+    },
+    {
+      "path": "dist/assets/images/optimized/alarabi-publishing-480.webp",
+      "bytes": 74922,
+      "sha256": "66e97921ba80d3e2961eeda7c94a6f05d03365813303224cac2977c8edb9eef1"
+    },
+    {
+      "path": "dist/assets/images/optimized/alarabi-publishing-800.webp",
+      "bytes": 147506,
+      "sha256": "eb31145270d046b7a77f0647fe5cbb1760b88d0dfa4c7755618406c67437097f"
+    },
+    {
+      "path": "dist/assets/images/optimized/almaza-travel-480.webp",
+      "bytes": 97020,
+      "sha256": "1b617e10015401923971c3eaf88f601009698d6bb5c137a4d93ca2408749d353"
+    },
+    {
+      "path": "dist/assets/images/optimized/almaza-travel-800.webp",
+      "bytes": 97020,
+      "sha256": "1b617e10015401923971c3eaf88f601009698d6bb5c137a4d93ca2408749d353"
+    },
+    {
+      "path": "dist/assets/images/optimized/assafco-480.webp",
+      "bytes": 86268,
+      "sha256": "fa623b6986aa9c1881e14281f6eaf14837c13f8bad3e2a1b3601a78332b811e0"
+    },
+    {
+      "path": "dist/assets/images/optimized/assafco-800.webp",
+      "bytes": 86268,
+      "sha256": "fa623b6986aa9c1881e14281f6eaf14837c13f8bad3e2a1b3601a78332b811e0"
+    },
+    {
+      "path": "dist/assets/images/optimized/contact-me-480.webp",
+      "bytes": 13430,
+      "sha256": "97ba24188115ac6e3baaee648f5981bb4ca96b82b1759b76c348cacc4f6fe1f9"
+    },
+    {
+      "path": "dist/assets/images/optimized/contact-me-800.webp",
+      "bytes": 25522,
+      "sha256": "f7ec4740454a480f161489877013c6d6ad1a1b8081d55363ca80221dfd321099"
+    },
+    {
+      "path": "dist/assets/images/optimized/cottonil-ae-480.webp",
+      "bytes": 101058,
+      "sha256": "afd1185572c762a3e79b4d17c7942d454df86634e1235efdff27b1b6b470e5d5"
+    },
+    {
+      "path": "dist/assets/images/optimized/cottonil-ae-800.webp",
+      "bytes": 101058,
+      "sha256": "afd1185572c762a3e79b4d17c7942d454df86634e1235efdff27b1b6b470e5d5"
+    },
+    {
+      "path": "dist/assets/images/optimized/elbagour-egypt-480.webp",
+      "bytes": 43792,
+      "sha256": "d364d9cff1479e29fba778e60176b7bc171bbbfdd597ff09663e6ab0791ea08b"
+    },
+    {
+      "path": "dist/assets/images/optimized/elbagour-egypt-800.webp",
+      "bytes": 85138,
+      "sha256": "6e19cf83d7691b21bfb85b3e43bbae3f31489394e31ccf6467fb7430f66af178"
+    },
+    {
+      "path": "dist/assets/images/optimized/essentials-eg-480.webp",
+      "bytes": 71506,
+      "sha256": "089e81811e73a4f17ca8415825e8d6ebd1c9941125f6d6461f8b3a5a9e9c0f9b"
+    },
+    {
+      "path": "dist/assets/images/optimized/essentials-eg-800.webp",
+      "bytes": 71506,
+      "sha256": "089e81811e73a4f17ca8415825e8d6ebd1c9941125f6d6461f8b3a5a9e9c0f9b"
+    },
+    {
+      "path": "dist/assets/images/optimized/eve-chantelle-480.webp",
+      "bytes": 72228,
+      "sha256": "3339978336ffdbfec1dd3249b560ee99d1353c4b419fb4d58b9f8731aabd2806"
+    },
+    {
+      "path": "dist/assets/images/optimized/eve-chantelle-800.webp",
+      "bytes": 92424,
+      "sha256": "ff4b1f342e11dac51f2f7f57905c24ca5f716fabeaade5810a99501521416cdc"
+    },
+    {
+      "path": "dist/assets/images/optimized/graphi-core-480.webp",
+      "bytes": 42848,
+      "sha256": "d7d213b909c78c5badc07e8229e46db3e11ceba99448863dda1529a707451345"
+    },
+    {
+      "path": "dist/assets/images/optimized/graphi-core-800.webp",
+      "bytes": 54682,
+      "sha256": "341380324e3fc6c655a1562995c00a934948d2a476f1c25a1e310e73b0344267"
+    },
+    {
+      "path": "dist/assets/images/optimized/happylife-tourism-480.webp",
+      "bytes": 48820,
+      "sha256": "886ff4fccc086a5da6fe93d169f346059654e8a730d5b307622ac878bc00b9b1"
+    },
+    {
+      "path": "dist/assets/images/optimized/happylife-tourism-800.webp",
+      "bytes": 68610,
+      "sha256": "0acdc1a7d45251769d543fa3d45d08a7eb194abb00d723c2af870148ebdd971d"
+    },
+    {
+      "path": "dist/assets/images/optimized/helm-egypt-480.webp",
+      "bytes": 91470,
+      "sha256": "09104ab25d4f3d4118c4231b78684e53d6557bcdf5586e5292f8ca9d60a67d6d"
+    },
+    {
+      "path": "dist/assets/images/optimized/helm-egypt-800.webp",
+      "bytes": 110560,
+      "sha256": "7ec4bf88e0d038fd15604f3854be77e7c56098ad675feed6143395ef3bbaa75e"
+    },
+    {
+      "path": "dist/assets/images/optimized/hero-profile-480.webp",
+      "bytes": 26780,
+      "sha256": "ad5649269cd7f7a6811c947246d4c41a07e15040f8d2d2110c8e996837c76e19"
+    },
+    {
+      "path": "dist/assets/images/optimized/hero-profile-800.webp",
+      "bytes": 59294,
+      "sha256": "2ed6d0c5a6928eadeab4c1564f547c67d035e9fe88a087ba8164b766f841ed71"
+    },
+    {
+      "path": "dist/assets/images/optimized/jazeel-480.webp",
+      "bytes": 79134,
+      "sha256": "624c2234d6eed587885e5ee1ceafb21640603e7e6ca68021cfb0e16505e93ee2"
+    },
+    {
+      "path": "dist/assets/images/optimized/jazeel-800.webp",
+      "bytes": 119448,
+      "sha256": "ec5ed82a229a79820b89ced32b57bf6a27df9734e615ae0c71d444b459516b9e"
+    },
+    {
+      "path": "dist/assets/images/optimized/jcguide-travel-480.webp",
+      "bytes": 69778,
+      "sha256": "f8e448efd89e1185f8373b8ae99de7c5bafe53d83d5923eba3db911bb78424e9"
+    },
+    {
+      "path": "dist/assets/images/optimized/jcguide-travel-800.webp",
+      "bytes": 149386,
+      "sha256": "f6eb328c8f245cfa670e6fedaaff6696bdf892f9b26fa512eadd5f535e76a2df"
+    },
+    {
+      "path": "dist/assets/images/optimized/just-mention-it-480.webp",
+      "bytes": 40262,
+      "sha256": "f77ec694b62dce7b6fbada0de1da8c5bcbc1e2eab5ee7711c41a284fcd52e204"
+    },
+    {
+      "path": "dist/assets/images/optimized/just-mention-it-800.webp",
+      "bytes": 80562,
+      "sha256": "a15dd3185fd9e9bb5af1d3fb25130964654c31fe613424300578b5ede3d2504c"
+    },
+    {
+      "path": "dist/assets/images/optimized/laguna-global-480.webp",
+      "bytes": 57750,
+      "sha256": "f7f9cdece4f9611ab7c48448b03dc2593b76fd65416eafe9d0334fa722d633d9"
+    },
+    {
+      "path": "dist/assets/images/optimized/laguna-global-800.webp",
+      "bytes": 120184,
+      "sha256": "5dc9908af843a8d23f15b1c890b094215feef95e0e50f7cba398f2ac11929fbf"
+    },
+    {
+      "path": "dist/assets/images/optimized/lmd-egypt-480.webp",
+      "bytes": 82260,
+      "sha256": "b4275aafc4b15ea1789ac7bb5cb737886a1672d6fb297e28549e951eab496e52"
+    },
+    {
+      "path": "dist/assets/images/optimized/lmd-egypt-800.webp",
+      "bytes": 99172,
+      "sha256": "3ddad019642741727f22b16e1de9c998aba53cddcce85ab1b0ed001efb83aa42"
+    },
+    {
+      "path": "dist/assets/images/optimized/lmd-uae-480.webp",
+      "bytes": 76394,
+      "sha256": "1601ab7d7a09e767d603a5f7823f6736f6d3f28ecd9ca9562bb877fe8eb2ec80"
+    },
+    {
+      "path": "dist/assets/images/optimized/lmd-uae-800.webp",
+      "bytes": 90928,
+      "sha256": "0b251a2540512d0d3bd60a12c33b4f87828fb6d792eaaeae8c37f7c18d9e4466"
+    },
+    {
+      "path": "dist/assets/images/optimized/meka-egypt-tours-480.webp",
+      "bytes": 52684,
+      "sha256": "e542f1d6e773a9c10c59efe37fcb2ac6739a815511bb158478e65b5c7439d5d8"
+    },
+    {
+      "path": "dist/assets/images/optimized/meka-egypt-tours-800.webp",
+      "bytes": 52684,
+      "sha256": "e542f1d6e773a9c10c59efe37fcb2ac6739a815511bb158478e65b5c7439d5d8"
+    },
+    {
+      "path": "dist/assets/images/optimized/miftah-alhuda-480.webp",
+      "bytes": 39594,
+      "sha256": "dabe1e55ba75181dcc6fa1afa526145b44591cb1c22fef30dde82226023f35a2"
+    },
+    {
+      "path": "dist/assets/images/optimized/miftah-alhuda-800.webp",
+      "bytes": 80946,
+      "sha256": "8d9cb1af1d5e0f7b21ea4193c712b1fc0e46fa2a1278f1f06b26f728158bc795"
+    },
+    {
+      "path": "dist/assets/images/optimized/motorsports-hub-480.webp",
+      "bytes": 56038,
+      "sha256": "c3a83f655eac3f06048a6d74b27f0c6fadf41f038b7780eb08f452a4bbff4042"
+    },
+    {
+      "path": "dist/assets/images/optimized/motorsports-hub-800.webp",
+      "bytes": 93426,
+      "sha256": "9f9f319b2bf5ac616ca3e88e243c435334ce0d195310c776fe09df8da2382c2e"
+    },
+    {
+      "path": "dist/assets/images/optimized/mrowa-store-480.webp",
+      "bytes": 85742,
+      "sha256": "73ef32e024fb88aaae0dec590b897577e19e131395f599544af220f47a8c2b4e"
+    },
+    {
+      "path": "dist/assets/images/optimized/mrowa-store-800.webp",
+      "bytes": 117998,
+      "sha256": "81ac0c52279ff6d644ab0604101c30556397bddfd82a3e0d22dc22bbeb11d7dc"
+    },
+    {
+      "path": "dist/assets/images/optimized/novacure-480.webp",
+      "bytes": 22954,
+      "sha256": "274b4bd210d125d6a1a53dc89dcd60546fe227323f66ab83c3371057dbe83df4"
+    },
+    {
+      "path": "dist/assets/images/optimized/novacure-800.webp",
+      "bytes": 44830,
+      "sha256": "3e351e5fe9eb3b9b2b9b4ad73cf70a724eefcb6bcf4878918bf3aae4d667efcb"
+    },
+    {
+      "path": "dist/assets/images/optimized/pangulf-steel-480.webp",
+      "bytes": 34800,
+      "sha256": "1fa57c2e93d464631bf5be9a0babe9d5e48307cd2fd0071601735316a196314a"
+    },
+    {
+      "path": "dist/assets/images/optimized/pangulf-steel-800.webp",
+      "bytes": 74414,
+      "sha256": "33739696aa8e29264005051b0adc80e19bba0efdbaf432c4f035dc133718f679"
+    },
+    {
+      "path": "dist/assets/images/optimized/quantum-pharma-480.webp",
+      "bytes": 39768,
+      "sha256": "27ef093b4605dcafe82c19d7cf7e0cf884f35fe7144a79aacf938afa68a0ff0f"
+    },
+    {
+      "path": "dist/assets/images/optimized/quantum-pharma-800.webp",
+      "bytes": 66568,
+      "sha256": "ea18818619349817c20572219f89eebba777b4e7d978c0478694d1ab29681409"
+    },
+    {
+      "path": "dist/assets/images/optimized/red-cotton-480.webp",
+      "bytes": 62460,
+      "sha256": "5845bf0515d619c52c28e175c8d3a0049e88aa7f14ca959c55edeb6b6aaf673a"
+    },
+    {
+      "path": "dist/assets/images/optimized/red-cotton-800.webp",
+      "bytes": 94904,
+      "sha256": "89c02c215f2cc0128e10838869c96db130a0f9c4dc22b402083d283d1ecdcdb0"
+    },
+    {
+      "path": "dist/assets/images/optimized/sheffield-eg-480.webp",
+      "bytes": 64644,
+      "sha256": "110fd0d5cd37e30a62a048515fd7f09cacaaca59a8293f70a6ba57cd782c5d5e"
+    },
+    {
+      "path": "dist/assets/images/optimized/sheffield-eg-800.webp",
+      "bytes": 64644,
+      "sha256": "110fd0d5cd37e30a62a048515fd7f09cacaaca59a8293f70a6ba57cd782c5d5e"
+    },
+    {
+      "path": "dist/assets/images/optimized/soficopharm-480.webp",
+      "bytes": 28108,
+      "sha256": "20305de6bb800a2017c06d3ffaae22cbaf384e13d7efdd13714ca0a1779815f1"
+    },
+    {
+      "path": "dist/assets/images/optimized/soficopharm-800.webp",
+      "bytes": 56816,
+      "sha256": "604334b4f96a24de0fd70d72da424a976a6823820a860e46acf81d789910d9e6"
+    },
+    {
+      "path": "dist/assets/images/optimized/tawasol-egypt-480.webp",
+      "bytes": 44020,
+      "sha256": "850600650864b94847db81af170f1005684268f3a62a86dcc7f3106105c55a8f"
+    },
+    {
+      "path": "dist/assets/images/optimized/tawasol-egypt-800.webp",
+      "bytes": 85818,
+      "sha256": "c150d7dffd5063f24792b13d6775ded1f6714971930cce87625a1f68bf048d36"
+    },
+    {
+      "path": "dist/assets/images/optimized/upcrealty-480.webp",
+      "bytes": 55670,
+      "sha256": "0ef764917d5c428bec66c4adc566ec987e8c86010c75910ac716c7fe83d7bfb9"
+    },
+    {
+      "path": "dist/assets/images/optimized/upcrealty-800.webp",
+      "bytes": 115396,
+      "sha256": "8f0ac2d8fccb20b1911cbfad32d18b62fd9b12a28122c6f325cc26b2b5852a22"
+    },
+    {
+      "path": "dist/assets/images/optimized/wayup-sports-480.webp",
+      "bytes": 76748,
+      "sha256": "9892a7eead59265a29e627b0e420ea30c8f6962db130681fa224c1bbf7850ad2"
+    },
+    {
+      "path": "dist/assets/images/optimized/wayup-sports-800.webp",
+      "bytes": 76748,
+      "sha256": "9892a7eead59265a29e627b0e420ea30c8f6962db130681fa224c1bbf7850ad2"
+    },
+    {
+      "path": "dist/assets/images/optimized/ye-firm-480.webp",
+      "bytes": 22296,
+      "sha256": "9367e485d458579b2d83218f34381d538dec22dcad9edbd045dd0cf2962bc61a"
+    },
+    {
+      "path": "dist/assets/images/optimized/ye-firm-800.webp",
+      "bytes": 46106,
+      "sha256": "87cb08b44bc5d1f0470775b3ae071a9d05f9316a40bce77a183c41837dfcf833"
+    },
+    {
+      "path": "dist/assets/images/optimized/zamzam-store-480.webp",
+      "bytes": 49874,
+      "sha256": "df7115c1a2ee5c11e5759ff9239a72c9752374499ee3784ab2030e61722ef79e"
+    },
+    {
+      "path": "dist/assets/images/optimized/zamzam-store-800.webp",
+      "bytes": 102448,
+      "sha256": "72521659374d70cd745f684325a7a465f82a24a75d2432724bacfc22a0f98f1d"
+    },
+    {
+      "path": "dist/assets/images/projects/alarabi-publishing.webp",
+      "bytes": 273550,
+      "sha256": "b22248aa6811554c3e03192f3b1624348a4b53bfee06b265450e80590eed786e"
+    },
+    {
+      "path": "dist/assets/images/projects/almaza-travel.webp",
+      "bytes": 166808,
+      "sha256": "6e43e0e6ae0fe2c6cf5877b8f12c4c9ab8e441cb21690fe4d29f11ed0a0d9074"
+    },
+    {
+      "path": "dist/assets/images/projects/assafco.webp",
+      "bytes": 148172,
+      "sha256": "f5803f931413d54fdcc904c13a88c0eef9e541105a57b552514912921a5dc89b"
+    },
+    {
+      "path": "dist/assets/images/projects/cottonil-ae.webp",
+      "bytes": 174318,
+      "sha256": "c499f20d12f400da5e83a7b20e190cdbd111ded72e59d9fe7c755cd1220ac915"
+    },
+    {
+      "path": "dist/assets/images/projects/elbagour-egypt.webp",
+      "bytes": 182594,
+      "sha256": "fd2276a815c0caa87ba2ab12b3160f692d9f475be52268193671cfc8845e5688"
+    },
+    {
+      "path": "dist/assets/images/projects/essentials-eg.webp",
+      "bytes": 134182,
+      "sha256": "27a1b0f2b8e62fe0e4059adc81bcc539a68d5385e12a0db202f13844bc9c4b68"
+    },
+    {
+      "path": "dist/assets/images/projects/eve-chantelle.webp",
+      "bytes": 173446,
+      "sha256": "5429dc41a7d5e547074de77c1d18d618471d910e35ce7dd042769ef575660367"
+    },
+    {
+      "path": "dist/assets/images/projects/graphi-core.webp",
+      "bytes": 88744,
+      "sha256": "08254fb73d73018f587d461a8077e7806b614d3700665efebcd88ccaa6c69c33"
+    },
+    {
+      "path": "dist/assets/images/projects/happylife-tourism.webp",
+      "bytes": 120534,
+      "sha256": "b1ee3afbfb863fda4f4cdd57fdfc19b2272c4dca7dc8c55dada37bfcf71f823d"
+    },
+    {
+      "path": "dist/assets/images/projects/helm-egypt.webp",
+      "bytes": 199786,
+      "sha256": "02b9801a252567fd8ea1cae15604c0189a6f3f3004d4d7e7f85de8be1d074475"
+    },
+    {
+      "path": "dist/assets/images/projects/jazeel.webp",
+      "bytes": 203810,
+      "sha256": "5df837c71313bc8de2e428356c78242fc6e95fa50305aa83c5160b149f1642d2"
+    },
+    {
+      "path": "dist/assets/images/projects/jcguide-travel.webp",
+      "bytes": 271574,
+      "sha256": "d7fe4dd6fc023e5e48ff92578aa04dd59632ee00696da3b0520e25a32d72b007"
+    },
+    {
+      "path": "dist/assets/images/projects/just-mention-it.webp",
+      "bytes": 217476,
+      "sha256": "4f841f5d6fedb9c61ce77cb646e16029055324b1cf5d6cb60b7a616fb7033805"
+    },
+    {
+      "path": "dist/assets/images/projects/laguna-global.webp",
+      "bytes": 212292,
+      "sha256": "2ddb328cf5dcdfad5555f9be8c0d519c46eb8d5af75ec1635925e8a995deab9d"
+    },
+    {
+      "path": "dist/assets/images/projects/lmd-egypt.webp",
+      "bytes": 184098,
+      "sha256": "a14cec6ff38628f20408e77c78254695813eac206cb8c5d2b80de671e7678160"
+    },
+    {
+      "path": "dist/assets/images/projects/lmd-uae.webp",
+      "bytes": 171982,
+      "sha256": "64707f2dd6061110245450bc6c289a29e8ed670182eb25401e4a2fbf3c7a98fb"
+    },
+    {
+      "path": "dist/assets/images/projects/meka-egypt-tours.webp",
+      "bytes": 98306,
+      "sha256": "4a16b4bc2dff82db203e9453be3052db025d3d552bc78907726581c71b130566"
+    },
+    {
+      "path": "dist/assets/images/projects/miftah-alhuda.webp",
+      "bytes": 138630,
+      "sha256": "fc6798f28368dce5f36732444b73d88eb7116b9f133f7af21af22237147a1585"
+    },
+    {
+      "path": "dist/assets/images/projects/motorsports-hub.webp",
+      "bytes": 163318,
+      "sha256": "1274912938a99361f653a3d239d90ed7c7ed5e3d33e84528d878a651a747809b"
+    },
+    {
+      "path": "dist/assets/images/projects/mrowa-store.webp",
+      "bytes": 220346,
+      "sha256": "3fef16b61b85e2be7dab7fbba0a7e11831f571d929c0e2766fe275d3c3f5c757"
+    },
+    {
+      "path": "dist/assets/images/projects/novacure.webp",
+      "bytes": 146922,
+      "sha256": "ec24c30f1729ea31148364cf8e27e352d039fa9d1e99b1ad556e83c80c067dfd"
+    },
+    {
+      "path": "dist/assets/images/projects/pangulf-steel.webp",
+      "bytes": 295006,
+      "sha256": "43f4f899e0d667aa79fce7261d9c258f0357cef555d0ba71277108f39585043b"
+    },
+    {
+      "path": "dist/assets/images/projects/quantum-pharma.webp",
+      "bytes": 119940,
+      "sha256": "01dfc3277a78c181ad632b8e5e98c18c1dae1e978ccf7a74764cd8104c288052"
+    },
+    {
+      "path": "dist/assets/images/projects/red-cotton.webp",
+      "bytes": 173030,
+      "sha256": "09da5cd5bce5bf8ea2f9c7d972ef8575af08e9e89781950cfb19914bba703e15"
+    },
+    {
+      "path": "dist/assets/images/projects/sheffield-eg.webp",
+      "bytes": 112450,
+      "sha256": "c62ff47a620039f01c27b8846f49401fdff2183551fa40903c81e826a975f6f4"
+    },
+    {
+      "path": "dist/assets/images/projects/soficopharm.webp",
+      "bytes": 119738,
+      "sha256": "33370117d7a55417051c01f09c145c409b82ba8d8f40c752024177908d9c0488"
+    },
+    {
+      "path": "dist/assets/images/projects/tawasol-egypt.webp",
+      "bytes": 172838,
+      "sha256": "68d240f3360b162d6b1fc529de4136d6f4d701768626777c64d5f858f419d266"
+    },
+    {
+      "path": "dist/assets/images/projects/upcrealty.webp",
+      "bytes": 208082,
+      "sha256": "96571ef8499d7e030f4680cc626be0ad04858f448c2a930810aea456c86d19c7"
+    },
+    {
+      "path": "dist/assets/images/projects/wayup-sports.webp",
+      "bytes": 125172,
+      "sha256": "e9a4aa1a1cc34cac2284f5ca8ec2a4ffe353531629801af397305e1d1526aef8"
+    },
+    {
+      "path": "dist/assets/images/projects/ye-firm.webp",
+      "bytes": 163830,
+      "sha256": "c45b309312453a07b75add8bbfb62db69bcc5a3167450e0f3bb013f388f3ab0f"
+    },
+    {
+      "path": "dist/assets/images/projects/zamzam-store.webp",
+      "bytes": 231846,
+      "sha256": "dfacc7bc9d83b8af5dcc581288fe6daa5804d6a12cb10121748984f413849eaa"
+    },
+    {
+      "path": "dist/assets/images/social-card.png",
+      "bytes": 52037,
+      "sha256": "df003e7789e822f1d81eedb24b8287010c11b0b6987a38f6f0292c0ca3ac1f90"
+    },
+    {
+      "path": "dist/assets/mahmoud-fawzy c.v.pdf",
+      "bytes": 893937,
+      "sha256": "5e2a186f8092904d4ec11dbc6ee82f1791c765a8d4d789f42af709547bd51a81"
+    },
+    {
+      "path": "dist/case-studies/happylife-tourism/index.html",
+      "bytes": 17055,
+      "sha256": "127fa242e8c7e9a1bd4128ddb4bf30fdff94ca291a2004a626f3dbfc5bcdde55"
+    },
+    {
+      "path": "dist/case-studies/index.html",
+      "bytes": 14080,
+      "sha256": "dd3397a8d656b4ae170819ebd37a3ccba96fb461960c2ddc94f92b4ad4780c97"
+    },
+    {
+      "path": "dist/case-studies/n8n-acquisition-workflow/index.html",
+      "bytes": 17786,
+      "sha256": "9b982b4dbe28ccc6359a60bf93fe6121b00a3fd8c311e73058d74800deee0111"
+    },
+    {
+      "path": "dist/case-studies/upc-realty/index.html",
+      "bytes": 17227,
+      "sha256": "b84248a2da1fbfe52667dc9f0929691eacdab849b6ed75f6dfd94883cd897328"
+    },
+    {
+      "path": "dist/contact/index.html",
+      "bytes": 14767,
+      "sha256": "6e361f8677e24e6535b7459852b9a4bf23faa15aa8a71baf461284a0c33c11eb"
+    },
+    {
+      "path": "dist/experience/index.html",
+      "bytes": 23258,
+      "sha256": "7b18fbeb6b01e7e71efd4e12bf4216d0293564a40486913f1e80d607f6d13485"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 64789,
+      "sha256": "542d68f9a6600d9d97198f64e720fb38da55e8b066c41bfc105f5ba120df6307"
+    },
+    {
+      "path": "dist/robots.txt",
+      "bytes": 80,
+      "sha256": "7ab5589024aa82b870269997911c8bd186005b94cd945d220ed3d69756eddd44"
+    },
+    {
+      "path": "dist/sitemap-0.xml",
+      "bytes": 848,
+      "sha256": "a1bf8b76a0adbed8886aba537bd97c81e83a99c1d4d41cd739f9e70496c792a1"
+    },
+    {
+      "path": "dist/sitemap-index.xml",
+      "bytes": 188,
+      "sha256": "187a2051f95237282776ef00a86e3d4a228112a258ea70dae7c83c36f6dd55ef"
+    },
+    {
+      "path": "dist/work/index.html",
+      "bytes": 42639,
+      "sha256": "6865303b9048c64cde50aa7e5851ccad58330099d73ff71148f8da4d6ced08d1"
+    },
+    {
+      "path": "dist/_astro/.htaccess",
+      "bytes": 249,
+      "sha256": "0a06b91c63c8bc8ceb16271490e727484ab0df880049005b694ca25589f1e16b"
+    },
+    {
+      "path": "dist/_astro/BaseLayout.BSFzxaPp.css",
+      "bytes": 26522,
+      "sha256": "21d5896805a64afd8c7e3b579f505af3bc8306e6d2931ba688f952b7b89c9312"
+    },
+    {
+      "path": "dist/_astro/poppins-latin-400-normal.BOb3E3N0.woff",
+      "bytes": 10532,
+      "sha256": "6076b418803564833cde2aece96c51b29927ab0a98dfbe727774d1a6c6e6c445"
+    },
+    {
+      "path": "dist/_astro/poppins-latin-400-normal.cpxAROuN.woff2",
+      "bytes": 7884,
+      "sha256": "7d93459d86585bfcdbb7e0376056226adb25821ee54b96236fe2123e9560929f"
+    },
+    {
+      "path": "dist/_astro/poppins-latin-500-normal.C8OXljZJ.woff2",
+      "bytes": 7748,
+      "sha256": "cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446"
+    },
+    {
+      "path": "dist/_astro/poppins-latin-500-normal.DGXqpDMm.woff",
+      "bytes": 10372,
+      "sha256": "abdc91ec7e4438b1e1d7f808d388614789d69037059b74a9d6166d00eb9b8b04"
+    },
+    {
+      "path": "dist/_astro/poppins-latin-600-normal.BJdTmd5m.woff",
+      "bytes": 10600,
+      "sha256": "55fffef7b100460605349fa5215eb7dcd6e558e195d08e43eddc64c4b27d43b3"
+    },
+    {
+      "path": "dist/_astro/poppins-latin-600-normal.zEkxB9Mr.woff2",
+      "bytes": 8000,
+      "sha256": "f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149"
+    },
+    {
+      "path": "dist/_astro/poppins-latin-700-normal.BVuQR_eA.woff",
+      "bytes": 10432,
+      "sha256": "927ba66258ea405f06205be694080f1126d186633c3c69cb839cfd0cfc5ee8ff"
+    },
+    {
+      "path": "dist/_astro/poppins-latin-700-normal.Qrb0O0WB.woff2",
+      "bytes": 7816,
+      "sha256": "9338e65fc077355c7a87ae0d64cc101e23b9bf8ad78ae65f0f319c857311b526"
+    },
+    {
+      "path": "docs/BUILD_MEASUREMENTS.json",
+      "bytes": 840,
+      "sha256": "a04acd9a1d378b0869a63de1b29d2b0850449742fff82694a9dcb90c212e84ba"
+    },
+    {
+      "path": "docs/CODEBASE_GUIDE.md",
+      "bytes": 4537,
+      "sha256": "939ced26c4741699a17eff5f85a5e87dfea445c26f46b40f78348ab6ccbd3c11"
+    },
+    {
+      "path": "docs/final-cleanup/contact-1440.jpg",
+      "bytes": 106584,
+      "sha256": "26432006939f034ac4793f877378bd26b3da51ad72e6db01a1121528880a9031"
+    },
+    {
+      "path": "docs/final-cleanup/contact-320.jpg",
+      "bytes": 71851,
+      "sha256": "07cb5b6300461698a269d288ef6db270cc841932a86cfeeddfae4d582c0d780d"
+    },
+    {
+      "path": "docs/final-cleanup/contact-390.jpg",
+      "bytes": 77306,
+      "sha256": "507e987e1b5a1639db8a6cdd3070bbc27e50796aea5da9f529288d84238a4d9d"
+    },
+    {
+      "path": "docs/final-cleanup/contact-checks.json",
+      "bytes": 1017,
+      "sha256": "a00e8bd09d80b17689fd772207a754075531082fa8c343ee5e61862de993ea4d"
+    },
+    {
+      "path": "docs/final-cleanup/final-integrity.json",
+      "bytes": 160,
+      "sha256": "6dd6288017635a3b848944853401dd79a4dbcace8da7e011d2f6d91b7446bb91"
+    },
+    {
+      "path": "docs/final-cleanup/home-contact-1440.jpg",
+      "bytes": 72308,
+      "sha256": "ef3addf462de17e1330aa72c6296347e7bfdd96f87eed80d9b4542160cdee00e"
+    },
+    {
+      "path": "docs/FINAL_CLEANUP.md",
+      "bytes": 4238,
+      "sha256": "700ea30c293c435d1f5ed7e1c4b5e24ea45555bce1e9392445d0d4251eb6cc08"
+    },
+    {
+      "path": "docs/HOSTINGER_DEPLOYMENT.md",
+      "bytes": 3371,
+      "sha256": "f5c5dba1ad89f57259bad2a01b1da21d4da3a517720c27256111b908a89dc884"
+    },
+    {
+      "path": "docs/INITIAL_AUDIT.md",
+      "bytes": 17998,
+      "sha256": "0e88666d347c1d6a37a492fe69cf1755cf435c623e2261d2eab699aaa5c85e65"
+    },
+    {
+      "path": "docs/local-link-check.png",
+      "bytes": 50957,
+      "sha256": "2fbd919c302f4f442f0b18a8bb87019a883d756d50e01236a9d843322852e921"
+    },
+    {
+      "path": "docs/PORTFOLIO_AUDIT.md",
+      "bytes": 3014,
+      "sha256": "4cf643d7c50043c571a8bed6fc113d1c48e8ff583962dea5c015789ec2b669de"
+    },
+    {
+      "path": "docs/preview-home-desktop.png",
+      "bytes": 85168,
+      "sha256": "40ae24da97e1630072179bc788fd671cc087248818705729e194bb8c300b63b3"
+    },
+    {
+      "path": "docs/preview-home-mobile.png",
+      "bytes": 35495,
+      "sha256": "0718663518b6b09deaf1dc0490942cb65ad53092e59128eeb730c50233f51b52"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 4454,
+      "sha256": "a1b2c4869d836d2221ddec7d6fca31a7313a1a40d7bbf7b71c3845d8a9c0b360"
+    },
+    {
+      "path": "docs/visual-restoration/live-1280-contact.jpg",
+      "bytes": 50601,
+      "sha256": "e0da0d4290bc33029595ca7ebf9181a7e85d28662c007edb3dd581eeaf524300"
+    },
+    {
+      "path": "docs/visual-restoration/live-1280-experience.jpg",
+      "bytes": 64549,
+      "sha256": "ba665488a46a939e74da006c88bf193af1851c8f2a93bac5ff2bb0cabcf89e89"
+    },
+    {
+      "path": "docs/visual-restoration/live-1280-expertise.jpg",
+      "bytes": 65702,
+      "sha256": "d1d48c0db05670f845e598ed8dd3931f15592b4145f88be02177db0b87cb9818"
+    },
+    {
+      "path": "docs/visual-restoration/live-1280-home-section-contact.jpg",
+      "bytes": 50601,
+      "sha256": "e0da0d4290bc33029595ca7ebf9181a7e85d28662c007edb3dd581eeaf524300"
+    },
+    {
+      "path": "docs/visual-restoration/live-1280-home-section-experience.jpg",
+      "bytes": 64549,
+      "sha256": "ba665488a46a939e74da006c88bf193af1851c8f2a93bac5ff2bb0cabcf89e89"
+    },
+    {
+      "path": "docs/visual-restoration/live-1280-home.jpg",
+      "bytes": 85278,
+      "sha256": "4ff7fa9ac404a70a5ddc21172836c49a7535ff89cd6eb546c0487e4378005473"
+    },
+    {
+      "path": "docs/visual-restoration/live-1280-home.png",
+      "bytes": 86720,
+      "sha256": "eafe5798605504f433c0b9bcf99e1848d6553000cdf7be67b3a8277e928771e3"
+    },
+    {
+      "path": "docs/visual-restoration/live-1280-projects.jpg",
+      "bytes": 79707,
+      "sha256": "5bb9e3a7bc27e80f3ee57faf950eaada54dba2daa461b77a79c51394c5d2e846"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-contact.jpg",
+      "bytes": 50908,
+      "sha256": "1b6c4690020cdd0594efface8a27edb3a4870f52ccb93b0ccf5b1d47edd95a68"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-contact.png",
+      "bytes": 58840,
+      "sha256": "aaba3e644b2b0632e344cb42d1ba1b378aff78540b6373bfa9986e3356bc0c2a"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-experience.jpg",
+      "bytes": 65793,
+      "sha256": "95f4f7d5d9990b1455237406ec95d776630620f588c107427efac47daf21c89f"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-experience.png",
+      "bytes": 59826,
+      "sha256": "b279dc333bc4fa37f1b10efab8ae7a376f487d2bb21ec497539e822c27594333"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-expertise.jpg",
+      "bytes": 65708,
+      "sha256": "00105f016b03b3b7277ca2ead891f9ca8d4db1c654a65db619581861d4f395bb"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-expertise.png",
+      "bytes": 82489,
+      "sha256": "675066aba705e73699630191f6dee49934e5e016ab6508270b86285994fa196c"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-home-section-contact.jpg",
+      "bytes": 50908,
+      "sha256": "1b6c4690020cdd0594efface8a27edb3a4870f52ccb93b0ccf5b1d47edd95a68"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-home-section-experience.jpg",
+      "bytes": 65793,
+      "sha256": "95f4f7d5d9990b1455237406ec95d776630620f588c107427efac47daf21c89f"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-home.jpg",
+      "bytes": 87350,
+      "sha256": "0fbf0356084fc24d708e54ca0d2911035eb5a666e6c53d94a8c6d46eea38d084"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-home.png",
+      "bytes": 89042,
+      "sha256": "4c0408826aad39b1d977976797631e463943259c0312f789ddf7b260e221afab"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-projects.jpg",
+      "bytes": 81585,
+      "sha256": "75d0e6bd7579329c00630637e4572d7cd7328095d5ff5c2317b67fce605d8d91"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-projects.png",
+      "bytes": 81585,
+      "sha256": "75d0e6bd7579329c00630637e4572d7cd7328095d5ff5c2317b67fce605d8d91"
+    },
+    {
+      "path": "docs/visual-restoration/live-1440-resume-skills.png",
+      "bytes": 54050,
+      "sha256": "fd2c2810450bd20423d27e1a796c43efa74d06542b3400f51dca116c35afdba0"
+    },
+    {
+      "path": "docs/visual-restoration/live-320-contact.jpg",
+      "bytes": 19772,
+      "sha256": "d604993925cf242b0e2cc77272c88e58a7c69b1cf5b30589c569d2b542f47803"
+    },
+    {
+      "path": "docs/visual-restoration/live-320-experience.jpg",
+      "bytes": 16691,
+      "sha256": "b52fbcb541655fbada29bac42e9e55105ff9ff2e8c9491265573299660eea660"
+    },
+    {
+      "path": "docs/visual-restoration/live-320-expertise.jpg",
+      "bytes": 18152,
+      "sha256": "fa717df8cfd9b89e78bdda2b9ad51476a9243d0c53bce9c1bdb267c321d1bed5"
+    },
+    {
+      "path": "docs/visual-restoration/live-320-home-section-contact.jpg",
+      "bytes": 19772,
+      "sha256": "d604993925cf242b0e2cc77272c88e58a7c69b1cf5b30589c569d2b542f47803"
+    },
+    {
+      "path": "docs/visual-restoration/live-320-home-section-experience.jpg",
+      "bytes": 16691,
+      "sha256": "b52fbcb541655fbada29bac42e9e55105ff9ff2e8c9491265573299660eea660"
+    },
+    {
+      "path": "docs/visual-restoration/live-320-home.jpg",
+      "bytes": 32842,
+      "sha256": "c221d51acc58ec316369c430bb3938ffa8b0f1b409865db58cf43fe7844bf11c"
+    },
+    {
+      "path": "docs/visual-restoration/live-320-home.png",
+      "bytes": 40034,
+      "sha256": "1a315e4f6c976e8b8be0c55949aebd0f2ff4ba49a1a1a1bdda0fc308f2bbb9ff"
+    },
+    {
+      "path": "docs/visual-restoration/live-320-projects.jpg",
+      "bytes": 11032,
+      "sha256": "2acc2e11a310c7505c0378640504d955bf738f58b7960692e16f8cc003e059b8"
+    },
+    {
+      "path": "docs/visual-restoration/live-390-contact.jpg",
+      "bytes": 18416,
+      "sha256": "b653965b0490288c7656c3035de9cc1ad6a708d74b95b0fa0e8bd01cfd265c97"
+    },
+    {
+      "path": "docs/visual-restoration/live-390-experience.jpg",
+      "bytes": 18585,
+      "sha256": "9166c5136537e3406de9f3dfb632c1bf9e6f133edc53975fdcdb3a185cb32609"
+    },
+    {
+      "path": "docs/visual-restoration/live-390-expertise.jpg",
+      "bytes": 24035,
+      "sha256": "8d801d40c6a8c56f0768ef5dc0ee13476d08519e9931f250ebe7340fb2bb5bd2"
+    },
+    {
+      "path": "docs/visual-restoration/live-390-expertise.png",
+      "bytes": 28085,
+      "sha256": "02307d6d41d897018221f99adbadf3abcc7ee8d2ae13134366a531893977d573"
+    },
+    {
+      "path": "docs/visual-restoration/live-390-home-section-contact.jpg",
+      "bytes": 18416,
+      "sha256": "b653965b0490288c7656c3035de9cc1ad6a708d74b95b0fa0e8bd01cfd265c97"
+    },
+    {
+      "path": "docs/visual-restoration/live-390-home-section-experience.jpg",
+      "bytes": 18585,
+      "sha256": "9166c5136537e3406de9f3dfb632c1bf9e6f133edc53975fdcdb3a185cb32609"
+    },
+    {
+      "path": "docs/visual-restoration/live-390-home.jpg",
+      "bytes": 39967,
+      "sha256": "75c1cc99c559bb17706769bee2f1dd4bdae68095e4e6695d96ce99acaa93d133"
+    },
+    {
+      "path": "docs/visual-restoration/live-390-home.png",
+      "bytes": 40150,
+      "sha256": "567d2419c5f11ef10ed765f0cf82383211d268022fce8098ebae52655006c471"
+    },
+    {
+      "path": "docs/visual-restoration/live-390-menu.jpg",
+      "bytes": 12096,
+      "sha256": "28c5c202049705a7fc75855b2e06c99f0a3acd8081e15b690aaa64a735427c9f"
+    },
+    {
+      "path": "docs/visual-restoration/live-390-projects.jpg",
+      "bytes": 28853,
+      "sha256": "9f2da8a206f2e51a20e638fdbe7d9b2423bb31767314e9048d045d3d7c7ef419"
+    },
+    {
+      "path": "docs/visual-restoration/local-1280-contact.jpg",
+      "bytes": 66580,
+      "sha256": "5775bd7a5754827c76d23108ad4fd066d48a50c3978548ca6ba0e8967f98d6b9"
+    },
+    {
+      "path": "docs/visual-restoration/local-1280-experience.jpg",
+      "bytes": 68952,
+      "sha256": "85985a981731f29d9c98e237a6c837f69a4413b7936ac226dcf7cb221dc4f2c7"
+    },
+    {
+      "path": "docs/visual-restoration/local-1280-expertise.jpg",
+      "bytes": 72975,
+      "sha256": "cf714d0db7579947bf0b4e5015d8b0ca7e4ff45554a8916b673bd817d21d049c"
+    },
+    {
+      "path": "docs/visual-restoration/local-1280-home-section-contact.jpg",
+      "bytes": 66580,
+      "sha256": "5775bd7a5754827c76d23108ad4fd066d48a50c3978548ca6ba0e8967f98d6b9"
+    },
+    {
+      "path": "docs/visual-restoration/local-1280-home-section-experience.jpg",
+      "bytes": 70319,
+      "sha256": "a2e3ce3570f7f8f067b3d2fa9852e870948e0241574def15d78fe7b2a9cdb54b"
+    },
+    {
+      "path": "docs/visual-restoration/local-1280-home.jpg",
+      "bytes": 79849,
+      "sha256": "401489a6c99b51e27a2392bb452a0aa55db3c190ef2cfb4fa6b229d7757b5094"
+    },
+    {
+      "path": "docs/visual-restoration/local-1280-home.png",
+      "bytes": 33094,
+      "sha256": "69f933496d532359ca563bd613a62676ffdde941fc5dc972e41d6a44112dcdaa"
+    },
+    {
+      "path": "docs/visual-restoration/local-1280-projects.jpg",
+      "bytes": 83617,
+      "sha256": "8a3e60b5ff18d2935c32abff358f02366eb94bbf60be03f503393edd83b343f0"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-case-studies-happylife-tourism.jpg",
+      "bytes": 60922,
+      "sha256": "9bceef1f590b49c2259054c8f6d0cdadd8919d067995dd14c11904b6d6c69e2e"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-case-studies-n8n-acquisition-workflow.jpg",
+      "bytes": 61994,
+      "sha256": "9fa4e31554e49744f7e23fc5d7638ad653cdd55c3aa04adebfe24a70da904f7c"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-case-studies-upc-realty.jpg",
+      "bytes": 63217,
+      "sha256": "6693947f21f08366397e35ea30ccaa882afbce536de00ee9ec5895f3cca173f9"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-case-studies.jpg",
+      "bytes": 76004,
+      "sha256": "4526b3c609128ec4b6129c49daae7c1e2765e6a0eab6d801a638eddcf9b383eb"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-contact.jpg",
+      "bytes": 61976,
+      "sha256": "95370817cae1492809d48e2fbc100f4157f65f3fe1be0d1a94c473b06df86ada"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-contact.png",
+      "bytes": 57506,
+      "sha256": "8728a73dd14afad227acc83dad9c017cdb6bb13374f52e4c509130cc10ad2261"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-experience.jpg",
+      "bytes": 56452,
+      "sha256": "e2e67710978bfea19d4a7784d2ef4451b60d9dbed3d8fb79ebc3144d8747afb1"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-experience.png",
+      "bytes": 62287,
+      "sha256": "3f6de0f64d0a2963077ae31625c8986013b10e11238e5580a3828a1b914f2560"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-expertise.jpg",
+      "bytes": 74673,
+      "sha256": "cf6bd56e17a75982a597c2c4aa8911580d7e5946aaad85036b364ba002d5be05"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-expertise.png",
+      "bytes": 65886,
+      "sha256": "8cf3c4363f143bed1a454b1abd657d60aee6e526542edb81a7912fbe12954f7b"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-home-section-contact.jpg",
+      "bytes": 68260,
+      "sha256": "c70b2a75f0d5e24442e3f53c9b7f4286e1143e85d551f19beeb65cc13261c72a"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-home-section-experience.jpg",
+      "bytes": 71700,
+      "sha256": "29242533b15b29c19fd5603538f00236e6f9ea394bef434d88bb6fe3aab93173"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-home.jpg",
+      "bytes": 81518,
+      "sha256": "38ff549f8984dbf84cb02ad4ed79b44091ccdfe72d042d82c3995bdfeba53856"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-home.png",
+      "bytes": 84232,
+      "sha256": "90c3633169f0342d6d98f213139f3a3889a69730a22c8a082ec6cdad9cc8e4e0"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-infrastructure.jpg",
+      "bytes": 108579,
+      "sha256": "7064749f1a0e6a14d7f0ddff87975857f6baae34c3bfd565e9013dfe18cca317"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-privacy.jpg",
+      "bytes": 69633,
+      "sha256": "e701db074b4e2061b5b794c42f8e783d674e736171d7e97c1d3753e781414ff9"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-project-hover.jpg",
+      "bytes": 79091,
+      "sha256": "2da4a811f8ba9cfe73eb922fb9d3fc0bcd5dd59042f2f9a99c89678331794814"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-projects.jpg",
+      "bytes": 85583,
+      "sha256": "133d42c5cccf712ff821e11f8f0a6b885f2da2e863b3e1915fbde71cbc458b97"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-projects.png",
+      "bytes": 80142,
+      "sha256": "cccf242185b49fe42abfed71ae70ea6e2d19817be99fcd1a60f56948d66bd2fe"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-skills.jpg",
+      "bytes": 84064,
+      "sha256": "05c313929ba1ef53956b987b8482d902d904015587aca08187febb2219b1f06e"
+    },
+    {
+      "path": "docs/visual-restoration/local-1440-work.jpg",
+      "bytes": 63158,
+      "sha256": "09b48dc368bc7a77b5a07eb3f187b39aa3f1e66cf4d0e4b6dfdd397f73ca842b"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-404.jpg",
+      "bytes": 20283,
+      "sha256": "1c7b286e02331fdacae1ab88e9d0b0ec15a3cc8d4a2d29d67686a8f671342d74"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-case-studies-happylife-tourism.jpg",
+      "bytes": 25098,
+      "sha256": "b58b507ff132555f8a928bdf2e36bce132a29caf13ef54dedf3c1217da35dfdb"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-case-studies-n8n-acquisition-workflow.jpg",
+      "bytes": 29382,
+      "sha256": "ac3fb4ed91aeeb8b0395afd955c7d35b0d6c0fc2b541f3201a69f65b4bbc9a61"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-case-studies-upc-realty.jpg",
+      "bytes": 25128,
+      "sha256": "2433d65187ec3ba09196b1a11c7ed8c88e77f17018246d7198b3106d87dae13c"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-case-studies.jpg",
+      "bytes": 23682,
+      "sha256": "c57e766285d60166777e9467c4a8adb218b72852d31d0c6c020998aa51d31082"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-contact.jpg",
+      "bytes": 22750,
+      "sha256": "e363ca43936f52dc3ea1d677562d102ed49cc2e6db428b649e57050ca72c7024"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-experience.jpg",
+      "bytes": 22079,
+      "sha256": "11bb94a9d900cdb79ee459595ceefbd64a6072701482283bab8812254211dcc2"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-expertise.jpg",
+      "bytes": 20042,
+      "sha256": "941c696c286a8f075cc5dfff1517013757617deab91374a79720197d3e4b9fdb"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-home-section-contact.jpg",
+      "bytes": 17676,
+      "sha256": "a3a77f0c68affd0561f41d74ec6bebaa6f5693786270d2d79c69594aebe61dcd"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-home-section-experience.jpg",
+      "bytes": 19217,
+      "sha256": "ccad3441433a56cd90696f3080915e8fc070bf988f37cb8d1127281ceb9566d9"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-home.jpg",
+      "bytes": 30744,
+      "sha256": "c996ab12efb4fef8b8b173a7ac0dea93508f3600ee1898d86e55c7e1a58ac01f"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-privacy.jpg",
+      "bytes": 28838,
+      "sha256": "35da5cbab9525e022ed4889113420944ef7e7921701e214a083be0b96095c05f"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-projects.jpg",
+      "bytes": 22217,
+      "sha256": "35f4df0a0f30276f923868f930e10b7167de993445ef136e924e4739c0f025e7"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-upc-decisions.jpg",
+      "bytes": 32101,
+      "sha256": "a253226aa726c57f10783090f73e10903b7dde2b4faf876f766fc3f11c4b0d22"
+    },
+    {
+      "path": "docs/visual-restoration/local-320-work.jpg",
+      "bytes": 19950,
+      "sha256": "e055f34ea7ce308ead5108f32520fd13927e7f0d4721f29f5df597208593aa78"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-case-studies-happylife-tourism.jpg",
+      "bytes": 26339,
+      "sha256": "623a888853fd704a30d0144412ea1cfc935ed1177311479c7697c16f1a060d7b"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-case-studies-n8n-acquisition-workflow.jpg",
+      "bytes": 32836,
+      "sha256": "81f386ecb75ddbf2d8e433ba4641563944b87eb79a68dd9d6878e419736c5578"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-case-studies-upc-realty.jpg",
+      "bytes": 27333,
+      "sha256": "2dcf5997b241d7d8f8d6ba05934db2cfff6dda6877f98a3a38d4fcbcfd754d05"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-case-studies.jpg",
+      "bytes": 33756,
+      "sha256": "ef45d57f051692ef28b693577d18a644824ad904d582dc6671f654fdb52b9c4a"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-contact.jpg",
+      "bytes": 33242,
+      "sha256": "2a9fafd27394ae101516abd6b0410498e5467eea477f7ba354ac15f28631172a"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-experience.jpg",
+      "bytes": 25165,
+      "sha256": "14828bbdbbbe7e71883bcbe650301931c613651f7b461c0341ad02ca01c501eb"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-expertise.jpg",
+      "bytes": 26140,
+      "sha256": "fd76cd5783569689c7762b4590e0948866d8eee79ab0ef9fd3e1dc8d63f77598"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-home-section-contact.jpg",
+      "bytes": 28574,
+      "sha256": "b2ad587016546138a5655ca0b7a0c9bd6b73851ece8c084f4565c1c297f769ae"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-home-section-experience.jpg",
+      "bytes": 33876,
+      "sha256": "7a6e83da61c2d1a6666afc04f5560606cbd1eb8427d5fa7457a2379ef8d95cdb"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-home.jpg",
+      "bytes": 35255,
+      "sha256": "66d0a22419de652ec0806a1f92fc0059a07309c974a2c9ea6b3409a5f9e2232f"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-menu.jpg",
+      "bytes": 11126,
+      "sha256": "68847ac4ed820bdd81854b5966a7d40421da036f1d92c153b917fef51b4a86a1"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-privacy.jpg",
+      "bytes": 40696,
+      "sha256": "7f16bad878209aa648fc94d3f6f1c3298f83be5a1f9a1dc50da983234b5dbe0c"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-projects.jpg",
+      "bytes": 30526,
+      "sha256": "76d8d20002989992c9c75790bd94c8eb0b4332869c613b84772b61acf79fadf8"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-skills.jpg",
+      "bytes": 27949,
+      "sha256": "7c86ae8dfe7fd70cb96522c54fbf70bf57a5a5c090ec4cb8441d224d7bed2550"
+    },
+    {
+      "path": "docs/visual-restoration/local-390-work.jpg",
+      "bytes": 26958,
+      "sha256": "a10b35bbfe8ad3192a1803f02e99b6455b431197b1481da95905c4eabcdabd61"
+    },
+    {
+      "path": "docs/visual-restoration/measurements.json",
+      "bytes": 4397,
+      "sha256": "62fbc6b89c88f771af223b28318fdfe4479b56b307a0fa3c499e38bf1de8a94b"
+    },
+    {
+      "path": "docs/visual-restoration/route-checks.json",
+      "bytes": 4844,
+      "sha256": "733aa6a4a32b7ba149909dd9296e729abe97977db975fb545a5753c29825dfe6"
+    },
+    {
+      "path": "docs/visual-restoration/typing-check.json",
+      "bytes": 757,
+      "sha256": "71e0eab8293a2e53200d42d6a8d8ea081175f7dd614bde9a41d68f8f2abd54ef"
+    },
+    {
+      "path": "docs/VISUAL_RESTORATION.md",
+      "bytes": 17268,
+      "sha256": "ffc21b5da35f630db49f50d61e47a5a9d5aafcf47fde2f82dfc7fd6550799f13"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "bytes": 655,
+      "sha256": "c9b864a468f515adcb58c1cf18db2b44406c8e0dc4be64908e57d95193498e00"
+    },
+    {
+      "path": "output/portfolio-hostinger.zip",
+      "bytes": 11540534,
+      "sha256": "f2e57fbef7ccfcaa771d7c19f305af77e727246a77ad7c9cff637d9ea8efc14b"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 263053,
+      "sha256": "114249bf119a79f7bec399deaab395c0d9a9814255aeed2b6f670ce604ce2c64"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1163,
+      "sha256": "a69c79d855dc2cf00d59d7ede832de536d1c3a71b75681b8794404a5727cfd1b"
+    },
+    {
+      "path": "public/.htaccess",
+      "bytes": 1453,
+      "sha256": "d946fe2936bfcc0000687a522dded3806dc71b2f8afe463bf9637f023a535d04"
+    },
+    {
+      "path": "public/assets/images/contact-me.webp",
+      "bytes": 116812,
+      "sha256": "ec35c66c9edf5cf714eb15d03cc4f42c4b682555728b322738e47180cd285b05"
+    },
+    {
+      "path": "public/assets/images/favicon.png",
+      "bytes": 2550,
+      "sha256": "683723254da3a658682045ef944ba47bcf3937fcb729ac861d04ff2a9618c025"
+    },
+    {
+      "path": "public/assets/images/hero-profile.webp",
+      "bytes": 252680,
+      "sha256": "583089881c0ab37be1ceef336133a0bb3690e87a4f80b44a132f56130d5f62f1"
+    },
+    {
+      "path": "public/assets/images/my-logo.png",
+      "bytes": 5869,
+      "sha256": "f01adba02710f1a95a41884c27826eeda4d6c396fa2e581bb803ed7b26415839"
+    },
+    {
+      "path": "public/assets/images/optimized/alarabi-publishing-480.webp",
+      "bytes": 74922,
+      "sha256": "66e97921ba80d3e2961eeda7c94a6f05d03365813303224cac2977c8edb9eef1"
+    },
+    {
+      "path": "public/assets/images/optimized/alarabi-publishing-800.webp",
+      "bytes": 147506,
+      "sha256": "eb31145270d046b7a77f0647fe5cbb1760b88d0dfa4c7755618406c67437097f"
+    },
+    {
+      "path": "public/assets/images/optimized/almaza-travel-480.webp",
+      "bytes": 97020,
+      "sha256": "1b617e10015401923971c3eaf88f601009698d6bb5c137a4d93ca2408749d353"
+    },
+    {
+      "path": "public/assets/images/optimized/almaza-travel-800.webp",
+      "bytes": 97020,
+      "sha256": "1b617e10015401923971c3eaf88f601009698d6bb5c137a4d93ca2408749d353"
+    },
+    {
+      "path": "public/assets/images/optimized/assafco-480.webp",
+      "bytes": 86268,
+      "sha256": "fa623b6986aa9c1881e14281f6eaf14837c13f8bad3e2a1b3601a78332b811e0"
+    },
+    {
+      "path": "public/assets/images/optimized/assafco-800.webp",
+      "bytes": 86268,
+      "sha256": "fa623b6986aa9c1881e14281f6eaf14837c13f8bad3e2a1b3601a78332b811e0"
+    },
+    {
+      "path": "public/assets/images/optimized/contact-me-480.webp",
+      "bytes": 13430,
+      "sha256": "97ba24188115ac6e3baaee648f5981bb4ca96b82b1759b76c348cacc4f6fe1f9"
+    },
+    {
+      "path": "public/assets/images/optimized/contact-me-800.webp",
+      "bytes": 25522,
+      "sha256": "f7ec4740454a480f161489877013c6d6ad1a1b8081d55363ca80221dfd321099"
+    },
+    {
+      "path": "public/assets/images/optimized/cottonil-ae-480.webp",
+      "bytes": 101058,
+      "sha256": "afd1185572c762a3e79b4d17c7942d454df86634e1235efdff27b1b6b470e5d5"
+    },
+    {
+      "path": "public/assets/images/optimized/cottonil-ae-800.webp",
+      "bytes": 101058,
+      "sha256": "afd1185572c762a3e79b4d17c7942d454df86634e1235efdff27b1b6b470e5d5"
+    },
+    {
+      "path": "public/assets/images/optimized/elbagour-egypt-480.webp",
+      "bytes": 43792,
+      "sha256": "d364d9cff1479e29fba778e60176b7bc171bbbfdd597ff09663e6ab0791ea08b"
+    },
+    {
+      "path": "public/assets/images/optimized/elbagour-egypt-800.webp",
+      "bytes": 85138,
+      "sha256": "6e19cf83d7691b21bfb85b3e43bbae3f31489394e31ccf6467fb7430f66af178"
+    },
+    {
+      "path": "public/assets/images/optimized/essentials-eg-480.webp",
+      "bytes": 71506,
+      "sha256": "089e81811e73a4f17ca8415825e8d6ebd1c9941125f6d6461f8b3a5a9e9c0f9b"
+    },
+    {
+      "path": "public/assets/images/optimized/essentials-eg-800.webp",
+      "bytes": 71506,
+      "sha256": "089e81811e73a4f17ca8415825e8d6ebd1c9941125f6d6461f8b3a5a9e9c0f9b"
+    },
+    {
+      "path": "public/assets/images/optimized/eve-chantelle-480.webp",
+      "bytes": 72228,
+      "sha256": "3339978336ffdbfec1dd3249b560ee99d1353c4b419fb4d58b9f8731aabd2806"
+    },
+    {
+      "path": "public/assets/images/optimized/eve-chantelle-800.webp",
+      "bytes": 92424,
+      "sha256": "ff4b1f342e11dac51f2f7f57905c24ca5f716fabeaade5810a99501521416cdc"
+    },
+    {
+      "path": "public/assets/images/optimized/graphi-core-480.webp",
+      "bytes": 42848,
+      "sha256": "d7d213b909c78c5badc07e8229e46db3e11ceba99448863dda1529a707451345"
+    },
+    {
+      "path": "public/assets/images/optimized/graphi-core-800.webp",
+      "bytes": 54682,
+      "sha256": "341380324e3fc6c655a1562995c00a934948d2a476f1c25a1e310e73b0344267"
+    },
+    {
+      "path": "public/assets/images/optimized/happylife-tourism-480.webp",
+      "bytes": 48820,
+      "sha256": "886ff4fccc086a5da6fe93d169f346059654e8a730d5b307622ac878bc00b9b1"
+    },
+    {
+      "path": "public/assets/images/optimized/happylife-tourism-800.webp",
+      "bytes": 68610,
+      "sha256": "0acdc1a7d45251769d543fa3d45d08a7eb194abb00d723c2af870148ebdd971d"
+    },
+    {
+      "path": "public/assets/images/optimized/helm-egypt-480.webp",
+      "bytes": 91470,
+      "sha256": "09104ab25d4f3d4118c4231b78684e53d6557bcdf5586e5292f8ca9d60a67d6d"
+    },
+    {
+      "path": "public/assets/images/optimized/helm-egypt-800.webp",
+      "bytes": 110560,
+      "sha256": "7ec4bf88e0d038fd15604f3854be77e7c56098ad675feed6143395ef3bbaa75e"
+    },
+    {
+      "path": "public/assets/images/optimized/hero-profile-480.webp",
+      "bytes": 26780,
+      "sha256": "ad5649269cd7f7a6811c947246d4c41a07e15040f8d2d2110c8e996837c76e19"
+    },
+    {
+      "path": "public/assets/images/optimized/hero-profile-800.webp",
+      "bytes": 59294,
+      "sha256": "2ed6d0c5a6928eadeab4c1564f547c67d035e9fe88a087ba8164b766f841ed71"
+    },
+    {
+      "path": "public/assets/images/optimized/jazeel-480.webp",
+      "bytes": 79134,
+      "sha256": "624c2234d6eed587885e5ee1ceafb21640603e7e6ca68021cfb0e16505e93ee2"
+    },
+    {
+      "path": "public/assets/images/optimized/jazeel-800.webp",
+      "bytes": 119448,
+      "sha256": "ec5ed82a229a79820b89ced32b57bf6a27df9734e615ae0c71d444b459516b9e"
+    },
+    {
+      "path": "public/assets/images/optimized/jcguide-travel-480.webp",
+      "bytes": 69778,
+      "sha256": "f8e448efd89e1185f8373b8ae99de7c5bafe53d83d5923eba3db911bb78424e9"
+    },
+    {
+      "path": "public/assets/images/optimized/jcguide-travel-800.webp",
+      "bytes": 149386,
+      "sha256": "f6eb328c8f245cfa670e6fedaaff6696bdf892f9b26fa512eadd5f535e76a2df"
+    },
+    {
+      "path": "public/assets/images/optimized/just-mention-it-480.webp",
+      "bytes": 40262,
+      "sha256": "f77ec694b62dce7b6fbada0de1da8c5bcbc1e2eab5ee7711c41a284fcd52e204"
+    },
+    {
+      "path": "public/assets/images/optimized/just-mention-it-800.webp",
+      "bytes": 80562,
+      "sha256": "a15dd3185fd9e9bb5af1d3fb25130964654c31fe613424300578b5ede3d2504c"
+    },
+    {
+      "path": "public/assets/images/optimized/laguna-global-480.webp",
+      "bytes": 57750,
+      "sha256": "f7f9cdece4f9611ab7c48448b03dc2593b76fd65416eafe9d0334fa722d633d9"
+    },
+    {
+      "path": "public/assets/images/optimized/laguna-global-800.webp",
+      "bytes": 120184,
+      "sha256": "5dc9908af843a8d23f15b1c890b094215feef95e0e50f7cba398f2ac11929fbf"
+    },
+    {
+      "path": "public/assets/images/optimized/lmd-egypt-480.webp",
+      "bytes": 82260,
+      "sha256": "b4275aafc4b15ea1789ac7bb5cb737886a1672d6fb297e28549e951eab496e52"
+    },
+    {
+      "path": "public/assets/images/optimized/lmd-egypt-800.webp",
+      "bytes": 99172,
+      "sha256": "3ddad019642741727f22b16e1de9c998aba53cddcce85ab1b0ed001efb83aa42"
+    },
+    {
+      "path": "public/assets/images/optimized/lmd-uae-480.webp",
+      "bytes": 76394,
+      "sha256": "1601ab7d7a09e767d603a5f7823f6736f6d3f28ecd9ca9562bb877fe8eb2ec80"
+    },
+    {
+      "path": "public/assets/images/optimized/lmd-uae-800.webp",
+      "bytes": 90928,
+      "sha256": "0b251a2540512d0d3bd60a12c33b4f87828fb6d792eaaeae8c37f7c18d9e4466"
+    },
+    {
+      "path": "public/assets/images/optimized/meka-egypt-tours-480.webp",
+      "bytes": 52684,
+      "sha256": "e542f1d6e773a9c10c59efe37fcb2ac6739a815511bb158478e65b5c7439d5d8"
+    },
+    {
+      "path": "public/assets/images/optimized/meka-egypt-tours-800.webp",
+      "bytes": 52684,
+      "sha256": "e542f1d6e773a9c10c59efe37fcb2ac6739a815511bb158478e65b5c7439d5d8"
+    },
+    {
+      "path": "public/assets/images/optimized/miftah-alhuda-480.webp",
+      "bytes": 39594,
+      "sha256": "dabe1e55ba75181dcc6fa1afa526145b44591cb1c22fef30dde82226023f35a2"
+    },
+    {
+      "path": "public/assets/images/optimized/miftah-alhuda-800.webp",
+      "bytes": 80946,
+      "sha256": "8d9cb1af1d5e0f7b21ea4193c712b1fc0e46fa2a1278f1f06b26f728158bc795"
+    },
+    {
+      "path": "public/assets/images/optimized/motorsports-hub-480.webp",
+      "bytes": 56038,
+      "sha256": "c3a83f655eac3f06048a6d74b27f0c6fadf41f038b7780eb08f452a4bbff4042"
+    },
+    {
+      "path": "public/assets/images/optimized/motorsports-hub-800.webp",
+      "bytes": 93426,
+      "sha256": "9f9f319b2bf5ac616ca3e88e243c435334ce0d195310c776fe09df8da2382c2e"
+    },
+    {
+      "path": "public/assets/images/optimized/mrowa-store-480.webp",
+      "bytes": 85742,
+      "sha256": "73ef32e024fb88aaae0dec590b897577e19e131395f599544af220f47a8c2b4e"
+    },
+    {
+      "path": "public/assets/images/optimized/mrowa-store-800.webp",
+      "bytes": 117998,
+      "sha256": "81ac0c52279ff6d644ab0604101c30556397bddfd82a3e0d22dc22bbeb11d7dc"
+    },
+    {
+      "path": "public/assets/images/optimized/novacure-480.webp",
+      "bytes": 22954,
+      "sha256": "274b4bd210d125d6a1a53dc89dcd60546fe227323f66ab83c3371057dbe83df4"
+    },
+    {
+      "path": "public/assets/images/optimized/novacure-800.webp",
+      "bytes": 44830,
+      "sha256": "3e351e5fe9eb3b9b2b9b4ad73cf70a724eefcb6bcf4878918bf3aae4d667efcb"
+    },
+    {
+      "path": "public/assets/images/optimized/pangulf-steel-480.webp",
+      "bytes": 34800,
+      "sha256": "1fa57c2e93d464631bf5be9a0babe9d5e48307cd2fd0071601735316a196314a"
+    },
+    {
+      "path": "public/assets/images/optimized/pangulf-steel-800.webp",
+      "bytes": 74414,
+      "sha256": "33739696aa8e29264005051b0adc80e19bba0efdbaf432c4f035dc133718f679"
+    },
+    {
+      "path": "public/assets/images/optimized/quantum-pharma-480.webp",
+      "bytes": 39768,
+      "sha256": "27ef093b4605dcafe82c19d7cf7e0cf884f35fe7144a79aacf938afa68a0ff0f"
+    },
+    {
+      "path": "public/assets/images/optimized/quantum-pharma-800.webp",
+      "bytes": 66568,
+      "sha256": "ea18818619349817c20572219f89eebba777b4e7d978c0478694d1ab29681409"
+    },
+    {
+      "path": "public/assets/images/optimized/red-cotton-480.webp",
+      "bytes": 62460,
+      "sha256": "5845bf0515d619c52c28e175c8d3a0049e88aa7f14ca959c55edeb6b6aaf673a"
+    },
+    {
+      "path": "public/assets/images/optimized/red-cotton-800.webp",
+      "bytes": 94904,
+      "sha256": "89c02c215f2cc0128e10838869c96db130a0f9c4dc22b402083d283d1ecdcdb0"
+    },
+    {
+      "path": "public/assets/images/optimized/sheffield-eg-480.webp",
+      "bytes": 64644,
+      "sha256": "110fd0d5cd37e30a62a048515fd7f09cacaaca59a8293f70a6ba57cd782c5d5e"
+    },
+    {
+      "path": "public/assets/images/optimized/sheffield-eg-800.webp",
+      "bytes": 64644,
+      "sha256": "110fd0d5cd37e30a62a048515fd7f09cacaaca59a8293f70a6ba57cd782c5d5e"
+    },
+    {
+      "path": "public/assets/images/optimized/soficopharm-480.webp",
+      "bytes": 28108,
+      "sha256": "20305de6bb800a2017c06d3ffaae22cbaf384e13d7efdd13714ca0a1779815f1"
+    },
+    {
+      "path": "public/assets/images/optimized/soficopharm-800.webp",
+      "bytes": 56816,
+      "sha256": "604334b4f96a24de0fd70d72da424a976a6823820a860e46acf81d789910d9e6"
+    },
+    {
+      "path": "public/assets/images/optimized/tawasol-egypt-480.webp",
+      "bytes": 44020,
+      "sha256": "850600650864b94847db81af170f1005684268f3a62a86dcc7f3106105c55a8f"
+    },
+    {
+      "path": "public/assets/images/optimized/tawasol-egypt-800.webp",
+      "bytes": 85818,
+      "sha256": "c150d7dffd5063f24792b13d6775ded1f6714971930cce87625a1f68bf048d36"
+    },
+    {
+      "path": "public/assets/images/optimized/upcrealty-480.webp",
+      "bytes": 55670,
+      "sha256": "0ef764917d5c428bec66c4adc566ec987e8c86010c75910ac716c7fe83d7bfb9"
+    },
+    {
+      "path": "public/assets/images/optimized/upcrealty-800.webp",
+      "bytes": 115396,
+      "sha256": "8f0ac2d8fccb20b1911cbfad32d18b62fd9b12a28122c6f325cc26b2b5852a22"
+    },
+    {
+      "path": "public/assets/images/optimized/wayup-sports-480.webp",
+      "bytes": 76748,
+      "sha256": "9892a7eead59265a29e627b0e420ea30c8f6962db130681fa224c1bbf7850ad2"
+    },
+    {
+      "path": "public/assets/images/optimized/wayup-sports-800.webp",
+      "bytes": 76748,
+      "sha256": "9892a7eead59265a29e627b0e420ea30c8f6962db130681fa224c1bbf7850ad2"
+    },
+    {
+      "path": "public/assets/images/optimized/ye-firm-480.webp",
+      "bytes": 22296,
+      "sha256": "9367e485d458579b2d83218f34381d538dec22dcad9edbd045dd0cf2962bc61a"
+    },
+    {
+      "path": "public/assets/images/optimized/ye-firm-800.webp",
+      "bytes": 46106,
+      "sha256": "87cb08b44bc5d1f0470775b3ae071a9d05f9316a40bce77a183c41837dfcf833"
+    },
+    {
+      "path": "public/assets/images/optimized/zamzam-store-480.webp",
+      "bytes": 49874,
+      "sha256": "df7115c1a2ee5c11e5759ff9239a72c9752374499ee3784ab2030e61722ef79e"
+    },
+    {
+      "path": "public/assets/images/optimized/zamzam-store-800.webp",
+      "bytes": 102448,
+      "sha256": "72521659374d70cd745f684325a7a465f82a24a75d2432724bacfc22a0f98f1d"
+    },
+    {
+      "path": "public/assets/images/projects/alarabi-publishing.webp",
+      "bytes": 273550,
+      "sha256": "b22248aa6811554c3e03192f3b1624348a4b53bfee06b265450e80590eed786e"
+    },
+    {
+      "path": "public/assets/images/projects/almaza-travel.webp",
+      "bytes": 166808,
+      "sha256": "6e43e0e6ae0fe2c6cf5877b8f12c4c9ab8e441cb21690fe4d29f11ed0a0d9074"
+    },
+    {
+      "path": "public/assets/images/projects/assafco.webp",
+      "bytes": 148172,
+      "sha256": "f5803f931413d54fdcc904c13a88c0eef9e541105a57b552514912921a5dc89b"
+    },
+    {
+      "path": "public/assets/images/projects/cottonil-ae.webp",
+      "bytes": 174318,
+      "sha256": "c499f20d12f400da5e83a7b20e190cdbd111ded72e59d9fe7c755cd1220ac915"
+    },
+    {
+      "path": "public/assets/images/projects/elbagour-egypt.webp",
+      "bytes": 182594,
+      "sha256": "fd2276a815c0caa87ba2ab12b3160f692d9f475be52268193671cfc8845e5688"
+    },
+    {
+      "path": "public/assets/images/projects/essentials-eg.webp",
+      "bytes": 134182,
+      "sha256": "27a1b0f2b8e62fe0e4059adc81bcc539a68d5385e12a0db202f13844bc9c4b68"
+    },
+    {
+      "path": "public/assets/images/projects/eve-chantelle.webp",
+      "bytes": 173446,
+      "sha256": "5429dc41a7d5e547074de77c1d18d618471d910e35ce7dd042769ef575660367"
+    },
+    {
+      "path": "public/assets/images/projects/graphi-core.webp",
+      "bytes": 88744,
+      "sha256": "08254fb73d73018f587d461a8077e7806b614d3700665efebcd88ccaa6c69c33"
+    },
+    {
+      "path": "public/assets/images/projects/happylife-tourism.webp",
+      "bytes": 120534,
+      "sha256": "b1ee3afbfb863fda4f4cdd57fdfc19b2272c4dca7dc8c55dada37bfcf71f823d"
+    },
+    {
+      "path": "public/assets/images/projects/helm-egypt.webp",
+      "bytes": 199786,
+      "sha256": "02b9801a252567fd8ea1cae15604c0189a6f3f3004d4d7e7f85de8be1d074475"
+    },
+    {
+      "path": "public/assets/images/projects/jazeel.webp",
+      "bytes": 203810,
+      "sha256": "5df837c71313bc8de2e428356c78242fc6e95fa50305aa83c5160b149f1642d2"
+    },
+    {
+      "path": "public/assets/images/projects/jcguide-travel.webp",
+      "bytes": 271574,
+      "sha256": "d7fe4dd6fc023e5e48ff92578aa04dd59632ee00696da3b0520e25a32d72b007"
+    },
+    {
+      "path": "public/assets/images/projects/just-mention-it.webp",
+      "bytes": 217476,
+      "sha256": "4f841f5d6fedb9c61ce77cb646e16029055324b1cf5d6cb60b7a616fb7033805"
+    },
+    {
+      "path": "public/assets/images/projects/laguna-global.webp",
+      "bytes": 212292,
+      "sha256": "2ddb328cf5dcdfad5555f9be8c0d519c46eb8d5af75ec1635925e8a995deab9d"
+    },
+    {
+      "path": "public/assets/images/projects/lmd-egypt.webp",
+      "bytes": 184098,
+      "sha256": "a14cec6ff38628f20408e77c78254695813eac206cb8c5d2b80de671e7678160"
+    },
+    {
+      "path": "public/assets/images/projects/lmd-uae.webp",
+      "bytes": 171982,
+      "sha256": "64707f2dd6061110245450bc6c289a29e8ed670182eb25401e4a2fbf3c7a98fb"
+    },
+    {
+      "path": "public/assets/images/projects/meka-egypt-tours.webp",
+      "bytes": 98306,
+      "sha256": "4a16b4bc2dff82db203e9453be3052db025d3d552bc78907726581c71b130566"
+    },
+    {
+      "path": "public/assets/images/projects/miftah-alhuda.webp",
+      "bytes": 138630,
+      "sha256": "fc6798f28368dce5f36732444b73d88eb7116b9f133f7af21af22237147a1585"
+    },
+    {
+      "path": "public/assets/images/projects/motorsports-hub.webp",
+      "bytes": 163318,
+      "sha256": "1274912938a99361f653a3d239d90ed7c7ed5e3d33e84528d878a651a747809b"
+    },
+    {
+      "path": "public/assets/images/projects/mrowa-store.webp",
+      "bytes": 220346,
+      "sha256": "3fef16b61b85e2be7dab7fbba0a7e11831f571d929c0e2766fe275d3c3f5c757"
+    },
+    {
+      "path": "public/assets/images/projects/novacure.webp",
+      "bytes": 146922,
+      "sha256": "ec24c30f1729ea31148364cf8e27e352d039fa9d1e99b1ad556e83c80c067dfd"
+    },
+    {
+      "path": "public/assets/images/projects/pangulf-steel.webp",
+      "bytes": 295006,
+      "sha256": "43f4f899e0d667aa79fce7261d9c258f0357cef555d0ba71277108f39585043b"
+    },
+    {
+      "path": "public/assets/images/projects/quantum-pharma.webp",
+      "bytes": 119940,
+      "sha256": "01dfc3277a78c181ad632b8e5e98c18c1dae1e978ccf7a74764cd8104c288052"
+    },
+    {
+      "path": "public/assets/images/projects/red-cotton.webp",
+      "bytes": 173030,
+      "sha256": "09da5cd5bce5bf8ea2f9c7d972ef8575af08e9e89781950cfb19914bba703e15"
+    },
+    {
+      "path": "public/assets/images/projects/sheffield-eg.webp",
+      "bytes": 112450,
+      "sha256": "c62ff47a620039f01c27b8846f49401fdff2183551fa40903c81e826a975f6f4"
+    },
+    {
+      "path": "public/assets/images/projects/soficopharm.webp",
+      "bytes": 119738,
+      "sha256": "33370117d7a55417051c01f09c145c409b82ba8d8f40c752024177908d9c0488"
+    },
+    {
+      "path": "public/assets/images/projects/tawasol-egypt.webp",
+      "bytes": 172838,
+      "sha256": "68d240f3360b162d6b1fc529de4136d6f4d701768626777c64d5f858f419d266"
+    },
+    {
+      "path": "public/assets/images/projects/upcrealty.webp",
+      "bytes": 208082,
+      "sha256": "96571ef8499d7e030f4680cc626be0ad04858f448c2a930810aea456c86d19c7"
+    },
+    {
+      "path": "public/assets/images/projects/wayup-sports.webp",
+      "bytes": 125172,
+      "sha256": "e9a4aa1a1cc34cac2284f5ca8ec2a4ffe353531629801af397305e1d1526aef8"
+    },
+    {
+      "path": "public/assets/images/projects/ye-firm.webp",
+      "bytes": 163830,
+      "sha256": "c45b309312453a07b75add8bbfb62db69bcc5a3167450e0f3bb013f388f3ab0f"
+    },
+    {
+      "path": "public/assets/images/projects/zamzam-store.webp",
+      "bytes": 231846,
+      "sha256": "dfacc7bc9d83b8af5dcc581288fe6daa5804d6a12cb10121748984f413849eaa"
+    },
+    {
+      "path": "public/assets/images/social-card.png",
+      "bytes": 52037,
+      "sha256": "df003e7789e822f1d81eedb24b8287010c11b0b6987a38f6f0292c0ca3ac1f90"
+    },
+    {
+      "path": "public/assets/mahmoud-fawzy c.v.pdf",
+      "bytes": 893937,
+      "sha256": "5e2a186f8092904d4ec11dbc6ee82f1791c765a8d4d789f42af709547bd51a81"
+    },
+    {
+      "path": "public/robots.txt",
+      "bytes": 80,
+      "sha256": "7ab5589024aa82b870269997911c8bd186005b94cd945d220ed3d69756eddd44"
+    },
+    {
+      "path": "public/_astro/.htaccess",
+      "bytes": 249,
+      "sha256": "0a06b91c63c8bc8ceb16271490e727484ab0df880049005b694ca25589f1e16b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2030,
+      "sha256": "9120867a7e137cc9bd6855a1878541ceed9e1221b133a992f529ece9df2c4d9a"
+    },
+    {
+      "path": "scripts/measure-build.mjs",
+      "bytes": 1900,
+      "sha256": "ee58f4aeb8a794638fca01f3c1bad85e6ab6bd10baf2d88167a84a5f12abf05d"
+    },
+    {
+      "path": "scripts/package-hostinger.mjs",
+      "bytes": 1193,
+      "sha256": "dd8fd7b0f12cacf0f1f35e51481031eb7747a9b2e93b419a7778bb617c622538"
+    },
+    {
+      "path": "scripts/prepare-assets.mjs",
+      "bytes": 2020,
+      "sha256": "dea1fa26a1af73cfdb600138297800840ec2c15425c2194aabb7d04c34c2a7ef"
+    },
+    {
+      "path": "scripts/static-server.mjs",
+      "bytes": 2060,
+      "sha256": "6f167e2100315f409e8aba87382b2083df3497b85a69997e693c605deaba5604"
+    },
+    {
+      "path": "scripts/verify-http.mjs",
+      "bytes": 2475,
+      "sha256": "415309d515073ff64e9cfdcc3b77482c815550fa5fcda65fbc0dcd87e02267a5"
+    },
+    {
+      "path": "scripts/verify-static.mjs",
+      "bytes": 7643,
+      "sha256": "8a028ead3820b6a096c0b4b4329e0dccd459994a8439b0bdd6bec46ff2d000f0"
+    },
+    {
+      "path": "src/assets/hero.png",
+      "bytes": 13057,
+      "sha256": "881ffbcaafc212e49addad08846a5b82761355fa20624253af3477ba33262c5c"
+    },
+    {
+      "path": "src/components/CaseStudyCard.astro",
+      "bytes": 1511,
+      "sha256": "fc82604275f75f80ccecdd908b5d60f0ac1ef9fb7cf46614964c8716ec8909c2"
+    },
+    {
+      "path": "src/components/ContactSection.astro",
+      "bytes": 2473,
+      "sha256": "9f391074ac2f71064d01a4e589720fd0474bc496fe2d0305f2483e13d950bf5d"
+    },
+    {
+      "path": "src/components/ExperienceList.astro",
+      "bytes": 770,
+      "sha256": "266669429699924a0278bcb946623542b0ff95d66ba7a19430e1f04b5820faed"
+    },
+    {
+      "path": "src/components/Footer.astro",
+      "bytes": 543,
+      "sha256": "6c27dc7a9c2f4a967d46f0282998302e00873b1975e28a11b57b8a480c184673"
+    },
+    {
+      "path": "src/components/Header.astro",
+      "bytes": 1785,
+      "sha256": "0a2807cbafcb9ece1b096f96cf753dc834ff350edaf0f95efd9e665d560e3bc1"
+    },
+    {
+      "path": "src/components/Icon.astro",
+      "bytes": 2091,
+      "sha256": "b26e1463827b2b5d34e90ec3dbba1ab742116a03bb9d0cd281ef9a12163aed42"
+    },
+    {
+      "path": "src/components/ProjectGallery.astro",
+      "bytes": 2398,
+      "sha256": "5d5c08471e989f40f280a738f142ea2edaa03e70d399c3daec8d31f9bbf2b049"
+    },
+    {
+      "path": "src/components/SectionHeading.astro",
+      "bytes": 395,
+      "sha256": "6150c91e4582fffb5c597e4b35f75bcfdb2bcc70289aaf64c5d24759e6eb97be"
+    },
+    {
+      "path": "src/components/SocialLinks.astro",
+      "bytes": 438,
+      "sha256": "99d4820346a278ebcfa5328a1385b4c3481564cab37b6ce60b36270a68f1ebbc"
+    },
+    {
+      "path": "src/components/TechnologyGroups.astro",
+      "bytes": 577,
+      "sha256": "3a0f5f83bd5337c2dff3753e20f25101bc3d17a4b931fa1db032da0427c6cfd6"
+    },
+    {
+      "path": "src/data/caseStudies.js",
+      "bytes": 9895,
+      "sha256": "0eaa03ff9feb49b0f2ff789d93c94bc26990d50cd06be1c3c67c6d6609566fa9"
+    },
+    {
+      "path": "src/data/experience.js",
+      "bytes": 3914,
+      "sha256": "743098cedd14c683ae560c8c5dc8e0fa807485b09ab822044a551dba76a6f1cd"
+    },
+    {
+      "path": "src/data/profile.js",
+      "bytes": 5264,
+      "sha256": "cfdb2200264294c1f6e59d7d67780463aac4d70fd4d234b4517c42d976b383da"
+    },
+    {
+      "path": "src/data/projects.js",
+      "bytes": 8619,
+      "sha256": "22e1a7d2fa4054a15d2d5390d8ba62ae1a14549b5b8bc544ca590bbc94dbfba9"
+    },
+    {
+      "path": "src/layouts/BaseLayout.astro",
+      "bytes": 3426,
+      "sha256": "34c774017121ac5798a2b458fc13e1d9b2f55e662b8c64b31cc6654f72ec85ac"
+    },
+    {
+      "path": "src/lib/images.js",
+      "bytes": 1023,
+      "sha256": "85df70e9c9232ff8ab6fc6d4645508c2ad5c76877866a2e86a1cad6f67b66d62"
+    },
+    {
+      "path": "src/pages/404.astro",
+      "bytes": 676,
+      "sha256": "8564fac776f6dd7066aba7542889c261ec64a007e87037cf5a31f87d65b0bc5e"
+    },
+    {
+      "path": "src/pages/case-studies/index.astro",
+      "bytes": 967,
+      "sha256": "6968f164fe35a8ddd81b5bd3212930dbbd60aaf3191d9b86725228532e0204c7"
+    },
+    {
+      "path": "src/pages/case-studies/[slug].astro",
+      "bytes": 5695,
+      "sha256": "5ae8a51ad800a3c868c6204d7e6f5ca0da1c82bfe0204741a5c86e4742e37869"
+    },
+    {
+      "path": "src/pages/contact.astro",
+      "bytes": 690,
+      "sha256": "4e0562f952d7b0a50405799105633c22d30fafad7f7a3066d9eab2ab7838bde3"
+    },
+    {
+      "path": "src/pages/experience.astro",
+      "bytes": 1744,
+      "sha256": "179d28f863ab998e6ed364ddaa3002b78ec96bb3f5ac6d67eb2943b6b179b37f"
+    },
+    {
+      "path": "src/pages/index.astro",
+      "bytes": 5215,
+      "sha256": "4676d0254ca6ed7ec2a830c82b76c9e9ee60fbc477635c36805697585e003a1c"
+    },
+    {
+      "path": "src/pages/work.astro",
+      "bytes": 1080,
+      "sha256": "00523c2f4db51efc52c6a98b88dafaa57b48632d4ccd14b5a5eae395be42a364"
+    },
+    {
+      "path": "src/scripts/site.ts",
+      "bytes": 6892,
+      "sha256": "040e70400ecb6cb68e4331f0afeaaf9d02e3ac85fd2d64e3380ff3fe6948ac0a"
+    },
+    {
+      "path": "src/styles/site.css",
+      "bytes": 30145,
+      "sha256": "bd6fa7457e14b9417dc4f060cf421c524352e1f3da570572b5c4bbb04980dcd8"
+    },
+    {
+      "path": "tests/portfolio.test.mjs",
+      "bytes": 2211,
+      "sha256": "358d92f738cffaabe11fc07c46bcd8535c4dc24d3d30a5f4b11e714b49573a74"
+    },
+    {
+      "path": "tmp/emailjs-configured/.htaccess",
+      "bytes": 540,
+      "sha256": "479fa0a483c743d571d8ba18fe3a40e3851e32b28aa62f1ff651a6a1bc149c52"
+    },
+    {
+      "path": "tmp/emailjs-configured/404.html",
+      "bytes": 10488,
+      "sha256": "bd6ea320a7d51566eb50fc8ba53ece31247d2d580e4fb038108a4a6bce4f075e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/contact-me.webp",
+      "bytes": 116812,
+      "sha256": "ec35c66c9edf5cf714eb15d03cc4f42c4b682555728b322738e47180cd285b05"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/favicon.png",
+      "bytes": 2550,
+      "sha256": "683723254da3a658682045ef944ba47bcf3937fcb729ac861d04ff2a9618c025"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/hero-profile.webp",
+      "bytes": 252680,
+      "sha256": "583089881c0ab37be1ceef336133a0bb3690e87a4f80b44a132f56130d5f62f1"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/my-logo.png",
+      "bytes": 5869,
+      "sha256": "f01adba02710f1a95a41884c27826eeda4d6c396fa2e581bb803ed7b26415839"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/alarabi-publishing-480.webp",
+      "bytes": 74922,
+      "sha256": "66e97921ba80d3e2961eeda7c94a6f05d03365813303224cac2977c8edb9eef1"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/alarabi-publishing-800.webp",
+      "bytes": 147506,
+      "sha256": "eb31145270d046b7a77f0647fe5cbb1760b88d0dfa4c7755618406c67437097f"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/almaza-travel-480.webp",
+      "bytes": 97020,
+      "sha256": "1b617e10015401923971c3eaf88f601009698d6bb5c137a4d93ca2408749d353"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/almaza-travel-800.webp",
+      "bytes": 97020,
+      "sha256": "1b617e10015401923971c3eaf88f601009698d6bb5c137a4d93ca2408749d353"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/assafco-480.webp",
+      "bytes": 86268,
+      "sha256": "fa623b6986aa9c1881e14281f6eaf14837c13f8bad3e2a1b3601a78332b811e0"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/assafco-800.webp",
+      "bytes": 86268,
+      "sha256": "fa623b6986aa9c1881e14281f6eaf14837c13f8bad3e2a1b3601a78332b811e0"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/contact-me-480.webp",
+      "bytes": 13430,
+      "sha256": "97ba24188115ac6e3baaee648f5981bb4ca96b82b1759b76c348cacc4f6fe1f9"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/contact-me-800.webp",
+      "bytes": 25522,
+      "sha256": "f7ec4740454a480f161489877013c6d6ad1a1b8081d55363ca80221dfd321099"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/cottonil-ae-480.webp",
+      "bytes": 101058,
+      "sha256": "afd1185572c762a3e79b4d17c7942d454df86634e1235efdff27b1b6b470e5d5"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/cottonil-ae-800.webp",
+      "bytes": 101058,
+      "sha256": "afd1185572c762a3e79b4d17c7942d454df86634e1235efdff27b1b6b470e5d5"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/elbagour-egypt-480.webp",
+      "bytes": 43792,
+      "sha256": "d364d9cff1479e29fba778e60176b7bc171bbbfdd597ff09663e6ab0791ea08b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/elbagour-egypt-800.webp",
+      "bytes": 85138,
+      "sha256": "6e19cf83d7691b21bfb85b3e43bbae3f31489394e31ccf6467fb7430f66af178"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/essentials-eg-480.webp",
+      "bytes": 71506,
+      "sha256": "089e81811e73a4f17ca8415825e8d6ebd1c9941125f6d6461f8b3a5a9e9c0f9b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/essentials-eg-800.webp",
+      "bytes": 71506,
+      "sha256": "089e81811e73a4f17ca8415825e8d6ebd1c9941125f6d6461f8b3a5a9e9c0f9b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/eve-chantelle-480.webp",
+      "bytes": 72228,
+      "sha256": "3339978336ffdbfec1dd3249b560ee99d1353c4b419fb4d58b9f8731aabd2806"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/eve-chantelle-800.webp",
+      "bytes": 92424,
+      "sha256": "ff4b1f342e11dac51f2f7f57905c24ca5f716fabeaade5810a99501521416cdc"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/graphi-core-480.webp",
+      "bytes": 42848,
+      "sha256": "d7d213b909c78c5badc07e8229e46db3e11ceba99448863dda1529a707451345"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/graphi-core-800.webp",
+      "bytes": 54682,
+      "sha256": "341380324e3fc6c655a1562995c00a934948d2a476f1c25a1e310e73b0344267"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/happylife-tourism-480.webp",
+      "bytes": 48820,
+      "sha256": "886ff4fccc086a5da6fe93d169f346059654e8a730d5b307622ac878bc00b9b1"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/happylife-tourism-800.webp",
+      "bytes": 68610,
+      "sha256": "0acdc1a7d45251769d543fa3d45d08a7eb194abb00d723c2af870148ebdd971d"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/helm-egypt-480.webp",
+      "bytes": 91470,
+      "sha256": "09104ab25d4f3d4118c4231b78684e53d6557bcdf5586e5292f8ca9d60a67d6d"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/helm-egypt-800.webp",
+      "bytes": 110560,
+      "sha256": "7ec4bf88e0d038fd15604f3854be77e7c56098ad675feed6143395ef3bbaa75e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/hero-profile-480.webp",
+      "bytes": 26780,
+      "sha256": "ad5649269cd7f7a6811c947246d4c41a07e15040f8d2d2110c8e996837c76e19"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/hero-profile-800.webp",
+      "bytes": 59294,
+      "sha256": "2ed6d0c5a6928eadeab4c1564f547c67d035e9fe88a087ba8164b766f841ed71"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/jazeel-480.webp",
+      "bytes": 79134,
+      "sha256": "624c2234d6eed587885e5ee1ceafb21640603e7e6ca68021cfb0e16505e93ee2"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/jazeel-800.webp",
+      "bytes": 119448,
+      "sha256": "ec5ed82a229a79820b89ced32b57bf6a27df9734e615ae0c71d444b459516b9e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/jcguide-travel-480.webp",
+      "bytes": 69778,
+      "sha256": "f8e448efd89e1185f8373b8ae99de7c5bafe53d83d5923eba3db911bb78424e9"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/jcguide-travel-800.webp",
+      "bytes": 149386,
+      "sha256": "f6eb328c8f245cfa670e6fedaaff6696bdf892f9b26fa512eadd5f535e76a2df"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/just-mention-it-480.webp",
+      "bytes": 40262,
+      "sha256": "f77ec694b62dce7b6fbada0de1da8c5bcbc1e2eab5ee7711c41a284fcd52e204"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/just-mention-it-800.webp",
+      "bytes": 80562,
+      "sha256": "a15dd3185fd9e9bb5af1d3fb25130964654c31fe613424300578b5ede3d2504c"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/laguna-global-480.webp",
+      "bytes": 57750,
+      "sha256": "f7f9cdece4f9611ab7c48448b03dc2593b76fd65416eafe9d0334fa722d633d9"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/laguna-global-800.webp",
+      "bytes": 120184,
+      "sha256": "5dc9908af843a8d23f15b1c890b094215feef95e0e50f7cba398f2ac11929fbf"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/lmd-egypt-480.webp",
+      "bytes": 82260,
+      "sha256": "b4275aafc4b15ea1789ac7bb5cb737886a1672d6fb297e28549e951eab496e52"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/lmd-egypt-800.webp",
+      "bytes": 99172,
+      "sha256": "3ddad019642741727f22b16e1de9c998aba53cddcce85ab1b0ed001efb83aa42"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/lmd-uae-480.webp",
+      "bytes": 76394,
+      "sha256": "1601ab7d7a09e767d603a5f7823f6736f6d3f28ecd9ca9562bb877fe8eb2ec80"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/lmd-uae-800.webp",
+      "bytes": 90928,
+      "sha256": "0b251a2540512d0d3bd60a12c33b4f87828fb6d792eaaeae8c37f7c18d9e4466"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/meka-egypt-tours-480.webp",
+      "bytes": 52684,
+      "sha256": "e542f1d6e773a9c10c59efe37fcb2ac6739a815511bb158478e65b5c7439d5d8"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/meka-egypt-tours-800.webp",
+      "bytes": 52684,
+      "sha256": "e542f1d6e773a9c10c59efe37fcb2ac6739a815511bb158478e65b5c7439d5d8"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/miftah-alhuda-480.webp",
+      "bytes": 39594,
+      "sha256": "dabe1e55ba75181dcc6fa1afa526145b44591cb1c22fef30dde82226023f35a2"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/miftah-alhuda-800.webp",
+      "bytes": 80946,
+      "sha256": "8d9cb1af1d5e0f7b21ea4193c712b1fc0e46fa2a1278f1f06b26f728158bc795"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/motorsports-hub-480.webp",
+      "bytes": 56038,
+      "sha256": "c3a83f655eac3f06048a6d74b27f0c6fadf41f038b7780eb08f452a4bbff4042"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/motorsports-hub-800.webp",
+      "bytes": 93426,
+      "sha256": "9f9f319b2bf5ac616ca3e88e243c435334ce0d195310c776fe09df8da2382c2e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/mrowa-store-480.webp",
+      "bytes": 85742,
+      "sha256": "73ef32e024fb88aaae0dec590b897577e19e131395f599544af220f47a8c2b4e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/mrowa-store-800.webp",
+      "bytes": 117998,
+      "sha256": "81ac0c52279ff6d644ab0604101c30556397bddfd82a3e0d22dc22bbeb11d7dc"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/novacure-480.webp",
+      "bytes": 22954,
+      "sha256": "274b4bd210d125d6a1a53dc89dcd60546fe227323f66ab83c3371057dbe83df4"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/novacure-800.webp",
+      "bytes": 44830,
+      "sha256": "3e351e5fe9eb3b9b2b9b4ad73cf70a724eefcb6bcf4878918bf3aae4d667efcb"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/pangulf-steel-480.webp",
+      "bytes": 34800,
+      "sha256": "1fa57c2e93d464631bf5be9a0babe9d5e48307cd2fd0071601735316a196314a"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/pangulf-steel-800.webp",
+      "bytes": 74414,
+      "sha256": "33739696aa8e29264005051b0adc80e19bba0efdbaf432c4f035dc133718f679"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/quantum-pharma-480.webp",
+      "bytes": 39768,
+      "sha256": "27ef093b4605dcafe82c19d7cf7e0cf884f35fe7144a79aacf938afa68a0ff0f"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/quantum-pharma-800.webp",
+      "bytes": 66568,
+      "sha256": "ea18818619349817c20572219f89eebba777b4e7d978c0478694d1ab29681409"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/red-cotton-480.webp",
+      "bytes": 62460,
+      "sha256": "5845bf0515d619c52c28e175c8d3a0049e88aa7f14ca959c55edeb6b6aaf673a"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/red-cotton-800.webp",
+      "bytes": 94904,
+      "sha256": "89c02c215f2cc0128e10838869c96db130a0f9c4dc22b402083d283d1ecdcdb0"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/sheffield-eg-480.webp",
+      "bytes": 64644,
+      "sha256": "110fd0d5cd37e30a62a048515fd7f09cacaaca59a8293f70a6ba57cd782c5d5e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/sheffield-eg-800.webp",
+      "bytes": 64644,
+      "sha256": "110fd0d5cd37e30a62a048515fd7f09cacaaca59a8293f70a6ba57cd782c5d5e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/soficopharm-480.webp",
+      "bytes": 28108,
+      "sha256": "20305de6bb800a2017c06d3ffaae22cbaf384e13d7efdd13714ca0a1779815f1"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/soficopharm-800.webp",
+      "bytes": 56816,
+      "sha256": "604334b4f96a24de0fd70d72da424a976a6823820a860e46acf81d789910d9e6"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/tawasol-egypt-480.webp",
+      "bytes": 44020,
+      "sha256": "850600650864b94847db81af170f1005684268f3a62a86dcc7f3106105c55a8f"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/tawasol-egypt-800.webp",
+      "bytes": 85818,
+      "sha256": "c150d7dffd5063f24792b13d6775ded1f6714971930cce87625a1f68bf048d36"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/upcrealty-480.webp",
+      "bytes": 55670,
+      "sha256": "0ef764917d5c428bec66c4adc566ec987e8c86010c75910ac716c7fe83d7bfb9"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/upcrealty-800.webp",
+      "bytes": 115396,
+      "sha256": "8f0ac2d8fccb20b1911cbfad32d18b62fd9b12a28122c6f325cc26b2b5852a22"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/wayup-sports-480.webp",
+      "bytes": 76748,
+      "sha256": "9892a7eead59265a29e627b0e420ea30c8f6962db130681fa224c1bbf7850ad2"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/wayup-sports-800.webp",
+      "bytes": 76748,
+      "sha256": "9892a7eead59265a29e627b0e420ea30c8f6962db130681fa224c1bbf7850ad2"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/ye-firm-480.webp",
+      "bytes": 22296,
+      "sha256": "9367e485d458579b2d83218f34381d538dec22dcad9edbd045dd0cf2962bc61a"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/ye-firm-800.webp",
+      "bytes": 46106,
+      "sha256": "87cb08b44bc5d1f0470775b3ae071a9d05f9316a40bce77a183c41837dfcf833"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/zamzam-store-480.webp",
+      "bytes": 49874,
+      "sha256": "df7115c1a2ee5c11e5759ff9239a72c9752374499ee3784ab2030e61722ef79e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/zamzam-store-800.webp",
+      "bytes": 102448,
+      "sha256": "72521659374d70cd745f684325a7a465f82a24a75d2432724bacfc22a0f98f1d"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/alarabi-publishing.webp",
+      "bytes": 273550,
+      "sha256": "b22248aa6811554c3e03192f3b1624348a4b53bfee06b265450e80590eed786e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/almaza-travel.webp",
+      "bytes": 166808,
+      "sha256": "6e43e0e6ae0fe2c6cf5877b8f12c4c9ab8e441cb21690fe4d29f11ed0a0d9074"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/assafco.webp",
+      "bytes": 148172,
+      "sha256": "f5803f931413d54fdcc904c13a88c0eef9e541105a57b552514912921a5dc89b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/cottonil-ae.webp",
+      "bytes": 174318,
+      "sha256": "c499f20d12f400da5e83a7b20e190cdbd111ded72e59d9fe7c755cd1220ac915"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/elbagour-egypt.webp",
+      "bytes": 182594,
+      "sha256": "fd2276a815c0caa87ba2ab12b3160f692d9f475be52268193671cfc8845e5688"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/essentials-eg.webp",
+      "bytes": 134182,
+      "sha256": "27a1b0f2b8e62fe0e4059adc81bcc539a68d5385e12a0db202f13844bc9c4b68"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/eve-chantelle.webp",
+      "bytes": 173446,
+      "sha256": "5429dc41a7d5e547074de77c1d18d618471d910e35ce7dd042769ef575660367"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/graphi-core.webp",
+      "bytes": 88744,
+      "sha256": "08254fb73d73018f587d461a8077e7806b614d3700665efebcd88ccaa6c69c33"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/happylife-tourism.webp",
+      "bytes": 120534,
+      "sha256": "b1ee3afbfb863fda4f4cdd57fdfc19b2272c4dca7dc8c55dada37bfcf71f823d"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/helm-egypt.webp",
+      "bytes": 199786,
+      "sha256": "02b9801a252567fd8ea1cae15604c0189a6f3f3004d4d7e7f85de8be1d074475"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/jazeel.webp",
+      "bytes": 203810,
+      "sha256": "5df837c71313bc8de2e428356c78242fc6e95fa50305aa83c5160b149f1642d2"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/jcguide-travel.webp",
+      "bytes": 271574,
+      "sha256": "d7fe4dd6fc023e5e48ff92578aa04dd59632ee00696da3b0520e25a32d72b007"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/just-mention-it.webp",
+      "bytes": 217476,
+      "sha256": "4f841f5d6fedb9c61ce77cb646e16029055324b1cf5d6cb60b7a616fb7033805"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/laguna-global.webp",
+      "bytes": 212292,
+      "sha256": "2ddb328cf5dcdfad5555f9be8c0d519c46eb8d5af75ec1635925e8a995deab9d"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/lmd-egypt.webp",
+      "bytes": 184098,
+      "sha256": "a14cec6ff38628f20408e77c78254695813eac206cb8c5d2b80de671e7678160"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/lmd-uae.webp",
+      "bytes": 171982,
+      "sha256": "64707f2dd6061110245450bc6c289a29e8ed670182eb25401e4a2fbf3c7a98fb"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/meka-egypt-tours.webp",
+      "bytes": 98306,
+      "sha256": "4a16b4bc2dff82db203e9453be3052db025d3d552bc78907726581c71b130566"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/miftah-alhuda.webp",
+      "bytes": 138630,
+      "sha256": "fc6798f28368dce5f36732444b73d88eb7116b9f133f7af21af22237147a1585"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/motorsports-hub.webp",
+      "bytes": 163318,
+      "sha256": "1274912938a99361f653a3d239d90ed7c7ed5e3d33e84528d878a651a747809b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/mrowa-store.webp",
+      "bytes": 220346,
+      "sha256": "3fef16b61b85e2be7dab7fbba0a7e11831f571d929c0e2766fe275d3c3f5c757"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/novacure.webp",
+      "bytes": 146922,
+      "sha256": "ec24c30f1729ea31148364cf8e27e352d039fa9d1e99b1ad556e83c80c067dfd"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/pangulf-steel.webp",
+      "bytes": 295006,
+      "sha256": "43f4f899e0d667aa79fce7261d9c258f0357cef555d0ba71277108f39585043b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/quantum-pharma.webp",
+      "bytes": 119940,
+      "sha256": "01dfc3277a78c181ad632b8e5e98c18c1dae1e978ccf7a74764cd8104c288052"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/red-cotton.webp",
+      "bytes": 173030,
+      "sha256": "09da5cd5bce5bf8ea2f9c7d972ef8575af08e9e89781950cfb19914bba703e15"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/sheffield-eg.webp",
+      "bytes": 112450,
+      "sha256": "c62ff47a620039f01c27b8846f49401fdff2183551fa40903c81e826a975f6f4"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/soficopharm.webp",
+      "bytes": 119738,
+      "sha256": "33370117d7a55417051c01f09c145c409b82ba8d8f40c752024177908d9c0488"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/tawasol-egypt.webp",
+      "bytes": 172838,
+      "sha256": "68d240f3360b162d6b1fc529de4136d6f4d701768626777c64d5f858f419d266"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/upcrealty.webp",
+      "bytes": 208082,
+      "sha256": "96571ef8499d7e030f4680cc626be0ad04858f448c2a930810aea456c86d19c7"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/wayup-sports.webp",
+      "bytes": 125172,
+      "sha256": "e9a4aa1a1cc34cac2284f5ca8ec2a4ffe353531629801af397305e1d1526aef8"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/ye-firm.webp",
+      "bytes": 163830,
+      "sha256": "c45b309312453a07b75add8bbfb62db69bcc5a3167450e0f3bb013f388f3ab0f"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/zamzam-store.webp",
+      "bytes": 231846,
+      "sha256": "dfacc7bc9d83b8af5dcc581288fe6daa5804d6a12cb10121748984f413849eaa"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/social-card.png",
+      "bytes": 51983,
+      "sha256": "b54b0268948f7f436f16af4f2e860dbdbc205017efde15dfb640a0f7a1a0f144"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/mahmoud-fawzy c.v.pdf",
+      "bytes": 893937,
+      "sha256": "5e2a186f8092904d4ec11dbc6ee82f1791c765a8d4d789f42af709547bd51a81"
+    },
+    {
+      "path": "tmp/emailjs-configured/case-studies/happylife-tourism/index.html",
+      "bytes": 17086,
+      "sha256": "cffa2db0b0f15c5ef04ac6c9de9f05e54aa91ec86e9a18de1bab6538f6f8864a"
+    },
+    {
+      "path": "tmp/emailjs-configured/case-studies/index.html",
+      "bytes": 14111,
+      "sha256": "d2d16029567a43f010ecd9d1956d985037920cb2e8ea5f9ae409633ff83947ef"
+    },
+    {
+      "path": "tmp/emailjs-configured/case-studies/n8n-acquisition-workflow/index.html",
+      "bytes": 17817,
+      "sha256": "58b5d5024eeb826f14be31b4cad6b2f7bfa90aacf90f3edb9815d53020677f94"
+    },
+    {
+      "path": "tmp/emailjs-configured/case-studies/upc-realty/index.html",
+      "bytes": 17258,
+      "sha256": "a82d0939d15bf92946c6ed5e6429bbe70b308d52de609c3dc32135da60ecfb81"
+    },
+    {
+      "path": "tmp/emailjs-configured/contact/index.html",
+      "bytes": 19537,
+      "sha256": "2845140ea4521e3a4b9334176f421ef72fb4311cb7bf101a78f29efc6d423c54"
+    },
+    {
+      "path": "tmp/emailjs-configured/experience/index.html",
+      "bytes": 22913,
+      "sha256": "eb77112109c7b47d01bd0b6058dd449e61ecaa4b0f0e965fc52202ed64cd80b7"
+    },
+    {
+      "path": "tmp/emailjs-configured/index.html",
+      "bytes": 69789,
+      "sha256": "95cf7f2c56d1cf7ae072a839e5b9b819898d6fd94160342fecb1c09606c846d9"
+    },
+    {
+      "path": "tmp/emailjs-configured/privacy/index.html",
+      "bytes": 11057,
+      "sha256": "d68b13f5a8a20395a1362e86bfbd4771bab26b54ac191599620624ab7849ca4b"
+    },
+    {
+      "path": "tmp/emailjs-configured/robots.txt",
+      "bytes": 80,
+      "sha256": "7ab5589024aa82b870269997911c8bd186005b94cd945d220ed3d69756eddd44"
+    },
+    {
+      "path": "tmp/emailjs-configured/sitemap-0.xml",
+      "bytes": 904,
+      "sha256": "03598b5f427851097dca9ddefa8cf4d124e5ff0c123155dc4306388ce785fbfd"
+    },
+    {
+      "path": "tmp/emailjs-configured/sitemap-index.xml",
+      "bytes": 188,
+      "sha256": "187a2051f95237282776ef00a86e3d4a228112a258ea70dae7c83c36f6dd55ef"
+    },
+    {
+      "path": "tmp/emailjs-configured/work/index.html",
+      "bytes": 42670,
+      "sha256": "addfeadb9a11695a62447db757a9ce01ab599d5482b178515e890ba106f04346"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/BaseLayout.CQ6tlScu.css",
+      "bytes": 27215,
+      "sha256": "16e0792761f83c7a2115dedc19def2662919fe71d5aaf124cdf49e8b01c4e53a"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/client.DfMp84Gg.js",
+      "bytes": 134478,
+      "sha256": "55881799ecdfa39f2baf500313659e6e6ad3b31a89f26a2ff6a8ec34e7fc3d3a"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/ContactForm.C40kuWct.js",
+      "bytes": 8493,
+      "sha256": "61c7213d53fcf3d575efce820faccb834066db06bdca0cc757847475a50d3708"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-400-normal.BOb3E3N0.woff",
+      "bytes": 10532,
+      "sha256": "6076b418803564833cde2aece96c51b29927ab0a98dfbe727774d1a6c6e6c445"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-400-normal.cpxAROuN.woff2",
+      "bytes": 7884,
+      "sha256": "7d93459d86585bfcdbb7e0376056226adb25821ee54b96236fe2123e9560929f"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-500-normal.C8OXljZJ.woff2",
+      "bytes": 7748,
+      "sha256": "cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-500-normal.DGXqpDMm.woff",
+      "bytes": 10372,
+      "sha256": "abdc91ec7e4438b1e1d7f808d388614789d69037059b74a9d6166d00eb9b8b04"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-600-normal.BJdTmd5m.woff",
+      "bytes": 10600,
+      "sha256": "55fffef7b100460605349fa5215eb7dcd6e558e195d08e43eddc64c4b27d43b3"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-600-normal.zEkxB9Mr.woff2",
+      "bytes": 8000,
+      "sha256": "f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-700-normal.BVuQR_eA.woff",
+      "bytes": 10432,
+      "sha256": "927ba66258ea405f06205be694080f1126d186633c3c69cb839cfd0cfc5ee8ff"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-700-normal.Qrb0O0WB.woff2",
+      "bytes": 7816,
+      "sha256": "9338e65fc077355c7a87ae0d64cc101e23b9bf8ad78ae65f0f319c857311b526"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/react.nYwdmC-a.js",
+      "bytes": 6530,
+      "sha256": "622a81154b84defe8a614dee2cf4f8a0fbc7d3fbf88783e471fc71cc64f84d46"
+    },
+    {
+      "path": "tmp/pdfs/cv-1.png",
+      "bytes": 284264,
+      "sha256": "1c5d3ea54571c94a1c112945b4a5f23f395e234c1912156f17103992997787d4"
+    },
+    {
+      "path": "tmp/pdfs/cv-2.png",
+      "bytes": 286760,
+      "sha256": "23156c15924321f776b20a7e21dc913ba668e0a15dfbe46cf4071d9e2ef89645"
+    },
+    {
+      "path": "tmp/pdfs/cv-3.png",
+      "bytes": 66501,
+      "sha256": "604af2607a59a3e4bc85e6554caf57acc3d3878fe2426969cc201f8328148be1"
+    },
+    {
+      "path": "tmp/refine-styles.mjs",
+      "bytes": 14418,
+      "sha256": "a252f30937fe8c68217bf5229c217c5338e4ffbf08b9bf0153319806c4bbaa7f"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 202,
+      "sha256": "fa771b98b7699b2a5104a019497c4102bd0a5ffa533abe9b47ce0ba6c59ae48f"
+    }
+  ],
+  "directories": [
+    ".astro",
+    ".astro/collections",
+    "dist",
+    "dist/assets",
+    "dist/assets/images",
+    "dist/assets/images/optimized",
+    "dist/assets/images/projects",
+    "dist/case-studies",
+    "dist/case-studies/happylife-tourism",
+    "dist/case-studies/n8n-acquisition-workflow",
+    "dist/case-studies/upc-realty",
+    "dist/contact",
+    "dist/experience",
+    "dist/work",
+    "dist/_astro",
+    "docs",
+    "docs/final-cleanup",
+    "docs/hygiene-audit",
+    "docs/visual-restoration",
+    "output",
+    "public",
+    "public/assets",
+    "public/assets/images",
+    "public/assets/images/optimized",
+    "public/assets/images/projects",
+    "public/_astro",
+    "scripts",
+    "src",
+    "src/assets",
+    "src/components",
+    "src/components/Contact",
+    "src/components/Expertise",
+    "src/components/Footer",
+    "src/components/Hero",
+    "src/components/islands",
+    "src/components/Navbar",
+    "src/components/Portfolio",
+    "src/components/Resume",
+    "src/components/shared",
+    "src/data",
+    "src/hooks",
+    "src/layouts",
+    "src/lib",
+    "src/pages",
+    "src/pages/case-studies",
+    "src/scripts",
+    "src/styles",
+    "tests",
+    "tmp",
+    "tmp/emailjs-configured",
+    "tmp/emailjs-configured/assets",
+    "tmp/emailjs-configured/assets/images",
+    "tmp/emailjs-configured/assets/images/optimized",
+    "tmp/emailjs-configured/assets/images/projects",
+    "tmp/emailjs-configured/case-studies",
+    "tmp/emailjs-configured/case-studies/happylife-tourism",
+    "tmp/emailjs-configured/case-studies/n8n-acquisition-workflow",
+    "tmp/emailjs-configured/case-studies/upc-realty",
+    "tmp/emailjs-configured/contact",
+    "tmp/emailjs-configured/experience",
+    "tmp/emailjs-configured/privacy",
+    "tmp/emailjs-configured/work",
+    "tmp/emailjs-configured/_astro",
+    "tmp/pdfs"
+  ],
+  "imports": [
+    {
+      "from": "scripts/measure-build.mjs",
+      "specifier": "node:fs/promises",
+      "target": "node:fs/promises"
+    },
+    {
+      "from": "scripts/measure-build.mjs",
+      "specifier": "node:path",
+      "target": "node:path"
+    },
+    {
+      "from": "scripts/measure-build.mjs",
+      "specifier": "node:zlib",
+      "target": "node:zlib"
+    },
+    {
+      "from": "scripts/measure-build.mjs",
+      "specifier": "linkedom",
+      "target": "linkedom"
+    },
+    {
+      "from": "scripts/package-hostinger.mjs",
+      "specifier": "node:fs/promises",
+      "target": "node:fs/promises"
+    },
+    {
+      "from": "scripts/package-hostinger.mjs",
+      "specifier": "fflate",
+      "target": "fflate"
+    },
+    {
+      "from": "scripts/package-hostinger.mjs",
+      "specifier": "node:assert/strict",
+      "target": "node:assert/strict"
+    },
+    {
+      "from": "scripts/prepare-assets.mjs",
+      "specifier": "node:fs/promises",
+      "target": "node:fs/promises"
+    },
+    {
+      "from": "scripts/prepare-assets.mjs",
+      "specifier": "node:path",
+      "target": "node:path"
+    },
+    {
+      "from": "scripts/prepare-assets.mjs",
+      "specifier": "sharp",
+      "target": "sharp"
+    },
+    {
+      "from": "scripts/prepare-assets.mjs",
+      "specifier": "../src/data/projects.js",
+      "target": "src/data/projects.js"
+    },
+    {
+      "from": "scripts/static-server.mjs",
+      "specifier": "node:http",
+      "target": "node:http"
+    },
+    {
+      "from": "scripts/static-server.mjs",
+      "specifier": "node:fs/promises",
+      "target": "node:fs/promises"
+    },
+    {
+      "from": "scripts/static-server.mjs",
+      "specifier": "node:path",
+      "target": "node:path"
+    },
+    {
+      "from": "scripts/verify-http.mjs",
+      "specifier": "node:assert/strict",
+      "target": "node:assert/strict"
+    },
+    {
+      "from": "scripts/verify-http.mjs",
+      "specifier": "node:fs/promises",
+      "target": "node:fs/promises"
+    },
+    {
+      "from": "scripts/verify-static.mjs",
+      "specifier": "node:assert/strict",
+      "target": "node:assert/strict"
+    },
+    {
+      "from": "scripts/verify-static.mjs",
+      "specifier": "node:fs/promises",
+      "target": "node:fs/promises"
+    },
+    {
+      "from": "scripts/verify-static.mjs",
+      "specifier": "node:path",
+      "target": "node:path"
+    },
+    {
+      "from": "scripts/verify-static.mjs",
+      "specifier": "linkedom",
+      "target": "linkedom"
+    },
+    {
+      "from": "scripts/verify-static.mjs",
+      "specifier": "../src/data/projects.js",
+      "target": "src/data/projects.js"
+    },
+    {
+      "from": "scripts/verify-static.mjs",
+      "specifier": "sharp",
+      "target": "sharp"
+    },
+    {
+      "from": "src/components/CaseStudyCard.astro",
+      "specifier": "../data/caseStudies",
+      "target": "src/data/caseStudies.js"
+    },
+    {
+      "from": "src/components/CaseStudyCard.astro",
+      "specifier": "../lib/images",
+      "target": "src/lib/images.js"
+    },
+    {
+      "from": "src/components/ContactSection.astro",
+      "specifier": "../data/profile",
+      "target": "src/data/profile.js"
+    },
+    {
+      "from": "src/components/ContactSection.astro",
+      "specifier": "./SocialLinks.astro",
+      "target": "src/components/SocialLinks.astro"
+    },
+    {
+      "from": "src/components/ContactSection.astro",
+      "specifier": "./SectionHeading.astro",
+      "target": "src/components/SectionHeading.astro"
+    },
+    {
+      "from": "src/components/ContactSection.astro",
+      "specifier": "./Icon.astro",
+      "target": "src/components/Icon.astro"
+    },
+    {
+      "from": "src/components/ExperienceList.astro",
+      "specifier": "../data/experience",
+      "target": "src/data/experience.js"
+    },
+    {
+      "from": "src/components/Footer.astro",
+      "specifier": "../data/profile",
+      "target": "src/data/profile.js"
+    },
+    {
+      "from": "src/components/Footer.astro",
+      "specifier": "./SocialLinks.astro",
+      "target": "src/components/SocialLinks.astro"
+    },
+    {
+      "from": "src/components/Header.astro",
+      "specifier": "../data/profile",
+      "target": "src/data/profile.js"
+    },
+    {
+      "from": "src/components/Header.astro",
+      "specifier": "./Icon.astro",
+      "target": "src/components/Icon.astro"
+    },
+    {
+      "from": "src/components/ProjectGallery.astro",
+      "specifier": "../data/projects",
+      "target": "src/data/projects.js"
+    },
+    {
+      "from": "src/components/ProjectGallery.astro",
+      "specifier": "../lib/images",
+      "target": "src/lib/images.js"
+    },
+    {
+      "from": "src/components/SocialLinks.astro",
+      "specifier": "./Icon.astro",
+      "target": "src/components/Icon.astro"
+    },
+    {
+      "from": "src/components/SocialLinks.astro",
+      "specifier": "../data/profile",
+      "target": "src/data/profile.js"
+    },
+    {
+      "from": "src/components/TechnologyGroups.astro",
+      "specifier": "../data/profile",
+      "target": "src/data/profile.js"
+    },
+    {
+      "from": "src/components/TechnologyGroups.astro",
+      "specifier": "./Icon.astro",
+      "target": "src/components/Icon.astro"
+    },
+    {
+      "from": "src/layouts/BaseLayout.astro",
+      "specifier": "@fontsource/poppins/latin-400.css",
+      "target": "@fontsource/poppins/latin-400.css"
+    },
+    {
+      "from": "src/layouts/BaseLayout.astro",
+      "specifier": "@fontsource/poppins/latin-500.css",
+      "target": "@fontsource/poppins/latin-500.css"
+    },
+    {
+      "from": "src/layouts/BaseLayout.astro",
+      "specifier": "@fontsource/poppins/latin-600.css",
+      "target": "@fontsource/poppins/latin-600.css"
+    },
+    {
+      "from": "src/layouts/BaseLayout.astro",
+      "specifier": "@fontsource/poppins/latin-700.css",
+      "target": "@fontsource/poppins/latin-700.css"
+    },
+    {
+      "from": "src/layouts/BaseLayout.astro",
+      "specifier": "../styles/site.css",
+      "target": "src/styles/site.css"
+    },
+    {
+      "from": "src/layouts/BaseLayout.astro",
+      "specifier": "../components/Header.astro",
+      "target": "src/components/Header.astro"
+    },
+    {
+      "from": "src/layouts/BaseLayout.astro",
+      "specifier": "../components/Footer.astro",
+      "target": "src/components/Footer.astro"
+    },
+    {
+      "from": "src/layouts/BaseLayout.astro",
+      "specifier": "../data/profile",
+      "target": "src/data/profile.js"
+    },
+    {
+      "from": "src/lib/images.js",
+      "specifier": "sharp",
+      "target": "sharp"
+    },
+    {
+      "from": "src/lib/images.js",
+      "specifier": "node:path",
+      "target": "node:path"
+    },
+    {
+      "from": "src/pages/404.astro",
+      "specifier": "../layouts/BaseLayout.astro",
+      "target": "src/layouts/BaseLayout.astro"
+    },
+    {
+      "from": "src/pages/case-studies/index.astro",
+      "specifier": "../../layouts/BaseLayout.astro",
+      "target": "src/layouts/BaseLayout.astro"
+    },
+    {
+      "from": "src/pages/case-studies/index.astro",
+      "specifier": "../../components/CaseStudyCard.astro",
+      "target": "src/components/CaseStudyCard.astro"
+    },
+    {
+      "from": "src/pages/case-studies/index.astro",
+      "specifier": "../../data/caseStudies",
+      "target": "src/data/caseStudies.js"
+    },
+    {
+      "from": "src/pages/case-studies/[slug].astro",
+      "specifier": "../../layouts/BaseLayout.astro",
+      "target": "src/layouts/BaseLayout.astro"
+    },
+    {
+      "from": "src/pages/case-studies/[slug].astro",
+      "specifier": "../../data/caseStudies",
+      "target": "src/data/caseStudies.js"
+    },
+    {
+      "from": "src/pages/case-studies/[slug].astro",
+      "specifier": "../../data/profile",
+      "target": "src/data/profile.js"
+    },
+    {
+      "from": "src/pages/contact.astro",
+      "specifier": "../layouts/BaseLayout.astro",
+      "target": "src/layouts/BaseLayout.astro"
+    },
+    {
+      "from": "src/pages/contact.astro",
+      "specifier": "../components/ContactSection.astro",
+      "target": "src/components/ContactSection.astro"
+    },
+    {
+      "from": "src/pages/experience.astro",
+      "specifier": "../layouts/BaseLayout.astro",
+      "target": "src/layouts/BaseLayout.astro"
+    },
+    {
+      "from": "src/pages/experience.astro",
+      "specifier": "../components/ExperienceList.astro",
+      "target": "src/components/ExperienceList.astro"
+    },
+    {
+      "from": "src/pages/experience.astro",
+      "specifier": "../components/TechnologyGroups.astro",
+      "target": "src/components/TechnologyGroups.astro"
+    },
+    {
+      "from": "src/pages/experience.astro",
+      "specifier": "../data/profile",
+      "target": "src/data/profile.js"
+    },
+    {
+      "from": "src/pages/experience.astro",
+      "specifier": "../components/SectionHeading.astro",
+      "target": "src/components/SectionHeading.astro"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../layouts/BaseLayout.astro",
+      "target": "src/layouts/BaseLayout.astro"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../components/SectionHeading.astro",
+      "target": "src/components/SectionHeading.astro"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../components/CaseStudyCard.astro",
+      "target": "src/components/CaseStudyCard.astro"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../components/ExperienceList.astro",
+      "target": "src/components/ExperienceList.astro"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../components/ProjectGallery.astro",
+      "target": "src/components/ProjectGallery.astro"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../components/TechnologyGroups.astro",
+      "target": "src/components/TechnologyGroups.astro"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../components/ContactSection.astro",
+      "target": "src/components/ContactSection.astro"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../components/Icon.astro",
+      "target": "src/components/Icon.astro"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../components/SocialLinks.astro",
+      "target": "src/components/SocialLinks.astro"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../data/profile",
+      "target": "src/data/profile.js"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../data/caseStudies",
+      "target": "src/data/caseStudies.js"
+    },
+    {
+      "from": "src/pages/index.astro",
+      "specifier": "../data/projects",
+      "target": "src/data/projects.js"
+    },
+    {
+      "from": "src/pages/work.astro",
+      "specifier": "../layouts/BaseLayout.astro",
+      "target": "src/layouts/BaseLayout.astro"
+    },
+    {
+      "from": "src/pages/work.astro",
+      "specifier": "../components/ProjectGallery.astro",
+      "target": "src/components/ProjectGallery.astro"
+    },
+    {
+      "from": "src/pages/work.astro",
+      "specifier": "../data/projects",
+      "target": "src/data/projects.js"
+    },
+    {
+      "from": "tests/portfolio.test.mjs",
+      "specifier": "node:test",
+      "target": "node:test"
+    },
+    {
+      "from": "tests/portfolio.test.mjs",
+      "specifier": "node:assert/strict",
+      "target": "node:assert/strict"
+    },
+    {
+      "from": "tests/portfolio.test.mjs",
+      "specifier": "node:fs/promises",
+      "target": "node:fs/promises"
+    },
+    {
+      "from": "tests/portfolio.test.mjs",
+      "specifier": "../src/data/projects.js",
+      "target": "src/data/projects.js"
+    },
+    {
+      "from": "tests/portfolio.test.mjs",
+      "specifier": "../src/data/caseStudies.js",
+      "target": "src/data/caseStudies.js"
+    },
+    {
+      "from": "tests/portfolio.test.mjs",
+      "specifier": "../src/data/profile.js",
+      "target": "src/data/profile.js"
+    }
+  ],
+  "incoming": {
+    "node:fs/promises": [
+      "scripts/measure-build.mjs",
+      "scripts/package-hostinger.mjs",
+      "scripts/prepare-assets.mjs",
+      "scripts/static-server.mjs",
+      "scripts/verify-http.mjs",
+      "scripts/verify-static.mjs",
+      "tests/portfolio.test.mjs"
+    ],
+    "node:path": [
+      "scripts/measure-build.mjs",
+      "scripts/prepare-assets.mjs",
+      "scripts/static-server.mjs",
+      "scripts/verify-static.mjs",
+      "src/lib/images.js"
+    ],
+    "node:zlib": [
+      "scripts/measure-build.mjs"
+    ],
+    "linkedom": [
+      "scripts/measure-build.mjs",
+      "scripts/verify-static.mjs"
+    ],
+    "fflate": [
+      "scripts/package-hostinger.mjs"
+    ],
+    "node:assert/strict": [
+      "scripts/package-hostinger.mjs",
+      "scripts/verify-http.mjs",
+      "scripts/verify-static.mjs",
+      "tests/portfolio.test.mjs"
+    ],
+    "sharp": [
+      "scripts/prepare-assets.mjs",
+      "scripts/verify-static.mjs",
+      "src/lib/images.js"
+    ],
+    "src/data/projects.js": [
+      "scripts/prepare-assets.mjs",
+      "scripts/verify-static.mjs",
+      "src/components/ProjectGallery.astro",
+      "src/pages/index.astro",
+      "src/pages/work.astro",
+      "tests/portfolio.test.mjs"
+    ],
+    "node:http": [
+      "scripts/static-server.mjs"
+    ],
+    "src/data/caseStudies.js": [
+      "src/components/CaseStudyCard.astro",
+      "src/pages/case-studies/index.astro",
+      "src/pages/case-studies/[slug].astro",
+      "src/pages/index.astro",
+      "tests/portfolio.test.mjs"
+    ],
+    "src/lib/images.js": [
+      "src/components/CaseStudyCard.astro",
+      "src/components/ProjectGallery.astro"
+    ],
+    "src/data/profile.js": [
+      "src/components/ContactSection.astro",
+      "src/components/Footer.astro",
+      "src/components/Header.astro",
+      "src/components/SocialLinks.astro",
+      "src/components/TechnologyGroups.astro",
+      "src/layouts/BaseLayout.astro",
+      "src/pages/case-studies/[slug].astro",
+      "src/pages/experience.astro",
+      "src/pages/index.astro",
+      "tests/portfolio.test.mjs"
+    ],
+    "src/components/SocialLinks.astro": [
+      "src/components/ContactSection.astro",
+      "src/components/Footer.astro",
+      "src/pages/index.astro"
+    ],
+    "src/components/SectionHeading.astro": [
+      "src/components/ContactSection.astro",
+      "src/pages/experience.astro",
+      "src/pages/index.astro"
+    ],
+    "src/components/Icon.astro": [
+      "src/components/ContactSection.astro",
+      "src/components/Header.astro",
+      "src/components/SocialLinks.astro",
+      "src/components/TechnologyGroups.astro",
+      "src/pages/index.astro"
+    ],
+    "src/data/experience.js": [
+      "src/components/ExperienceList.astro"
+    ],
+    "@fontsource/poppins/latin-400.css": [
+      "src/layouts/BaseLayout.astro"
+    ],
+    "@fontsource/poppins/latin-500.css": [
+      "src/layouts/BaseLayout.astro"
+    ],
+    "@fontsource/poppins/latin-600.css": [
+      "src/layouts/BaseLayout.astro"
+    ],
+    "@fontsource/poppins/latin-700.css": [
+      "src/layouts/BaseLayout.astro"
+    ],
+    "src/styles/site.css": [
+      "src/layouts/BaseLayout.astro"
+    ],
+    "src/components/Header.astro": [
+      "src/layouts/BaseLayout.astro"
+    ],
+    "src/components/Footer.astro": [
+      "src/layouts/BaseLayout.astro"
+    ],
+    "src/layouts/BaseLayout.astro": [
+      "src/pages/404.astro",
+      "src/pages/case-studies/index.astro",
+      "src/pages/case-studies/[slug].astro",
+      "src/pages/contact.astro",
+      "src/pages/experience.astro",
+      "src/pages/index.astro",
+      "src/pages/work.astro"
+    ],
+    "src/components/CaseStudyCard.astro": [
+      "src/pages/case-studies/index.astro",
+      "src/pages/index.astro"
+    ],
+    "src/components/ContactSection.astro": [
+      "src/pages/contact.astro",
+      "src/pages/index.astro"
+    ],
+    "src/components/ExperienceList.astro": [
+      "src/pages/experience.astro",
+      "src/pages/index.astro"
+    ],
+    "src/components/TechnologyGroups.astro": [
+      "src/pages/experience.astro",
+      "src/pages/index.astro"
+    ],
+    "src/components/ProjectGallery.astro": [
+      "src/pages/index.astro",
+      "src/pages/work.astro"
+    ],
+    "node:test": [
+      "tests/portfolio.test.mjs"
+    ]
+  },
+  "assets": [
+    {
+      "path": "public/.htaccess",
+      "bytes": 1453,
+      "sha256": "d946fe2936bfcc0000687a522dded3806dc71b2f8afe463bf9637f023a535d04",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "scripts/verify-http.mjs",
+        "scripts/verify-static.mjs",
+        "tests/portfolio.test.mjs"
+      ]
+    },
+    {
+      "path": "public/assets/images/contact-me.webp",
+      "bytes": 116812,
+      "sha256": "ec35c66c9edf5cf714eb15d03cc4f42c4b682555728b322738e47180cd285b05",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "scripts/prepare-assets.mjs"
+      ]
+    },
+    {
+      "path": "public/assets/images/favicon.png",
+      "bytes": 2550,
+      "sha256": "683723254da3a658682045ef944ba47bcf3937fcb729ac861d04ff2a9618c025",
+      "runtimeReferenced": true,
+      "sourceMentions": [
+        "src/layouts/BaseLayout.astro"
+      ]
+    },
+    {
+      "path": "public/assets/images/hero-profile.webp",
+      "bytes": 252680,
+      "sha256": "583089881c0ab37be1ceef336133a0bb3690e87a4f80b44a132f56130d5f62f1",
+      "runtimeReferenced": true,
+      "sourceMentions": [
+        "scripts/measure-build.mjs",
+        "scripts/prepare-assets.mjs",
+        "src/layouts/BaseLayout.astro"
+      ]
+    },
+    {
+      "path": "public/assets/images/my-logo.png",
+      "bytes": 5869,
+      "sha256": "f01adba02710f1a95a41884c27826eeda4d6c396fa2e581bb803ed7b26415839",
+      "runtimeReferenced": true,
+      "sourceMentions": [
+        "src/components/Header.astro"
+      ]
+    },
+    {
+      "path": "public/assets/images/optimized/alarabi-publishing-480.webp",
+      "bytes": 74922,
+      "sha256": "66e97921ba80d3e2961eeda7c94a6f05d03365813303224cac2977c8edb9eef1",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/alarabi-publishing-800.webp",
+      "bytes": 147506,
+      "sha256": "eb31145270d046b7a77f0647fe5cbb1760b88d0dfa4c7755618406c67437097f",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/almaza-travel-480.webp",
+      "bytes": 97020,
+      "sha256": "1b617e10015401923971c3eaf88f601009698d6bb5c137a4d93ca2408749d353",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/almaza-travel-800.webp",
+      "bytes": 97020,
+      "sha256": "1b617e10015401923971c3eaf88f601009698d6bb5c137a4d93ca2408749d353",
+      "runtimeReferenced": false,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/assafco-480.webp",
+      "bytes": 86268,
+      "sha256": "fa623b6986aa9c1881e14281f6eaf14837c13f8bad3e2a1b3601a78332b811e0",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/assafco-800.webp",
+      "bytes": 86268,
+      "sha256": "fa623b6986aa9c1881e14281f6eaf14837c13f8bad3e2a1b3601a78332b811e0",
+      "runtimeReferenced": false,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/contact-me-480.webp",
+      "bytes": 13430,
+      "sha256": "97ba24188115ac6e3baaee648f5981bb4ca96b82b1759b76c348cacc4f6fe1f9",
+      "runtimeReferenced": true,
+      "sourceMentions": [
+        "src/components/ContactSection.astro"
+      ]
+    },
+    {
+      "path": "public/assets/images/optimized/contact-me-800.webp",
+      "bytes": 25522,
+      "sha256": "f7ec4740454a480f161489877013c6d6ad1a1b8081d55363ca80221dfd321099",
+      "runtimeReferenced": false,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/cottonil-ae-480.webp",
+      "bytes": 101058,
+      "sha256": "afd1185572c762a3e79b4d17c7942d454df86634e1235efdff27b1b6b470e5d5",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/cottonil-ae-800.webp",
+      "bytes": 101058,
+      "sha256": "afd1185572c762a3e79b4d17c7942d454df86634e1235efdff27b1b6b470e5d5",
+      "runtimeReferenced": false,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/elbagour-egypt-480.webp",
+      "bytes": 43792,
+      "sha256": "d364d9cff1479e29fba778e60176b7bc171bbbfdd597ff09663e6ab0791ea08b",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/elbagour-egypt-800.webp",
+      "bytes": 85138,
+      "sha256": "6e19cf83d7691b21bfb85b3e43bbae3f31489394e31ccf6467fb7430f66af178",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/essentials-eg-480.webp",
+      "bytes": 71506,
+      "sha256": "089e81811e73a4f17ca8415825e8d6ebd1c9941125f6d6461f8b3a5a9e9c0f9b",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/essentials-eg-800.webp",
+      "bytes": 71506,
+      "sha256": "089e81811e73a4f17ca8415825e8d6ebd1c9941125f6d6461f8b3a5a9e9c0f9b",
+      "runtimeReferenced": false,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/eve-chantelle-480.webp",
+      "bytes": 72228,
+      "sha256": "3339978336ffdbfec1dd3249b560ee99d1353c4b419fb4d58b9f8731aabd2806",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/eve-chantelle-800.webp",
+      "bytes": 92424,
+      "sha256": "ff4b1f342e11dac51f2f7f57905c24ca5f716fabeaade5810a99501521416cdc",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/graphi-core-480.webp",
+      "bytes": 42848,
+      "sha256": "d7d213b909c78c5badc07e8229e46db3e11ceba99448863dda1529a707451345",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/graphi-core-800.webp",
+      "bytes": 54682,
+      "sha256": "341380324e3fc6c655a1562995c00a934948d2a476f1c25a1e310e73b0344267",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/happylife-tourism-480.webp",
+      "bytes": 48820,
+      "sha256": "886ff4fccc086a5da6fe93d169f346059654e8a730d5b307622ac878bc00b9b1",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/happylife-tourism-800.webp",
+      "bytes": 68610,
+      "sha256": "0acdc1a7d45251769d543fa3d45d08a7eb194abb00d723c2af870148ebdd971d",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/helm-egypt-480.webp",
+      "bytes": 91470,
+      "sha256": "09104ab25d4f3d4118c4231b78684e53d6557bcdf5586e5292f8ca9d60a67d6d",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/helm-egypt-800.webp",
+      "bytes": 110560,
+      "sha256": "7ec4bf88e0d038fd15604f3854be77e7c56098ad675feed6143395ef3bbaa75e",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/hero-profile-480.webp",
+      "bytes": 26780,
+      "sha256": "ad5649269cd7f7a6811c947246d4c41a07e15040f8d2d2110c8e996837c76e19",
+      "runtimeReferenced": true,
+      "sourceMentions": [
+        "src/pages/index.astro"
+      ]
+    },
+    {
+      "path": "public/assets/images/optimized/hero-profile-800.webp",
+      "bytes": 59294,
+      "sha256": "2ed6d0c5a6928eadeab4c1564f547c67d035e9fe88a087ba8164b766f841ed71",
+      "runtimeReferenced": true,
+      "sourceMentions": [
+        "scripts/measure-build.mjs",
+        "src/pages/index.astro"
+      ]
+    },
+    {
+      "path": "public/assets/images/optimized/jazeel-480.webp",
+      "bytes": 79134,
+      "sha256": "624c2234d6eed587885e5ee1ceafb21640603e7e6ca68021cfb0e16505e93ee2",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/jazeel-800.webp",
+      "bytes": 119448,
+      "sha256": "ec5ed82a229a79820b89ced32b57bf6a27df9734e615ae0c71d444b459516b9e",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/jcguide-travel-480.webp",
+      "bytes": 69778,
+      "sha256": "f8e448efd89e1185f8373b8ae99de7c5bafe53d83d5923eba3db911bb78424e9",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/jcguide-travel-800.webp",
+      "bytes": 149386,
+      "sha256": "f6eb328c8f245cfa670e6fedaaff6696bdf892f9b26fa512eadd5f535e76a2df",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/just-mention-it-480.webp",
+      "bytes": 40262,
+      "sha256": "f77ec694b62dce7b6fbada0de1da8c5bcbc1e2eab5ee7711c41a284fcd52e204",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/just-mention-it-800.webp",
+      "bytes": 80562,
+      "sha256": "a15dd3185fd9e9bb5af1d3fb25130964654c31fe613424300578b5ede3d2504c",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/laguna-global-480.webp",
+      "bytes": 57750,
+      "sha256": "f7f9cdece4f9611ab7c48448b03dc2593b76fd65416eafe9d0334fa722d633d9",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/laguna-global-800.webp",
+      "bytes": 120184,
+      "sha256": "5dc9908af843a8d23f15b1c890b094215feef95e0e50f7cba398f2ac11929fbf",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/lmd-egypt-480.webp",
+      "bytes": 82260,
+      "sha256": "b4275aafc4b15ea1789ac7bb5cb737886a1672d6fb297e28549e951eab496e52",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/lmd-egypt-800.webp",
+      "bytes": 99172,
+      "sha256": "3ddad019642741727f22b16e1de9c998aba53cddcce85ab1b0ed001efb83aa42",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/lmd-uae-480.webp",
+      "bytes": 76394,
+      "sha256": "1601ab7d7a09e767d603a5f7823f6736f6d3f28ecd9ca9562bb877fe8eb2ec80",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/lmd-uae-800.webp",
+      "bytes": 90928,
+      "sha256": "0b251a2540512d0d3bd60a12c33b4f87828fb6d792eaaeae8c37f7c18d9e4466",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/meka-egypt-tours-480.webp",
+      "bytes": 52684,
+      "sha256": "e542f1d6e773a9c10c59efe37fcb2ac6739a815511bb158478e65b5c7439d5d8",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/meka-egypt-tours-800.webp",
+      "bytes": 52684,
+      "sha256": "e542f1d6e773a9c10c59efe37fcb2ac6739a815511bb158478e65b5c7439d5d8",
+      "runtimeReferenced": false,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/miftah-alhuda-480.webp",
+      "bytes": 39594,
+      "sha256": "dabe1e55ba75181dcc6fa1afa526145b44591cb1c22fef30dde82226023f35a2",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/miftah-alhuda-800.webp",
+      "bytes": 80946,
+      "sha256": "8d9cb1af1d5e0f7b21ea4193c712b1fc0e46fa2a1278f1f06b26f728158bc795",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/motorsports-hub-480.webp",
+      "bytes": 56038,
+      "sha256": "c3a83f655eac3f06048a6d74b27f0c6fadf41f038b7780eb08f452a4bbff4042",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/motorsports-hub-800.webp",
+      "bytes": 93426,
+      "sha256": "9f9f319b2bf5ac616ca3e88e243c435334ce0d195310c776fe09df8da2382c2e",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/mrowa-store-480.webp",
+      "bytes": 85742,
+      "sha256": "73ef32e024fb88aaae0dec590b897577e19e131395f599544af220f47a8c2b4e",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/mrowa-store-800.webp",
+      "bytes": 117998,
+      "sha256": "81ac0c52279ff6d644ab0604101c30556397bddfd82a3e0d22dc22bbeb11d7dc",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/novacure-480.webp",
+      "bytes": 22954,
+      "sha256": "274b4bd210d125d6a1a53dc89dcd60546fe227323f66ab83c3371057dbe83df4",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/novacure-800.webp",
+      "bytes": 44830,
+      "sha256": "3e351e5fe9eb3b9b2b9b4ad73cf70a724eefcb6bcf4878918bf3aae4d667efcb",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/pangulf-steel-480.webp",
+      "bytes": 34800,
+      "sha256": "1fa57c2e93d464631bf5be9a0babe9d5e48307cd2fd0071601735316a196314a",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/pangulf-steel-800.webp",
+      "bytes": 74414,
+      "sha256": "33739696aa8e29264005051b0adc80e19bba0efdbaf432c4f035dc133718f679",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/quantum-pharma-480.webp",
+      "bytes": 39768,
+      "sha256": "27ef093b4605dcafe82c19d7cf7e0cf884f35fe7144a79aacf938afa68a0ff0f",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/quantum-pharma-800.webp",
+      "bytes": 66568,
+      "sha256": "ea18818619349817c20572219f89eebba777b4e7d978c0478694d1ab29681409",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/red-cotton-480.webp",
+      "bytes": 62460,
+      "sha256": "5845bf0515d619c52c28e175c8d3a0049e88aa7f14ca959c55edeb6b6aaf673a",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/red-cotton-800.webp",
+      "bytes": 94904,
+      "sha256": "89c02c215f2cc0128e10838869c96db130a0f9c4dc22b402083d283d1ecdcdb0",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/sheffield-eg-480.webp",
+      "bytes": 64644,
+      "sha256": "110fd0d5cd37e30a62a048515fd7f09cacaaca59a8293f70a6ba57cd782c5d5e",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/sheffield-eg-800.webp",
+      "bytes": 64644,
+      "sha256": "110fd0d5cd37e30a62a048515fd7f09cacaaca59a8293f70a6ba57cd782c5d5e",
+      "runtimeReferenced": false,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/soficopharm-480.webp",
+      "bytes": 28108,
+      "sha256": "20305de6bb800a2017c06d3ffaae22cbaf384e13d7efdd13714ca0a1779815f1",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/soficopharm-800.webp",
+      "bytes": 56816,
+      "sha256": "604334b4f96a24de0fd70d72da424a976a6823820a860e46acf81d789910d9e6",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/tawasol-egypt-480.webp",
+      "bytes": 44020,
+      "sha256": "850600650864b94847db81af170f1005684268f3a62a86dcc7f3106105c55a8f",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/tawasol-egypt-800.webp",
+      "bytes": 85818,
+      "sha256": "c150d7dffd5063f24792b13d6775ded1f6714971930cce87625a1f68bf048d36",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/upcrealty-480.webp",
+      "bytes": 55670,
+      "sha256": "0ef764917d5c428bec66c4adc566ec987e8c86010c75910ac716c7fe83d7bfb9",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/upcrealty-800.webp",
+      "bytes": 115396,
+      "sha256": "8f0ac2d8fccb20b1911cbfad32d18b62fd9b12a28122c6f325cc26b2b5852a22",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/wayup-sports-480.webp",
+      "bytes": 76748,
+      "sha256": "9892a7eead59265a29e627b0e420ea30c8f6962db130681fa224c1bbf7850ad2",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/wayup-sports-800.webp",
+      "bytes": 76748,
+      "sha256": "9892a7eead59265a29e627b0e420ea30c8f6962db130681fa224c1bbf7850ad2",
+      "runtimeReferenced": false,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/ye-firm-480.webp",
+      "bytes": 22296,
+      "sha256": "9367e485d458579b2d83218f34381d538dec22dcad9edbd045dd0cf2962bc61a",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/ye-firm-800.webp",
+      "bytes": 46106,
+      "sha256": "87cb08b44bc5d1f0470775b3ae071a9d05f9316a40bce77a183c41837dfcf833",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/zamzam-store-480.webp",
+      "bytes": 49874,
+      "sha256": "df7115c1a2ee5c11e5759ff9239a72c9752374499ee3784ab2030e61722ef79e",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/optimized/zamzam-store-800.webp",
+      "bytes": 102448,
+      "sha256": "72521659374d70cd745f684325a7a465f82a24a75d2432724bacfc22a0f98f1d",
+      "runtimeReferenced": true,
+      "sourceMentions": []
+    },
+    {
+      "path": "public/assets/images/projects/alarabi-publishing.webp",
+      "bytes": 273550,
+      "sha256": "b22248aa6811554c3e03192f3b1624348a4b53bfee06b265450e80590eed786e",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/almaza-travel.webp",
+      "bytes": 166808,
+      "sha256": "6e43e0e6ae0fe2c6cf5877b8f12c4c9ab8e441cb21690fe4d29f11ed0a0d9074",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/assafco.webp",
+      "bytes": 148172,
+      "sha256": "f5803f931413d54fdcc904c13a88c0eef9e541105a57b552514912921a5dc89b",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/cottonil-ae.webp",
+      "bytes": 174318,
+      "sha256": "c499f20d12f400da5e83a7b20e190cdbd111ded72e59d9fe7c755cd1220ac915",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/elbagour-egypt.webp",
+      "bytes": 182594,
+      "sha256": "fd2276a815c0caa87ba2ab12b3160f692d9f475be52268193671cfc8845e5688",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/essentials-eg.webp",
+      "bytes": 134182,
+      "sha256": "27a1b0f2b8e62fe0e4059adc81bcc539a68d5385e12a0db202f13844bc9c4b68",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/eve-chantelle.webp",
+      "bytes": 173446,
+      "sha256": "5429dc41a7d5e547074de77c1d18d618471d910e35ce7dd042769ef575660367",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/graphi-core.webp",
+      "bytes": 88744,
+      "sha256": "08254fb73d73018f587d461a8077e7806b614d3700665efebcd88ccaa6c69c33",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/happylife-tourism.webp",
+      "bytes": 120534,
+      "sha256": "b1ee3afbfb863fda4f4cdd57fdfc19b2272c4dca7dc8c55dada37bfcf71f823d",
+      "runtimeReferenced": true,
+      "sourceMentions": [
+        "src/data/caseStudies.js",
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/helm-egypt.webp",
+      "bytes": 199786,
+      "sha256": "02b9801a252567fd8ea1cae15604c0189a6f3f3004d4d7e7f85de8be1d074475",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/jazeel.webp",
+      "bytes": 203810,
+      "sha256": "5df837c71313bc8de2e428356c78242fc6e95fa50305aa83c5160b149f1642d2",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/jcguide-travel.webp",
+      "bytes": 271574,
+      "sha256": "d7fe4dd6fc023e5e48ff92578aa04dd59632ee00696da3b0520e25a32d72b007",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/just-mention-it.webp",
+      "bytes": 217476,
+      "sha256": "4f841f5d6fedb9c61ce77cb646e16029055324b1cf5d6cb60b7a616fb7033805",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/laguna-global.webp",
+      "bytes": 212292,
+      "sha256": "2ddb328cf5dcdfad5555f9be8c0d519c46eb8d5af75ec1635925e8a995deab9d",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/lmd-egypt.webp",
+      "bytes": 184098,
+      "sha256": "a14cec6ff38628f20408e77c78254695813eac206cb8c5d2b80de671e7678160",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/lmd-uae.webp",
+      "bytes": 171982,
+      "sha256": "64707f2dd6061110245450bc6c289a29e8ed670182eb25401e4a2fbf3c7a98fb",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/meka-egypt-tours.webp",
+      "bytes": 98306,
+      "sha256": "4a16b4bc2dff82db203e9453be3052db025d3d552bc78907726581c71b130566",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/miftah-alhuda.webp",
+      "bytes": 138630,
+      "sha256": "fc6798f28368dce5f36732444b73d88eb7116b9f133f7af21af22237147a1585",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/motorsports-hub.webp",
+      "bytes": 163318,
+      "sha256": "1274912938a99361f653a3d239d90ed7c7ed5e3d33e84528d878a651a747809b",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/mrowa-store.webp",
+      "bytes": 220346,
+      "sha256": "3fef16b61b85e2be7dab7fbba0a7e11831f571d929c0e2766fe275d3c3f5c757",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/novacure.webp",
+      "bytes": 146922,
+      "sha256": "ec24c30f1729ea31148364cf8e27e352d039fa9d1e99b1ad556e83c80c067dfd",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/pangulf-steel.webp",
+      "bytes": 295006,
+      "sha256": "43f4f899e0d667aa79fce7261d9c258f0357cef555d0ba71277108f39585043b",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/quantum-pharma.webp",
+      "bytes": 119940,
+      "sha256": "01dfc3277a78c181ad632b8e5e98c18c1dae1e978ccf7a74764cd8104c288052",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/red-cotton.webp",
+      "bytes": 173030,
+      "sha256": "09da5cd5bce5bf8ea2f9c7d972ef8575af08e9e89781950cfb19914bba703e15",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/sheffield-eg.webp",
+      "bytes": 112450,
+      "sha256": "c62ff47a620039f01c27b8846f49401fdff2183551fa40903c81e826a975f6f4",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/soficopharm.webp",
+      "bytes": 119738,
+      "sha256": "33370117d7a55417051c01f09c145c409b82ba8d8f40c752024177908d9c0488",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/tawasol-egypt.webp",
+      "bytes": 172838,
+      "sha256": "68d240f3360b162d6b1fc529de4136d6f4d701768626777c64d5f858f419d266",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/upcrealty.webp",
+      "bytes": 208082,
+      "sha256": "96571ef8499d7e030f4680cc626be0ad04858f448c2a930810aea456c86d19c7",
+      "runtimeReferenced": true,
+      "sourceMentions": [
+        "src/data/caseStudies.js",
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/wayup-sports.webp",
+      "bytes": 125172,
+      "sha256": "e9a4aa1a1cc34cac2284f5ca8ec2a4ffe353531629801af397305e1d1526aef8",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/ye-firm.webp",
+      "bytes": 163830,
+      "sha256": "c45b309312453a07b75add8bbfb62db69bcc5a3167450e0f3bb013f388f3ab0f",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/projects/zamzam-store.webp",
+      "bytes": 231846,
+      "sha256": "dfacc7bc9d83b8af5dcc581288fe6daa5804d6a12cb10121748984f413849eaa",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "src/data/projects.js"
+      ]
+    },
+    {
+      "path": "public/assets/images/social-card.png",
+      "bytes": 52037,
+      "sha256": "df003e7789e822f1d81eedb24b8287010c11b0b6987a38f6f0292c0ca3ac1f90",
+      "runtimeReferenced": true,
+      "sourceMentions": [
+        "scripts/prepare-assets.mjs",
+        "scripts/verify-http.mjs",
+        "src/layouts/BaseLayout.astro"
+      ]
+    },
+    {
+      "path": "public/assets/mahmoud-fawzy c.v.pdf",
+      "bytes": 893937,
+      "sha256": "5e2a186f8092904d4ec11dbc6ee82f1791c765a8d4d789f42af709547bd51a81",
+      "runtimeReferenced": true,
+      "sourceMentions": [
+        "scripts/verify-static.mjs"
+      ]
+    },
+    {
+      "path": "public/robots.txt",
+      "bytes": 80,
+      "sha256": "7ab5589024aa82b870269997911c8bd186005b94cd945d220ed3d69756eddd44",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "scripts/verify-http.mjs",
+        "scripts/verify-static.mjs"
+      ]
+    },
+    {
+      "path": "public/_astro/.htaccess",
+      "bytes": 249,
+      "sha256": "0a06b91c63c8bc8ceb16271490e727484ab0df880049005b694ca25589f1e16b",
+      "runtimeReferenced": false,
+      "sourceMentions": [
+        "scripts/verify-http.mjs",
+        "tests/portfolio.test.mjs"
+      ]
+    }
+  ],
+  "publicDuplicateGroups": [
+    [
+      "public/assets/images/optimized/almaza-travel-480.webp",
+      "public/assets/images/optimized/almaza-travel-800.webp"
+    ],
+    [
+      "public/assets/images/optimized/assafco-480.webp",
+      "public/assets/images/optimized/assafco-800.webp"
+    ],
+    [
+      "public/assets/images/optimized/cottonil-ae-480.webp",
+      "public/assets/images/optimized/cottonil-ae-800.webp"
+    ],
+    [
+      "public/assets/images/optimized/essentials-eg-480.webp",
+      "public/assets/images/optimized/essentials-eg-800.webp"
+    ],
+    [
+      "public/assets/images/optimized/meka-egypt-tours-480.webp",
+      "public/assets/images/optimized/meka-egypt-tours-800.webp"
+    ],
+    [
+      "public/assets/images/optimized/sheffield-eg-480.webp",
+      "public/assets/images/optimized/sheffield-eg-800.webp"
+    ],
+    [
+      "public/assets/images/optimized/wayup-sports-480.webp",
+      "public/assets/images/optimized/wayup-sports-800.webp"
+    ]
+  ],
+  "css": {
+    "unseenClasses": [
+      "section-heading-row",
+      "gallery-note",
+      "background-note",
+      "prose"
+    ],
+    "unmatchedStaticSelectors": [
+      {
+        "line": 46,
+        "selector": ".site-header.is-scrolled"
+      },
+      {
+        "line": 83,
+        "selector": ".section-heading-row"
+      },
+      {
+        "line": 84,
+        "selector": ".section-heading-row > .text-link"
+      },
+      {
+        "line": 132,
+        "selector": ".technology-group ul"
+      },
+      {
+        "line": 133,
+        "selector": ".technology-group li"
+      },
+      {
+        "line": 163,
+        "selector": ".contact-info .eyebrow"
+      },
+      {
+        "line": 200,
+        "selector": ".technologies-section h2 + .technology-grid"
+      },
+      {
+        "line": 263,
+        "selector": ".prose"
+      },
+      {
+        "line": 264,
+        "selector": ".prose h2"
+      },
+      {
+        "line": 265,
+        "selector": ".prose p"
+      },
+      {
+        "line": 266,
+        "selector": ".prose a"
+      },
+      {
+        "line": 268,
+        "selector": ".reveal-ready.is-visible"
+      },
+      {
+        "line": 298,
+        "selector": ".mobile-menu.is-closing nav"
+      }
+    ],
+    "variables": [
+      {
+        "name": "--bg",
+        "line": 11,
+        "used": true
+      },
+      {
+        "name": "--panel",
+        "line": 11,
+        "used": false
+      },
+      {
+        "name": "--text",
+        "line": 11,
+        "used": true
+      },
+      {
+        "name": "--muted",
+        "line": 11,
+        "used": true
+      },
+      {
+        "name": "--pink",
+        "line": 11,
+        "used": true
+      },
+      {
+        "name": "--accent-text",
+        "line": 11,
+        "used": true
+      },
+      {
+        "name": "--button",
+        "line": 11,
+        "used": true
+      },
+      {
+        "name": "--line",
+        "line": 11,
+        "used": true
+      },
+      {
+        "name": "--surface",
+        "line": 11,
+        "used": true
+      },
+      {
+        "name": "--surface-hover",
+        "line": 11,
+        "used": true
+      },
+      {
+        "name": "--shadow",
+        "line": 11,
+        "used": true
+      },
+      {
+        "name": "--ease",
+        "line": 11,
+        "used": true
+      }
+    ]
+  },
+  "emailjsFolder": [
+    {
+      "path": "tmp/emailjs-configured/.htaccess",
+      "bytes": 540,
+      "sha256": "479fa0a483c743d571d8ba18fe3a40e3851e32b28aa62f1ff651a6a1bc149c52"
+    },
+    {
+      "path": "tmp/emailjs-configured/404.html",
+      "bytes": 10488,
+      "sha256": "bd6ea320a7d51566eb50fc8ba53ece31247d2d580e4fb038108a4a6bce4f075e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/contact-me.webp",
+      "bytes": 116812,
+      "sha256": "ec35c66c9edf5cf714eb15d03cc4f42c4b682555728b322738e47180cd285b05"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/favicon.png",
+      "bytes": 2550,
+      "sha256": "683723254da3a658682045ef944ba47bcf3937fcb729ac861d04ff2a9618c025"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/hero-profile.webp",
+      "bytes": 252680,
+      "sha256": "583089881c0ab37be1ceef336133a0bb3690e87a4f80b44a132f56130d5f62f1"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/my-logo.png",
+      "bytes": 5869,
+      "sha256": "f01adba02710f1a95a41884c27826eeda4d6c396fa2e581bb803ed7b26415839"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/alarabi-publishing-480.webp",
+      "bytes": 74922,
+      "sha256": "66e97921ba80d3e2961eeda7c94a6f05d03365813303224cac2977c8edb9eef1"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/alarabi-publishing-800.webp",
+      "bytes": 147506,
+      "sha256": "eb31145270d046b7a77f0647fe5cbb1760b88d0dfa4c7755618406c67437097f"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/almaza-travel-480.webp",
+      "bytes": 97020,
+      "sha256": "1b617e10015401923971c3eaf88f601009698d6bb5c137a4d93ca2408749d353"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/almaza-travel-800.webp",
+      "bytes": 97020,
+      "sha256": "1b617e10015401923971c3eaf88f601009698d6bb5c137a4d93ca2408749d353"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/assafco-480.webp",
+      "bytes": 86268,
+      "sha256": "fa623b6986aa9c1881e14281f6eaf14837c13f8bad3e2a1b3601a78332b811e0"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/assafco-800.webp",
+      "bytes": 86268,
+      "sha256": "fa623b6986aa9c1881e14281f6eaf14837c13f8bad3e2a1b3601a78332b811e0"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/contact-me-480.webp",
+      "bytes": 13430,
+      "sha256": "97ba24188115ac6e3baaee648f5981bb4ca96b82b1759b76c348cacc4f6fe1f9"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/contact-me-800.webp",
+      "bytes": 25522,
+      "sha256": "f7ec4740454a480f161489877013c6d6ad1a1b8081d55363ca80221dfd321099"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/cottonil-ae-480.webp",
+      "bytes": 101058,
+      "sha256": "afd1185572c762a3e79b4d17c7942d454df86634e1235efdff27b1b6b470e5d5"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/cottonil-ae-800.webp",
+      "bytes": 101058,
+      "sha256": "afd1185572c762a3e79b4d17c7942d454df86634e1235efdff27b1b6b470e5d5"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/elbagour-egypt-480.webp",
+      "bytes": 43792,
+      "sha256": "d364d9cff1479e29fba778e60176b7bc171bbbfdd597ff09663e6ab0791ea08b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/elbagour-egypt-800.webp",
+      "bytes": 85138,
+      "sha256": "6e19cf83d7691b21bfb85b3e43bbae3f31489394e31ccf6467fb7430f66af178"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/essentials-eg-480.webp",
+      "bytes": 71506,
+      "sha256": "089e81811e73a4f17ca8415825e8d6ebd1c9941125f6d6461f8b3a5a9e9c0f9b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/essentials-eg-800.webp",
+      "bytes": 71506,
+      "sha256": "089e81811e73a4f17ca8415825e8d6ebd1c9941125f6d6461f8b3a5a9e9c0f9b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/eve-chantelle-480.webp",
+      "bytes": 72228,
+      "sha256": "3339978336ffdbfec1dd3249b560ee99d1353c4b419fb4d58b9f8731aabd2806"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/eve-chantelle-800.webp",
+      "bytes": 92424,
+      "sha256": "ff4b1f342e11dac51f2f7f57905c24ca5f716fabeaade5810a99501521416cdc"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/graphi-core-480.webp",
+      "bytes": 42848,
+      "sha256": "d7d213b909c78c5badc07e8229e46db3e11ceba99448863dda1529a707451345"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/graphi-core-800.webp",
+      "bytes": 54682,
+      "sha256": "341380324e3fc6c655a1562995c00a934948d2a476f1c25a1e310e73b0344267"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/happylife-tourism-480.webp",
+      "bytes": 48820,
+      "sha256": "886ff4fccc086a5da6fe93d169f346059654e8a730d5b307622ac878bc00b9b1"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/happylife-tourism-800.webp",
+      "bytes": 68610,
+      "sha256": "0acdc1a7d45251769d543fa3d45d08a7eb194abb00d723c2af870148ebdd971d"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/helm-egypt-480.webp",
+      "bytes": 91470,
+      "sha256": "09104ab25d4f3d4118c4231b78684e53d6557bcdf5586e5292f8ca9d60a67d6d"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/helm-egypt-800.webp",
+      "bytes": 110560,
+      "sha256": "7ec4bf88e0d038fd15604f3854be77e7c56098ad675feed6143395ef3bbaa75e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/hero-profile-480.webp",
+      "bytes": 26780,
+      "sha256": "ad5649269cd7f7a6811c947246d4c41a07e15040f8d2d2110c8e996837c76e19"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/hero-profile-800.webp",
+      "bytes": 59294,
+      "sha256": "2ed6d0c5a6928eadeab4c1564f547c67d035e9fe88a087ba8164b766f841ed71"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/jazeel-480.webp",
+      "bytes": 79134,
+      "sha256": "624c2234d6eed587885e5ee1ceafb21640603e7e6ca68021cfb0e16505e93ee2"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/jazeel-800.webp",
+      "bytes": 119448,
+      "sha256": "ec5ed82a229a79820b89ced32b57bf6a27df9734e615ae0c71d444b459516b9e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/jcguide-travel-480.webp",
+      "bytes": 69778,
+      "sha256": "f8e448efd89e1185f8373b8ae99de7c5bafe53d83d5923eba3db911bb78424e9"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/jcguide-travel-800.webp",
+      "bytes": 149386,
+      "sha256": "f6eb328c8f245cfa670e6fedaaff6696bdf892f9b26fa512eadd5f535e76a2df"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/just-mention-it-480.webp",
+      "bytes": 40262,
+      "sha256": "f77ec694b62dce7b6fbada0de1da8c5bcbc1e2eab5ee7711c41a284fcd52e204"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/just-mention-it-800.webp",
+      "bytes": 80562,
+      "sha256": "a15dd3185fd9e9bb5af1d3fb25130964654c31fe613424300578b5ede3d2504c"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/laguna-global-480.webp",
+      "bytes": 57750,
+      "sha256": "f7f9cdece4f9611ab7c48448b03dc2593b76fd65416eafe9d0334fa722d633d9"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/laguna-global-800.webp",
+      "bytes": 120184,
+      "sha256": "5dc9908af843a8d23f15b1c890b094215feef95e0e50f7cba398f2ac11929fbf"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/lmd-egypt-480.webp",
+      "bytes": 82260,
+      "sha256": "b4275aafc4b15ea1789ac7bb5cb737886a1672d6fb297e28549e951eab496e52"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/lmd-egypt-800.webp",
+      "bytes": 99172,
+      "sha256": "3ddad019642741727f22b16e1de9c998aba53cddcce85ab1b0ed001efb83aa42"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/lmd-uae-480.webp",
+      "bytes": 76394,
+      "sha256": "1601ab7d7a09e767d603a5f7823f6736f6d3f28ecd9ca9562bb877fe8eb2ec80"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/lmd-uae-800.webp",
+      "bytes": 90928,
+      "sha256": "0b251a2540512d0d3bd60a12c33b4f87828fb6d792eaaeae8c37f7c18d9e4466"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/meka-egypt-tours-480.webp",
+      "bytes": 52684,
+      "sha256": "e542f1d6e773a9c10c59efe37fcb2ac6739a815511bb158478e65b5c7439d5d8"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/meka-egypt-tours-800.webp",
+      "bytes": 52684,
+      "sha256": "e542f1d6e773a9c10c59efe37fcb2ac6739a815511bb158478e65b5c7439d5d8"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/miftah-alhuda-480.webp",
+      "bytes": 39594,
+      "sha256": "dabe1e55ba75181dcc6fa1afa526145b44591cb1c22fef30dde82226023f35a2"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/miftah-alhuda-800.webp",
+      "bytes": 80946,
+      "sha256": "8d9cb1af1d5e0f7b21ea4193c712b1fc0e46fa2a1278f1f06b26f728158bc795"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/motorsports-hub-480.webp",
+      "bytes": 56038,
+      "sha256": "c3a83f655eac3f06048a6d74b27f0c6fadf41f038b7780eb08f452a4bbff4042"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/motorsports-hub-800.webp",
+      "bytes": 93426,
+      "sha256": "9f9f319b2bf5ac616ca3e88e243c435334ce0d195310c776fe09df8da2382c2e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/mrowa-store-480.webp",
+      "bytes": 85742,
+      "sha256": "73ef32e024fb88aaae0dec590b897577e19e131395f599544af220f47a8c2b4e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/mrowa-store-800.webp",
+      "bytes": 117998,
+      "sha256": "81ac0c52279ff6d644ab0604101c30556397bddfd82a3e0d22dc22bbeb11d7dc"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/novacure-480.webp",
+      "bytes": 22954,
+      "sha256": "274b4bd210d125d6a1a53dc89dcd60546fe227323f66ab83c3371057dbe83df4"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/novacure-800.webp",
+      "bytes": 44830,
+      "sha256": "3e351e5fe9eb3b9b2b9b4ad73cf70a724eefcb6bcf4878918bf3aae4d667efcb"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/pangulf-steel-480.webp",
+      "bytes": 34800,
+      "sha256": "1fa57c2e93d464631bf5be9a0babe9d5e48307cd2fd0071601735316a196314a"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/pangulf-steel-800.webp",
+      "bytes": 74414,
+      "sha256": "33739696aa8e29264005051b0adc80e19bba0efdbaf432c4f035dc133718f679"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/quantum-pharma-480.webp",
+      "bytes": 39768,
+      "sha256": "27ef093b4605dcafe82c19d7cf7e0cf884f35fe7144a79aacf938afa68a0ff0f"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/quantum-pharma-800.webp",
+      "bytes": 66568,
+      "sha256": "ea18818619349817c20572219f89eebba777b4e7d978c0478694d1ab29681409"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/red-cotton-480.webp",
+      "bytes": 62460,
+      "sha256": "5845bf0515d619c52c28e175c8d3a0049e88aa7f14ca959c55edeb6b6aaf673a"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/red-cotton-800.webp",
+      "bytes": 94904,
+      "sha256": "89c02c215f2cc0128e10838869c96db130a0f9c4dc22b402083d283d1ecdcdb0"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/sheffield-eg-480.webp",
+      "bytes": 64644,
+      "sha256": "110fd0d5cd37e30a62a048515fd7f09cacaaca59a8293f70a6ba57cd782c5d5e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/sheffield-eg-800.webp",
+      "bytes": 64644,
+      "sha256": "110fd0d5cd37e30a62a048515fd7f09cacaaca59a8293f70a6ba57cd782c5d5e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/soficopharm-480.webp",
+      "bytes": 28108,
+      "sha256": "20305de6bb800a2017c06d3ffaae22cbaf384e13d7efdd13714ca0a1779815f1"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/soficopharm-800.webp",
+      "bytes": 56816,
+      "sha256": "604334b4f96a24de0fd70d72da424a976a6823820a860e46acf81d789910d9e6"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/tawasol-egypt-480.webp",
+      "bytes": 44020,
+      "sha256": "850600650864b94847db81af170f1005684268f3a62a86dcc7f3106105c55a8f"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/tawasol-egypt-800.webp",
+      "bytes": 85818,
+      "sha256": "c150d7dffd5063f24792b13d6775ded1f6714971930cce87625a1f68bf048d36"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/upcrealty-480.webp",
+      "bytes": 55670,
+      "sha256": "0ef764917d5c428bec66c4adc566ec987e8c86010c75910ac716c7fe83d7bfb9"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/upcrealty-800.webp",
+      "bytes": 115396,
+      "sha256": "8f0ac2d8fccb20b1911cbfad32d18b62fd9b12a28122c6f325cc26b2b5852a22"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/wayup-sports-480.webp",
+      "bytes": 76748,
+      "sha256": "9892a7eead59265a29e627b0e420ea30c8f6962db130681fa224c1bbf7850ad2"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/wayup-sports-800.webp",
+      "bytes": 76748,
+      "sha256": "9892a7eead59265a29e627b0e420ea30c8f6962db130681fa224c1bbf7850ad2"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/ye-firm-480.webp",
+      "bytes": 22296,
+      "sha256": "9367e485d458579b2d83218f34381d538dec22dcad9edbd045dd0cf2962bc61a"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/ye-firm-800.webp",
+      "bytes": 46106,
+      "sha256": "87cb08b44bc5d1f0470775b3ae071a9d05f9316a40bce77a183c41837dfcf833"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/zamzam-store-480.webp",
+      "bytes": 49874,
+      "sha256": "df7115c1a2ee5c11e5759ff9239a72c9752374499ee3784ab2030e61722ef79e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/optimized/zamzam-store-800.webp",
+      "bytes": 102448,
+      "sha256": "72521659374d70cd745f684325a7a465f82a24a75d2432724bacfc22a0f98f1d"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/alarabi-publishing.webp",
+      "bytes": 273550,
+      "sha256": "b22248aa6811554c3e03192f3b1624348a4b53bfee06b265450e80590eed786e"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/almaza-travel.webp",
+      "bytes": 166808,
+      "sha256": "6e43e0e6ae0fe2c6cf5877b8f12c4c9ab8e441cb21690fe4d29f11ed0a0d9074"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/assafco.webp",
+      "bytes": 148172,
+      "sha256": "f5803f931413d54fdcc904c13a88c0eef9e541105a57b552514912921a5dc89b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/cottonil-ae.webp",
+      "bytes": 174318,
+      "sha256": "c499f20d12f400da5e83a7b20e190cdbd111ded72e59d9fe7c755cd1220ac915"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/elbagour-egypt.webp",
+      "bytes": 182594,
+      "sha256": "fd2276a815c0caa87ba2ab12b3160f692d9f475be52268193671cfc8845e5688"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/essentials-eg.webp",
+      "bytes": 134182,
+      "sha256": "27a1b0f2b8e62fe0e4059adc81bcc539a68d5385e12a0db202f13844bc9c4b68"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/eve-chantelle.webp",
+      "bytes": 173446,
+      "sha256": "5429dc41a7d5e547074de77c1d18d618471d910e35ce7dd042769ef575660367"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/graphi-core.webp",
+      "bytes": 88744,
+      "sha256": "08254fb73d73018f587d461a8077e7806b614d3700665efebcd88ccaa6c69c33"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/happylife-tourism.webp",
+      "bytes": 120534,
+      "sha256": "b1ee3afbfb863fda4f4cdd57fdfc19b2272c4dca7dc8c55dada37bfcf71f823d"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/helm-egypt.webp",
+      "bytes": 199786,
+      "sha256": "02b9801a252567fd8ea1cae15604c0189a6f3f3004d4d7e7f85de8be1d074475"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/jazeel.webp",
+      "bytes": 203810,
+      "sha256": "5df837c71313bc8de2e428356c78242fc6e95fa50305aa83c5160b149f1642d2"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/jcguide-travel.webp",
+      "bytes": 271574,
+      "sha256": "d7fe4dd6fc023e5e48ff92578aa04dd59632ee00696da3b0520e25a32d72b007"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/just-mention-it.webp",
+      "bytes": 217476,
+      "sha256": "4f841f5d6fedb9c61ce77cb646e16029055324b1cf5d6cb60b7a616fb7033805"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/laguna-global.webp",
+      "bytes": 212292,
+      "sha256": "2ddb328cf5dcdfad5555f9be8c0d519c46eb8d5af75ec1635925e8a995deab9d"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/lmd-egypt.webp",
+      "bytes": 184098,
+      "sha256": "a14cec6ff38628f20408e77c78254695813eac206cb8c5d2b80de671e7678160"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/lmd-uae.webp",
+      "bytes": 171982,
+      "sha256": "64707f2dd6061110245450bc6c289a29e8ed670182eb25401e4a2fbf3c7a98fb"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/meka-egypt-tours.webp",
+      "bytes": 98306,
+      "sha256": "4a16b4bc2dff82db203e9453be3052db025d3d552bc78907726581c71b130566"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/miftah-alhuda.webp",
+      "bytes": 138630,
+      "sha256": "fc6798f28368dce5f36732444b73d88eb7116b9f133f7af21af22237147a1585"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/motorsports-hub.webp",
+      "bytes": 163318,
+      "sha256": "1274912938a99361f653a3d239d90ed7c7ed5e3d33e84528d878a651a747809b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/mrowa-store.webp",
+      "bytes": 220346,
+      "sha256": "3fef16b61b85e2be7dab7fbba0a7e11831f571d929c0e2766fe275d3c3f5c757"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/novacure.webp",
+      "bytes": 146922,
+      "sha256": "ec24c30f1729ea31148364cf8e27e352d039fa9d1e99b1ad556e83c80c067dfd"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/pangulf-steel.webp",
+      "bytes": 295006,
+      "sha256": "43f4f899e0d667aa79fce7261d9c258f0357cef555d0ba71277108f39585043b"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/quantum-pharma.webp",
+      "bytes": 119940,
+      "sha256": "01dfc3277a78c181ad632b8e5e98c18c1dae1e978ccf7a74764cd8104c288052"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/red-cotton.webp",
+      "bytes": 173030,
+      "sha256": "09da5cd5bce5bf8ea2f9c7d972ef8575af08e9e89781950cfb19914bba703e15"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/sheffield-eg.webp",
+      "bytes": 112450,
+      "sha256": "c62ff47a620039f01c27b8846f49401fdff2183551fa40903c81e826a975f6f4"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/soficopharm.webp",
+      "bytes": 119738,
+      "sha256": "33370117d7a55417051c01f09c145c409b82ba8d8f40c752024177908d9c0488"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/tawasol-egypt.webp",
+      "bytes": 172838,
+      "sha256": "68d240f3360b162d6b1fc529de4136d6f4d701768626777c64d5f858f419d266"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/upcrealty.webp",
+      "bytes": 208082,
+      "sha256": "96571ef8499d7e030f4680cc626be0ad04858f448c2a930810aea456c86d19c7"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/wayup-sports.webp",
+      "bytes": 125172,
+      "sha256": "e9a4aa1a1cc34cac2284f5ca8ec2a4ffe353531629801af397305e1d1526aef8"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/ye-firm.webp",
+      "bytes": 163830,
+      "sha256": "c45b309312453a07b75add8bbfb62db69bcc5a3167450e0f3bb013f388f3ab0f"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/projects/zamzam-store.webp",
+      "bytes": 231846,
+      "sha256": "dfacc7bc9d83b8af5dcc581288fe6daa5804d6a12cb10121748984f413849eaa"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/images/social-card.png",
+      "bytes": 51983,
+      "sha256": "b54b0268948f7f436f16af4f2e860dbdbc205017efde15dfb640a0f7a1a0f144"
+    },
+    {
+      "path": "tmp/emailjs-configured/assets/mahmoud-fawzy c.v.pdf",
+      "bytes": 893937,
+      "sha256": "5e2a186f8092904d4ec11dbc6ee82f1791c765a8d4d789f42af709547bd51a81"
+    },
+    {
+      "path": "tmp/emailjs-configured/case-studies/happylife-tourism/index.html",
+      "bytes": 17086,
+      "sha256": "cffa2db0b0f15c5ef04ac6c9de9f05e54aa91ec86e9a18de1bab6538f6f8864a"
+    },
+    {
+      "path": "tmp/emailjs-configured/case-studies/index.html",
+      "bytes": 14111,
+      "sha256": "d2d16029567a43f010ecd9d1956d985037920cb2e8ea5f9ae409633ff83947ef"
+    },
+    {
+      "path": "tmp/emailjs-configured/case-studies/n8n-acquisition-workflow/index.html",
+      "bytes": 17817,
+      "sha256": "58b5d5024eeb826f14be31b4cad6b2f7bfa90aacf90f3edb9815d53020677f94"
+    },
+    {
+      "path": "tmp/emailjs-configured/case-studies/upc-realty/index.html",
+      "bytes": 17258,
+      "sha256": "a82d0939d15bf92946c6ed5e6429bbe70b308d52de609c3dc32135da60ecfb81"
+    },
+    {
+      "path": "tmp/emailjs-configured/contact/index.html",
+      "bytes": 19537,
+      "sha256": "2845140ea4521e3a4b9334176f421ef72fb4311cb7bf101a78f29efc6d423c54"
+    },
+    {
+      "path": "tmp/emailjs-configured/experience/index.html",
+      "bytes": 22913,
+      "sha256": "eb77112109c7b47d01bd0b6058dd449e61ecaa4b0f0e965fc52202ed64cd80b7"
+    },
+    {
+      "path": "tmp/emailjs-configured/index.html",
+      "bytes": 69789,
+      "sha256": "95cf7f2c56d1cf7ae072a839e5b9b819898d6fd94160342fecb1c09606c846d9"
+    },
+    {
+      "path": "tmp/emailjs-configured/privacy/index.html",
+      "bytes": 11057,
+      "sha256": "d68b13f5a8a20395a1362e86bfbd4771bab26b54ac191599620624ab7849ca4b"
+    },
+    {
+      "path": "tmp/emailjs-configured/robots.txt",
+      "bytes": 80,
+      "sha256": "7ab5589024aa82b870269997911c8bd186005b94cd945d220ed3d69756eddd44"
+    },
+    {
+      "path": "tmp/emailjs-configured/sitemap-0.xml",
+      "bytes": 904,
+      "sha256": "03598b5f427851097dca9ddefa8cf4d124e5ff0c123155dc4306388ce785fbfd"
+    },
+    {
+      "path": "tmp/emailjs-configured/sitemap-index.xml",
+      "bytes": 188,
+      "sha256": "187a2051f95237282776ef00a86e3d4a228112a258ea70dae7c83c36f6dd55ef"
+    },
+    {
+      "path": "tmp/emailjs-configured/work/index.html",
+      "bytes": 42670,
+      "sha256": "addfeadb9a11695a62447db757a9ce01ab599d5482b178515e890ba106f04346"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/BaseLayout.CQ6tlScu.css",
+      "bytes": 27215,
+      "sha256": "16e0792761f83c7a2115dedc19def2662919fe71d5aaf124cdf49e8b01c4e53a"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/client.DfMp84Gg.js",
+      "bytes": 134478,
+      "sha256": "55881799ecdfa39f2baf500313659e6e6ad3b31a89f26a2ff6a8ec34e7fc3d3a"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/ContactForm.C40kuWct.js",
+      "bytes": 8493,
+      "sha256": "61c7213d53fcf3d575efce820faccb834066db06bdca0cc757847475a50d3708"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-400-normal.BOb3E3N0.woff",
+      "bytes": 10532,
+      "sha256": "6076b418803564833cde2aece96c51b29927ab0a98dfbe727774d1a6c6e6c445"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-400-normal.cpxAROuN.woff2",
+      "bytes": 7884,
+      "sha256": "7d93459d86585bfcdbb7e0376056226adb25821ee54b96236fe2123e9560929f"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-500-normal.C8OXljZJ.woff2",
+      "bytes": 7748,
+      "sha256": "cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-500-normal.DGXqpDMm.woff",
+      "bytes": 10372,
+      "sha256": "abdc91ec7e4438b1e1d7f808d388614789d69037059b74a9d6166d00eb9b8b04"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-600-normal.BJdTmd5m.woff",
+      "bytes": 10600,
+      "sha256": "55fffef7b100460605349fa5215eb7dcd6e558e195d08e43eddc64c4b27d43b3"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-600-normal.zEkxB9Mr.woff2",
+      "bytes": 8000,
+      "sha256": "f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-700-normal.BVuQR_eA.woff",
+      "bytes": 10432,
+      "sha256": "927ba66258ea405f06205be694080f1126d186633c3c69cb839cfd0cfc5ee8ff"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/poppins-latin-700-normal.Qrb0O0WB.woff2",
+      "bytes": 7816,
+      "sha256": "9338e65fc077355c7a87ae0d64cc101e23b9bf8ad78ae65f0f319c857311b526"
+    },
+    {
+      "path": "tmp/emailjs-configured/_astro/react.nYwdmC-a.js",
+      "bytes": 6530,
+      "sha256": "622a81154b84defe8a614dee2cf4f8a0fbc7d3fbf88783e471fc71cc64f84d46"
+    }
+  ],
+  "distRuntimeReferences": [
+    "/_astro/BaseLayout.BSFzxaPp.css",
+    "/_astro/poppins-latin-400-normal.BOb3E3N0.woff",
+    "/_astro/poppins-latin-400-normal.cpxAROuN.woff2",
+    "/_astro/poppins-latin-500-normal.C8OXljZJ.woff2",
+    "/_astro/poppins-latin-500-normal.DGXqpDMm.woff",
+    "/_astro/poppins-latin-600-normal.BJdTmd5m.woff",
+    "/_astro/poppins-latin-600-normal.zEkxB9Mr.woff2",
+    "/_astro/poppins-latin-700-normal.BVuQR_eA.woff",
+    "/_astro/poppins-latin-700-normal.Qrb0O0WB.woff2",
+    "/assets/images/favicon.png",
+    "/assets/images/hero-profile.webp",
+    "/assets/images/my-logo.png",
+    "/assets/images/optimized/alarabi-publishing-480.webp",
+    "/assets/images/optimized/alarabi-publishing-800.webp",
+    "/assets/images/optimized/almaza-travel-480.webp",
+    "/assets/images/optimized/assafco-480.webp",
+    "/assets/images/optimized/contact-me-480.webp",
+    "/assets/images/optimized/cottonil-ae-480.webp",
+    "/assets/images/optimized/elbagour-egypt-480.webp",
+    "/assets/images/optimized/elbagour-egypt-800.webp",
+    "/assets/images/optimized/essentials-eg-480.webp",
+    "/assets/images/optimized/eve-chantelle-480.webp",
+    "/assets/images/optimized/eve-chantelle-800.webp",
+    "/assets/images/optimized/graphi-core-480.webp",
+    "/assets/images/optimized/graphi-core-800.webp",
+    "/assets/images/optimized/happylife-tourism-480.webp",
+    "/assets/images/optimized/happylife-tourism-800.webp",
+    "/assets/images/optimized/helm-egypt-480.webp",
+    "/assets/images/optimized/helm-egypt-800.webp",
+    "/assets/images/optimized/hero-profile-480.webp",
+    "/assets/images/optimized/hero-profile-800.webp",
+    "/assets/images/optimized/jazeel-480.webp",
+    "/assets/images/optimized/jazeel-800.webp",
+    "/assets/images/optimized/jcguide-travel-480.webp",
+    "/assets/images/optimized/jcguide-travel-800.webp",
+    "/assets/images/optimized/just-mention-it-480.webp",
+    "/assets/images/optimized/just-mention-it-800.webp",
+    "/assets/images/optimized/laguna-global-480.webp",
+    "/assets/images/optimized/laguna-global-800.webp",
+    "/assets/images/optimized/lmd-egypt-480.webp",
+    "/assets/images/optimized/lmd-egypt-800.webp",
+    "/assets/images/optimized/lmd-uae-480.webp",
+    "/assets/images/optimized/lmd-uae-800.webp",
+    "/assets/images/optimized/meka-egypt-tours-480.webp",
+    "/assets/images/optimized/miftah-alhuda-480.webp",
+    "/assets/images/optimized/miftah-alhuda-800.webp",
+    "/assets/images/optimized/motorsports-hub-480.webp",
+    "/assets/images/optimized/motorsports-hub-800.webp",
+    "/assets/images/optimized/mrowa-store-480.webp",
+    "/assets/images/optimized/mrowa-store-800.webp",
+    "/assets/images/optimized/novacure-480.webp",
+    "/assets/images/optimized/novacure-800.webp",
+    "/assets/images/optimized/pangulf-steel-480.webp",
+    "/assets/images/optimized/pangulf-steel-800.webp",
+    "/assets/images/optimized/quantum-pharma-480.webp",
+    "/assets/images/optimized/quantum-pharma-800.webp",
+    "/assets/images/optimized/red-cotton-480.webp",
+    "/assets/images/optimized/red-cotton-800.webp",
+    "/assets/images/optimized/sheffield-eg-480.webp",
+    "/assets/images/optimized/soficopharm-480.webp",
+    "/assets/images/optimized/soficopharm-800.webp",
+    "/assets/images/optimized/tawasol-egypt-480.webp",
+    "/assets/images/optimized/tawasol-egypt-800.webp",
+    "/assets/images/optimized/upcrealty-480.webp",
+    "/assets/images/optimized/upcrealty-800.webp",
+    "/assets/images/optimized/wayup-sports-480.webp",
+    "/assets/images/optimized/ye-firm-480.webp",
+    "/assets/images/optimized/ye-firm-800.webp",
+    "/assets/images/optimized/zamzam-store-480.webp",
+    "/assets/images/optimized/zamzam-store-800.webp",
+    "/assets/images/projects/happylife-tourism.webp",
+    "/assets/images/projects/upcrealty.webp",
+    "/assets/images/social-card.png",
+    "/assets/mahmoud-fawzy c.v.pdf"
+  ],
+  "analysisNotes": [
+    "Import candidates manually reviewed: removed a regex false positive in a case-study comment.",
+    "CSS static misses are not automatically deletions; JavaScript classes and current markup were reviewed.",
+    "runtimeReferenced means rendered HTML/CSS/structured-data reference, not build-input or Apache/crawler use."
+  ]
+}

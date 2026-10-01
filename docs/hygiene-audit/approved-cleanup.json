@@ -1,0 +1,45 @@
+{
+  "approvedDate": "2026-10-01",
+  "A1.": [
+    "tmp/emailjs-configured/",
+    "tmp/refine-styles.mjs",
+    ".astro/env.d.ts",
+    "src/assets/hero.png",
+    "tmp/pdfs/cv-1.png",
+    "tmp/pdfs/cv-2.png",
+    "tmp/pdfs/cv-3.png",
+    "src/components/Contact/",
+    "src/components/Expertise/",
+    "src/components/Footer/",
+    "src/components/Hero/",
+    "src/components/islands/",
+    "src/components/Navbar/",
+    "src/components/Portfolio/",
+    "src/components/Resume/",
+    "src/components/shared/",
+    "src/hooks/",
+    "src/assets/"
+  ],
+  "A3.": [
+    "public/assets/images/optimized/almaza-travel-800.webp",
+    "public/assets/images/optimized/assafco-800.webp",
+    "public/assets/images/optimized/contact-me-800.webp",
+    "public/assets/images/optimized/cottonil-ae-800.webp",
+    "public/assets/images/optimized/essentials-eg-800.webp",
+    "public/assets/images/optimized/meka-egypt-tours-800.webp",
+    "public/assets/images/optimized/sheffield-eg-800.webp",
+    "public/assets/images/optimized/wayup-sports-800.webp"
+  ],
+  "B.": [
+    "docs/visual-restoration/live-1280-contact.jpg",
+    "docs/visual-restoration/live-1280-experience.jpg",
+    "docs/visual-restoration/live-1440-contact.jpg",
+    "docs/visual-restoration/live-1440-experience.jpg",
+    "docs/visual-restoration/live-1440-projects.png",
+    "docs/visual-restoration/live-320-contact.jpg",
+    "docs/visual-restoration/live-320-experience.jpg",
+    "docs/visual-restoration/live-390-contact.jpg",
+    "docs/visual-restoration/live-390-experience.jpg",
+    "docs/visual-restoration/local-1280-contact.jpg"
+  ]
+}

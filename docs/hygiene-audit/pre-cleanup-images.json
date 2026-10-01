@@ -1,0 +1,734 @@
+[
+  {
+    "path": "404.html",
+    "images": [
+      {
+        "src": "/assets/images/my-logo.png",
+        "alt": "Mahmoud Fawzy",
+        "width": "357",
+        "height": "100"
+      }
+    ]
+  },
+  {
+    "path": "case-studies/happylife-tourism/index.html",
+    "images": [
+      {
+        "src": "/assets/images/my-logo.png",
+        "alt": "Mahmoud Fawzy",
+        "width": "357",
+        "height": "100"
+      },
+      {
+        "src": "/assets/images/projects/happylife-tourism.webp",
+        "alt": "Happylife Tourism homepage",
+        "width": "564",
+        "height": "2096",
+        "loading": "eager"
+      }
+    ]
+  },
+  {
+    "path": "case-studies/index.html",
+    "images": [
+      {
+        "src": "/assets/images/my-logo.png",
+        "alt": "Mahmoud Fawzy",
+        "width": "357",
+        "height": "100"
+      },
+      {
+        "src": "/assets/images/optimized/happylife-tourism-800.webp",
+        "srcset": "/assets/images/optimized/happylife-tourism-480.webp 480w, /assets/images/optimized/happylife-tourism-800.webp 564w",
+        "width": "564",
+        "height": "2096",
+        "sizes": "(max-width: 767px) 90vw, 45vw",
+        "alt": "Happylife Tourism website homepage",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/upcrealty-800.webp",
+        "srcset": "/assets/images/optimized/upcrealty-480.webp 480w, /assets/images/optimized/upcrealty-800.webp 800w",
+        "width": "800",
+        "height": "2190",
+        "sizes": "(max-width: 767px) 90vw, 45vw",
+        "alt": "UPC Realty website homepage",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "path": "case-studies/n8n-acquisition-workflow/index.html",
+    "images": [
+      {
+        "src": "/assets/images/my-logo.png",
+        "alt": "Mahmoud Fawzy",
+        "width": "357",
+        "height": "100"
+      }
+    ]
+  },
+  {
+    "path": "case-studies/upc-realty/index.html",
+    "images": [
+      {
+        "src": "/assets/images/my-logo.png",
+        "alt": "Mahmoud Fawzy",
+        "width": "357",
+        "height": "100"
+      },
+      {
+        "src": "/assets/images/projects/upcrealty.webp",
+        "alt": "UPC Realty homepage",
+        "width": "1179",
+        "height": "3227",
+        "loading": "eager"
+      }
+    ]
+  },
+  {
+    "path": "contact/index.html",
+    "images": [
+      {
+        "src": "/assets/images/my-logo.png",
+        "alt": "Mahmoud Fawzy",
+        "width": "357",
+        "height": "100"
+      },
+      {
+        "class": "contact-photo",
+        "src": "/assets/images/optimized/contact-me-480.webp",
+        "alt": "Mahmoud Fawzy",
+        "width": "480",
+        "height": "313",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "path": "experience/index.html",
+    "images": [
+      {
+        "src": "/assets/images/my-logo.png",
+        "alt": "Mahmoud Fawzy",
+        "width": "357",
+        "height": "100"
+      }
+    ]
+  },
+  {
+    "path": "index.html",
+    "images": [
+      {
+        "src": "/assets/images/my-logo.png",
+        "alt": "Mahmoud Fawzy",
+        "width": "357",
+        "height": "100"
+      },
+      {
+        "src": "/assets/images/optimized/hero-profile-800.webp",
+        "srcset": "/assets/images/optimized/hero-profile-480.webp 480w, /assets/images/optimized/hero-profile-800.webp 800w",
+        "sizes": "(max-width: 991px) min(85vw, 470px), 30vw",
+        "alt": "Mahmoud Fawzy",
+        "width": "800",
+        "height": "754",
+        "fetchpriority": "high"
+      },
+      {
+        "src": "/assets/images/optimized/happylife-tourism-480.webp",
+        "srcset": "/assets/images/optimized/happylife-tourism-480.webp 480w, /assets/images/optimized/happylife-tourism-800.webp 564w",
+        "width": "480",
+        "height": "1784",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Happylife Tourism website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/ye-firm-480.webp",
+        "srcset": "/assets/images/optimized/ye-firm-480.webp 480w, /assets/images/optimized/ye-firm-800.webp 800w",
+        "width": "480",
+        "height": "833",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Yasmin Emam Law Firm website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/upcrealty-480.webp",
+        "srcset": "/assets/images/optimized/upcrealty-480.webp 480w, /assets/images/optimized/upcrealty-800.webp 800w",
+        "width": "480",
+        "height": "1314",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "UPC Realty website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/jazeel-480.webp",
+        "srcset": "/assets/images/optimized/jazeel-480.webp 480w, /assets/images/optimized/jazeel-800.webp 605w",
+        "width": "480",
+        "height": "2208",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "جزيل | شركة تسويق إلكتروني website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/zamzam-store-480.webp",
+        "srcset": "/assets/images/optimized/zamzam-store-480.webp 480w, /assets/images/optimized/zamzam-store-800.webp 800w",
+        "width": "480",
+        "height": "1439",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Zamzam Store website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/mrowa-store-480.webp",
+        "srcset": "/assets/images/optimized/mrowa-store-480.webp 480w, /assets/images/optimized/mrowa-store-800.webp 563w",
+        "width": "480",
+        "height": "2140",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Mrowa Store website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/motorsports-hub-480.webp",
+        "srcset": "/assets/images/optimized/motorsports-hub-480.webp 480w, /assets/images/optimized/motorsports-hub-800.webp 654w",
+        "width": "480",
+        "height": "1530",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Motorsports Hub website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/lmd-egypt-480.webp",
+        "srcset": "/assets/images/optimized/lmd-egypt-480.webp 480w, /assets/images/optimized/lmd-egypt-800.webp 498w",
+        "width": "480",
+        "height": "2383",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "LMD Egypt website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/pangulf-steel-480.webp",
+        "srcset": "/assets/images/optimized/pangulf-steel-480.webp 480w, /assets/images/optimized/pangulf-steel-800.webp 800w",
+        "width": "480",
+        "height": "845",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "PanGulf – Steel website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/almaza-travel-480.webp",
+        "srcset": "/assets/images/optimized/almaza-travel-480.webp 442w",
+        "width": "442",
+        "height": "2407",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Almaza Travel website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/miftah-alhuda-480.webp",
+        "srcset": "/assets/images/optimized/miftah-alhuda-480.webp 480w, /assets/images/optimized/miftah-alhuda-800.webp 751w",
+        "width": "480",
+        "height": "1244",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Miftah Alhuda website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/tawasol-egypt-480.webp",
+        "srcset": "/assets/images/optimized/tawasol-egypt-480.webp 480w, /assets/images/optimized/tawasol-egypt-800.webp 800w",
+        "width": "480",
+        "height": "1306",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Tawasol Egypt website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/graphi-core-480.webp",
+        "srcset": "/assets/images/optimized/graphi-core-480.webp 480w, /assets/images/optimized/graphi-core-800.webp 534w",
+        "width": "480",
+        "height": "1742",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Graphi Core Academy website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/quantum-pharma-480.webp",
+        "srcset": "/assets/images/optimized/quantum-pharma-480.webp 480w, /assets/images/optimized/quantum-pharma-800.webp 672w",
+        "width": "480",
+        "height": "1551",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Quantum Pharma website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/jcguide-travel-480.webp",
+        "srcset": "/assets/images/optimized/jcguide-travel-480.webp 480w, /assets/images/optimized/jcguide-travel-800.webp 777w",
+        "width": "480",
+        "height": "1696",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "JC Guide Travel website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/novacure-480.webp",
+        "srcset": "/assets/images/optimized/novacure-480.webp 480w, /assets/images/optimized/novacure-800.webp 800w",
+        "width": "480",
+        "height": "733",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Novacure website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/elbagour-egypt-480.webp",
+        "srcset": "/assets/images/optimized/elbagour-egypt-480.webp 480w, /assets/images/optimized/elbagour-egypt-800.webp 800w",
+        "width": "480",
+        "height": "1354",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "El Bagour Egypt website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/laguna-global-480.webp",
+        "srcset": "/assets/images/optimized/laguna-global-480.webp 480w, /assets/images/optimized/laguna-global-800.webp 734w",
+        "width": "480",
+        "height": "1634",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Laguna Global website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/lmd-uae-480.webp",
+        "srcset": "/assets/images/optimized/lmd-uae-480.webp 480w, /assets/images/optimized/lmd-uae-800.webp 493w",
+        "width": "480",
+        "height": "2369",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "LMD UAE website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/alarabi-publishing-480.webp",
+        "srcset": "/assets/images/optimized/alarabi-publishing-480.webp 480w, /assets/images/optimized/alarabi-publishing-800.webp 742w",
+        "width": "480",
+        "height": "1644",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Alarabi Publishing website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/just-mention-it-480.webp",
+        "srcset": "/assets/images/optimized/just-mention-it-480.webp 480w, /assets/images/optimized/just-mention-it-800.webp 800w",
+        "width": "480",
+        "height": "1180",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Just Mention It website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/meka-egypt-tours-480.webp",
+        "srcset": "/assets/images/optimized/meka-egypt-tours-480.webp 267w",
+        "width": "267",
+        "height": "2272",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Meka Egypt Tours website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/assafco-480.webp",
+        "srcset": "/assets/images/optimized/assafco-480.webp 366w",
+        "width": "366",
+        "height": "2108",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Assafco website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/helm-egypt-480.webp",
+        "srcset": "/assets/images/optimized/helm-egypt-480.webp 480w, /assets/images/optimized/helm-egypt-800.webp 500w",
+        "width": "480",
+        "height": "2384",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Helm Egypt website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/soficopharm-480.webp",
+        "srcset": "/assets/images/optimized/soficopharm-480.webp 480w, /assets/images/optimized/soficopharm-800.webp 800w",
+        "width": "480",
+        "height": "1308",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Soficopharm website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/eve-chantelle-480.webp",
+        "srcset": "/assets/images/optimized/eve-chantelle-480.webp 480w, /assets/images/optimized/eve-chantelle-800.webp 556w",
+        "width": "480",
+        "height": "1772",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Eve Chantelle website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/wayup-sports-480.webp",
+        "srcset": "/assets/images/optimized/wayup-sports-480.webp 224w",
+        "width": "224",
+        "height": "2396",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Wayup Sports website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/red-cotton-480.webp",
+        "srcset": "/assets/images/optimized/red-cotton-480.webp 480w, /assets/images/optimized/red-cotton-800.webp 604w",
+        "width": "480",
+        "height": "2208",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Red Cotton website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/sheffield-eg-480.webp",
+        "srcset": "/assets/images/optimized/sheffield-eg-480.webp 333w",
+        "width": "333",
+        "height": "2322",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Sheffield EG website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/cottonil-ae-480.webp",
+        "srcset": "/assets/images/optimized/cottonil-ae-480.webp 376w",
+        "width": "376",
+        "height": "2695",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Cottonil AE website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/essentials-eg-480.webp",
+        "srcset": "/assets/images/optimized/essentials-eg-480.webp 462w",
+        "width": "462",
+        "height": "2231",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Essentials EG website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/happylife-tourism-800.webp",
+        "srcset": "/assets/images/optimized/happylife-tourism-480.webp 480w, /assets/images/optimized/happylife-tourism-800.webp 564w",
+        "width": "564",
+        "height": "2096",
+        "sizes": "(max-width: 767px) 90vw, 45vw",
+        "alt": "Happylife Tourism website homepage",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/upcrealty-800.webp",
+        "srcset": "/assets/images/optimized/upcrealty-480.webp 480w, /assets/images/optimized/upcrealty-800.webp 800w",
+        "width": "800",
+        "height": "2190",
+        "sizes": "(max-width: 767px) 90vw, 45vw",
+        "alt": "UPC Realty website homepage",
+        "loading": "lazy"
+      },
+      {
+        "class": "contact-photo",
+        "src": "/assets/images/optimized/contact-me-480.webp",
+        "alt": "Mahmoud Fawzy",
+        "width": "480",
+        "height": "313",
+        "loading": "lazy"
+      }
+    ]
+  },
+  {
+    "path": "work/index.html",
+    "images": [
+      {
+        "src": "/assets/images/my-logo.png",
+        "alt": "Mahmoud Fawzy",
+        "width": "357",
+        "height": "100"
+      },
+      {
+        "src": "/assets/images/optimized/happylife-tourism-480.webp",
+        "srcset": "/assets/images/optimized/happylife-tourism-480.webp 480w, /assets/images/optimized/happylife-tourism-800.webp 564w",
+        "width": "480",
+        "height": "1784",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Happylife Tourism website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/ye-firm-480.webp",
+        "srcset": "/assets/images/optimized/ye-firm-480.webp 480w, /assets/images/optimized/ye-firm-800.webp 800w",
+        "width": "480",
+        "height": "833",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Yasmin Emam Law Firm website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/upcrealty-480.webp",
+        "srcset": "/assets/images/optimized/upcrealty-480.webp 480w, /assets/images/optimized/upcrealty-800.webp 800w",
+        "width": "480",
+        "height": "1314",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "UPC Realty website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/jazeel-480.webp",
+        "srcset": "/assets/images/optimized/jazeel-480.webp 480w, /assets/images/optimized/jazeel-800.webp 605w",
+        "width": "480",
+        "height": "2208",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "جزيل | شركة تسويق إلكتروني website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/zamzam-store-480.webp",
+        "srcset": "/assets/images/optimized/zamzam-store-480.webp 480w, /assets/images/optimized/zamzam-store-800.webp 800w",
+        "width": "480",
+        "height": "1439",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Zamzam Store website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/mrowa-store-480.webp",
+        "srcset": "/assets/images/optimized/mrowa-store-480.webp 480w, /assets/images/optimized/mrowa-store-800.webp 563w",
+        "width": "480",
+        "height": "2140",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Mrowa Store website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/motorsports-hub-480.webp",
+        "srcset": "/assets/images/optimized/motorsports-hub-480.webp 480w, /assets/images/optimized/motorsports-hub-800.webp 654w",
+        "width": "480",
+        "height": "1530",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Motorsports Hub website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/lmd-egypt-480.webp",
+        "srcset": "/assets/images/optimized/lmd-egypt-480.webp 480w, /assets/images/optimized/lmd-egypt-800.webp 498w",
+        "width": "480",
+        "height": "2383",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "LMD Egypt website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/pangulf-steel-480.webp",
+        "srcset": "/assets/images/optimized/pangulf-steel-480.webp 480w, /assets/images/optimized/pangulf-steel-800.webp 800w",
+        "width": "480",
+        "height": "845",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "PanGulf – Steel website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/almaza-travel-480.webp",
+        "srcset": "/assets/images/optimized/almaza-travel-480.webp 442w",
+        "width": "442",
+        "height": "2407",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Almaza Travel website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/miftah-alhuda-480.webp",
+        "srcset": "/assets/images/optimized/miftah-alhuda-480.webp 480w, /assets/images/optimized/miftah-alhuda-800.webp 751w",
+        "width": "480",
+        "height": "1244",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Miftah Alhuda website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/tawasol-egypt-480.webp",
+        "srcset": "/assets/images/optimized/tawasol-egypt-480.webp 480w, /assets/images/optimized/tawasol-egypt-800.webp 800w",
+        "width": "480",
+        "height": "1306",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Tawasol Egypt website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/graphi-core-480.webp",
+        "srcset": "/assets/images/optimized/graphi-core-480.webp 480w, /assets/images/optimized/graphi-core-800.webp 534w",
+        "width": "480",
+        "height": "1742",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Graphi Core Academy website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/quantum-pharma-480.webp",
+        "srcset": "/assets/images/optimized/quantum-pharma-480.webp 480w, /assets/images/optimized/quantum-pharma-800.webp 672w",
+        "width": "480",
+        "height": "1551",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Quantum Pharma website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/jcguide-travel-480.webp",
+        "srcset": "/assets/images/optimized/jcguide-travel-480.webp 480w, /assets/images/optimized/jcguide-travel-800.webp 777w",
+        "width": "480",
+        "height": "1696",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "JC Guide Travel website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/novacure-480.webp",
+        "srcset": "/assets/images/optimized/novacure-480.webp 480w, /assets/images/optimized/novacure-800.webp 800w",
+        "width": "480",
+        "height": "733",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Novacure website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/elbagour-egypt-480.webp",
+        "srcset": "/assets/images/optimized/elbagour-egypt-480.webp 480w, /assets/images/optimized/elbagour-egypt-800.webp 800w",
+        "width": "480",
+        "height": "1354",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "El Bagour Egypt website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/laguna-global-480.webp",
+        "srcset": "/assets/images/optimized/laguna-global-480.webp 480w, /assets/images/optimized/laguna-global-800.webp 734w",
+        "width": "480",
+        "height": "1634",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Laguna Global website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/lmd-uae-480.webp",
+        "srcset": "/assets/images/optimized/lmd-uae-480.webp 480w, /assets/images/optimized/lmd-uae-800.webp 493w",
+        "width": "480",
+        "height": "2369",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "LMD UAE website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/alarabi-publishing-480.webp",
+        "srcset": "/assets/images/optimized/alarabi-publishing-480.webp 480w, /assets/images/optimized/alarabi-publishing-800.webp 742w",
+        "width": "480",
+        "height": "1644",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Alarabi Publishing website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/just-mention-it-480.webp",
+        "srcset": "/assets/images/optimized/just-mention-it-480.webp 480w, /assets/images/optimized/just-mention-it-800.webp 800w",
+        "width": "480",
+        "height": "1180",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Just Mention It website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/meka-egypt-tours-480.webp",
+        "srcset": "/assets/images/optimized/meka-egypt-tours-480.webp 267w",
+        "width": "267",
+        "height": "2272",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Meka Egypt Tours website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/assafco-480.webp",
+        "srcset": "/assets/images/optimized/assafco-480.webp 366w",
+        "width": "366",
+        "height": "2108",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Assafco website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/helm-egypt-480.webp",
+        "srcset": "/assets/images/optimized/helm-egypt-480.webp 480w, /assets/images/optimized/helm-egypt-800.webp 500w",
+        "width": "480",
+        "height": "2384",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Helm Egypt website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/soficopharm-480.webp",
+        "srcset": "/assets/images/optimized/soficopharm-480.webp 480w, /assets/images/optimized/soficopharm-800.webp 800w",
+        "width": "480",
+        "height": "1308",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Soficopharm website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/eve-chantelle-480.webp",
+        "srcset": "/assets/images/optimized/eve-chantelle-480.webp 480w, /assets/images/optimized/eve-chantelle-800.webp 556w",
+        "width": "480",
+        "height": "1772",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Eve Chantelle website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/wayup-sports-480.webp",
+        "srcset": "/assets/images/optimized/wayup-sports-480.webp 224w",
+        "width": "224",
+        "height": "2396",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Wayup Sports website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/red-cotton-480.webp",
+        "srcset": "/assets/images/optimized/red-cotton-480.webp 480w, /assets/images/optimized/red-cotton-800.webp 604w",
+        "width": "480",
+        "height": "2208",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Red Cotton website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/sheffield-eg-480.webp",
+        "srcset": "/assets/images/optimized/sheffield-eg-480.webp 333w",
+        "width": "333",
+        "height": "2322",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Sheffield EG website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/cottonil-ae-480.webp",
+        "srcset": "/assets/images/optimized/cottonil-ae-480.webp 376w",
+        "width": "376",
+        "height": "2695",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Cottonil AE website",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/optimized/essentials-eg-480.webp",
+        "srcset": "/assets/images/optimized/essentials-eg-480.webp 462w",
+        "width": "462",
+        "height": "2231",
+        "sizes": "(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw",
+        "alt": "Essentials EG website",
+        "loading": "lazy"
+      }
+    ]
+  }
+]

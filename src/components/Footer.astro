@@ -1,0 +1,11 @@
+---
+import { profile } from '../data/profile';
+import SocialLinks from './SocialLinks.astro';
+---
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <nav aria-label="Footer navigation"><a href="/">Home</a><a href="/work/">Projects</a><a href="/case-studies/">Case studies</a><a href="/experience/">Experience</a><a href={profile.cv} download>CV</a><a href="/contact/">Contact</a></nav>
+    <SocialLinks />
+    <p class="footer-copy">© {new Date().getFullYear()} Mahmoud Fawzy. All rights reserved.</p>
+  </div>
+</footer>

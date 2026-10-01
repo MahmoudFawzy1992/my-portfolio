@@ -1,0 +1,8 @@
+---
+import { technologyGroups } from '../data/profile';
+import Icon from './Icon.astro';
+interface Props { compact?: boolean; }
+const { compact = false } = Astro.props;
+const groups = compact ? technologyGroups.slice(0, 4) : technologyGroups;
+---
+<div class="technology-grid">{groups.map(group => <article class="technology-group surface" data-reveal><Icon name={group.icon} class="capability-icon" /><h3>{group.title}</h3><p>{group.description}</p><div class="chips">{(compact ? group.items.slice(0, 5) : group.items).map(item => <span>{item}</span>)}</div></article>)}</div>

@@ -1,0 +1,41 @@
+[
+  {
+    "button": "rgb(255, 1, 79)",
+    "email": "mailto:mahmoud.fawzy1992.2@gmail.com",
+    "forms": 0,
+    "overflow": false,
+    "profiles": [
+      "https://www.linkedin.com/in/mahmoud-fawzy-a84215158/",
+      "https://github.com/MahmoudFawzy1992"
+    ],
+    "selectable": "all",
+    "text": "rgb(16, 17, 20)",
+    "width": 1440
+  },
+  {
+    "button": "rgb(255, 1, 79)",
+    "email": "mailto:mahmoud.fawzy1992.2@gmail.com",
+    "forms": 0,
+    "overflow": false,
+    "profiles": [
+      "https://www.linkedin.com/in/mahmoud-fawzy-a84215158/",
+      "https://github.com/MahmoudFawzy1992"
+    ],
+    "selectable": "all",
+    "text": "rgb(16, 17, 20)",
+    "width": 390
+  },
+  {
+    "button": "rgb(255, 1, 79)",
+    "email": "mailto:mahmoud.fawzy1992.2@gmail.com",
+    "forms": 0,
+    "overflow": false,
+    "profiles": [
+      "https://www.linkedin.com/in/mahmoud-fawzy-a84215158/",
+      "https://github.com/MahmoudFawzy1992"
+    ],
+    "selectable": "all",
+    "text": "rgb(16, 17, 20)",
+    "width": 320
+  }
+]

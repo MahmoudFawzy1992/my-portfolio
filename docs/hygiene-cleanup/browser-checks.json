@@ -1,0 +1,272 @@
+[
+  {
+    "page": "home",
+    "width": 1440,
+    "documentWidth": 1434,
+    "heroAnimation": "hero-left",
+    "typed": "F",
+    "viewport": 1440,
+    "visibleBrokenImages": []
+  },
+  {
+    "test": "typing changed",
+    "initial": "F",
+    "later": "A"
+  },
+  {
+    "test": "homepage anchor navigation",
+    "hash": "#portfolio",
+    "headerScrolled": false,
+    "scrollY": 44
+  },
+  {
+    "test": "React filter",
+    "status": "Showing 2 of 2 React projects"
+  },
+  {
+    "test": "load more",
+    "status": "Showing 15 of 31 projects"
+  },
+  {
+    "test": "scroll settled",
+    "hash": "#portfolio",
+    "headerScrolled": true,
+    "scrollY": 3455,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "documentWidth": 384,
+    "viewport": 390,
+    "visibleBrokenImages": []
+  },
+  {
+    "test": "mobile drawer open",
+    "open": true
+  },
+  {
+    "test": "Escape closes drawer",
+    "focus": "Open navigation",
+    "open": false
+  },
+  {
+    "test": "mobile section navigation settled",
+    "hash": "#portfolio",
+    "headerScrolled": true,
+    "menuOpen": false,
+    "scrollY": 3825
+  },
+  {
+    "page": "/",
+    "width": 390,
+    "documentWidth": 384,
+    "h1": "Hi, I’m Mahmoud Fawzy",
+    "viewport": 390,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/work/",
+    "width": 390,
+    "documentWidth": 384,
+    "h1": "My Projects",
+    "viewport": 390,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/experience/",
+    "width": 390,
+    "documentWidth": 384,
+    "h1": "Experience & Skills",
+    "viewport": 390,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/contact/",
+    "width": 390,
+    "documentWidth": 384,
+    "h1": "Contact Me",
+    "viewport": 390,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/",
+    "width": 390,
+    "documentWidth": 384,
+    "h1": "My Case Studies",
+    "viewport": 390,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/happylife-tourism/",
+    "width": 390,
+    "documentWidth": 384,
+    "h1": "Happylife Tourism.",
+    "viewport": 390,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/upc-realty/",
+    "width": 390,
+    "documentWidth": 384,
+    "h1": "UPC Realty.",
+    "viewport": 390,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/n8n-acquisition-workflow/",
+    "width": 390,
+    "documentWidth": 384,
+    "h1": "Resumable acquisition workflow.",
+    "viewport": 390,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/",
+    "width": 320,
+    "documentWidth": 314,
+    "h1": "Hi, I’m Mahmoud Fawzy",
+    "viewport": 320,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/work/",
+    "width": 320,
+    "documentWidth": 314,
+    "h1": "My Projects",
+    "viewport": 320,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/experience/",
+    "width": 320,
+    "documentWidth": 314,
+    "h1": "Experience & Skills",
+    "viewport": 320,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/contact/",
+    "width": 320,
+    "documentWidth": 314,
+    "h1": "Contact Me",
+    "viewport": 320,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/",
+    "width": 320,
+    "documentWidth": 314,
+    "h1": "My Case Studies",
+    "viewport": 320,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/happylife-tourism/",
+    "width": 320,
+    "documentWidth": 314,
+    "h1": "Happylife Tourism.",
+    "viewport": 320,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/upc-realty/",
+    "width": 320,
+    "documentWidth": 314,
+    "h1": "UPC Realty.",
+    "viewport": 320,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/n8n-acquisition-workflow/",
+    "width": 320,
+    "documentWidth": 314,
+    "h1": "Resumable acquisition workflow.",
+    "viewport": 320,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/",
+    "width": 1440,
+    "documentWidth": 1434,
+    "h1": "Hi, I’m Mahmoud Fawzy",
+    "viewport": 1440,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/work/",
+    "width": 1440,
+    "documentWidth": 1434,
+    "h1": "My Projects",
+    "viewport": 1440,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/experience/",
+    "width": 1440,
+    "documentWidth": 1434,
+    "h1": "Experience & Skills",
+    "viewport": 1440,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/contact/",
+    "width": 1440,
+    "documentWidth": 1434,
+    "h1": "Contact Me",
+    "viewport": 1440,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/",
+    "width": 1440,
+    "documentWidth": 1434,
+    "h1": "My Case Studies",
+    "viewport": 1440,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/happylife-tourism/",
+    "width": 1440,
+    "documentWidth": 1434,
+    "h1": "Happylife Tourism.",
+    "viewport": 1440,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/upc-realty/",
+    "width": 1440,
+    "documentWidth": 1434,
+    "h1": "UPC Realty.",
+    "viewport": 1440,
+    "visibleBrokenImages": []
+  },
+  {
+    "page": "/case-studies/n8n-acquisition-workflow/",
+    "width": 1440,
+    "documentWidth": 1434,
+    "h1": "Resumable acquisition workflow.",
+    "viewport": 1440,
+    "visibleBrokenImages": []
+  },
+  {
+    "test": "project hover preview",
+    "cardTransform": "matrix(1, 0, 0, 1, 0, -10)",
+    "hover": true,
+    "imagePosition": "50% 4.52957%",
+    "overlayOpacity": "1"
+  },
+  {
+    "test": "dedicated header navigation",
+    "url": "http://127.0.0.1:4173/case-studies/"
+  },
+  {
+    "test": "case study navigation",
+    "url": "http://127.0.0.1:4173/case-studies/happylife-tourism/",
+    "heading": "Happylife Tourism."
+  },
+  {
+    "test": "404 presentation",
+    "heading": "This page\nisn’t here."
+  }
+]

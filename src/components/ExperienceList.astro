@@ -1,0 +1,10 @@
+---
+import { experienceItems } from '../data/experience';
+interface Props { compact?: boolean; }
+const { compact = false } = Astro.props;
+const sorted = [experienceItems[2], experienceItems[0], experienceItems[1], ...experienceItems.slice(3)];
+const list = compact ? [experienceItems[2], experienceItems[3], experienceItems[4]] : sorted;
+---
+<div class:list={['experience-list', { 'experience-compact': compact }]}>
+  {list.map(item => <article class="experience-card" data-reveal><div class="experience-date"><span>{item.period}</span><span>{item.location}</span></div><div class="experience-detail"><p class="eyebrow">{item.company}</p><h3>{item.title}</h3>{item.bullets.length > 0 && <ul>{item.bullets.map(bullet => <li>{bullet}</li>)}</ul>}</div></article>)}
+</div>

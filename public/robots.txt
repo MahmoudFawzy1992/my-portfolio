@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mahmoud-fawzy.com/sitemap.xml
+Sitemap: https://mahmoud-fawzy.com/sitemap-index.xml

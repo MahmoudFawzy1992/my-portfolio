@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ExperienceList from '../components/ExperienceList.astro';
+import TechnologyGroups from '../components/TechnologyGroups.astro';
+import { profile } from '../data/profile';
+import SectionHeading from '../components/SectionHeading.astro';
+---
+<BaseLayout title="Experience & Technical Skills | Mahmoud Fawzy" description="Mahmoud Fawzy’s development experience and skills: WordPress, React/Next.js, backend APIs, n8n, Linux, Docker and deployment workflows.">
+  <section class="page-hero container"><p class="eyebrow">Resume</p><h1>Experience <span class="accent">& Skills</span></h1><p class="page-intro">I’ve worked in professional web development since 2018, across agency websites, e-commerce, web applications and business automation.</p><a class="button button-primary" href={profile.cv} download="Mahmoud-Fawzy-CV.pdf">Download my CV ↓</a></section>
+  <section class="section" aria-labelledby="employment-heading"><div class="container"><SectionHeading eyebrow="Career" title="Professional Experience" id="employment-heading" /><ExperienceList /></div></section>
+  <section class="section technologies-section" aria-labelledby="skills-heading"><div class="container"><SectionHeading eyebrow="Technical skills" title="From Development to Deployment" id="skills-heading" /><TechnologyGroups /><div class="background-grid"><div class="surface"><h3>Languages</h3><p>Arabic: native.<br />English: excellent written and spoken proficiency.</p></div><div class="surface"><h3>Working with teams</h3><p>I work with designers, marketers and developers to implement features, investigate issues and maintain websites and applications.</p></div></div></div></section>
+</BaseLayout>

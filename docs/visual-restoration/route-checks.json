@@ -1,0 +1,209 @@
+[
+  {
+    "route": "/case-studies/happylife-tourism/",
+    "brokenImages": 0,
+    "overflow": false,
+    "overlay": false,
+    "title": "Happylife Tourism Case Study | Mahmoud Fawzy",
+    "width": 1440
+  },
+  {
+    "route": "/case-studies/upc-realty/",
+    "brokenImages": 0,
+    "overflow": false,
+    "overlay": false,
+    "title": "UPC Realty Case Study | Mahmoud Fawzy",
+    "width": 1440
+  },
+  {
+    "route": "/case-studies/n8n-acquisition-workflow/",
+    "brokenImages": 0,
+    "overflow": false,
+    "overlay": false,
+    "title": "Resumable acquisition workflow Case Study | Mahmoud Fawzy",
+    "width": 1440
+  },
+  {
+    "route": "/case-studies/happylife-tourism/",
+    "brokenImages": 0,
+    "overflow": false,
+    "overlay": false,
+    "title": "Happylife Tourism Case Study | Mahmoud Fawzy",
+    "width": 390
+  },
+  {
+    "route": "/case-studies/upc-realty/",
+    "brokenImages": 0,
+    "overflow": false,
+    "overlay": false,
+    "title": "UPC Realty Case Study | Mahmoud Fawzy",
+    "width": 390
+  },
+  {
+    "route": "/case-studies/n8n-acquisition-workflow/",
+    "brokenImages": 0,
+    "overflow": false,
+    "overlay": false,
+    "title": "Resumable acquisition workflow Case Study | Mahmoud Fawzy",
+    "width": 390
+  },
+  {
+    "route": "/case-studies/happylife-tourism/",
+    "brokenImages": 0,
+    "overflow": false,
+    "overlay": false,
+    "title": "Happylife Tourism Case Study | Mahmoud Fawzy",
+    "width": 320
+  },
+  {
+    "route": "/case-studies/upc-realty/",
+    "brokenImages": 0,
+    "overflow": false,
+    "overlay": false,
+    "title": "UPC Realty Case Study | Mahmoud Fawzy",
+    "width": 320
+  },
+  {
+    "route": "/case-studies/n8n-acquisition-workflow/",
+    "brokenImages": 0,
+    "overflow": false,
+    "overlay": false,
+    "title": "Resumable acquisition workflow Case Study | Mahmoud Fawzy",
+    "width": 320
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 117,
+    "overflow": false,
+    "overlay": false,
+    "route": "/work/",
+    "title": "Work & Projects | Mahmoud Fawzy",
+    "width": 1440
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 117,
+    "overflow": false,
+    "overlay": false,
+    "route": "/case-studies/",
+    "title": "Development Case Studies | Mahmoud Fawzy",
+    "width": 1440
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 117,
+    "overflow": false,
+    "overlay": false,
+    "route": "/experience/",
+    "title": "Experience & Technical Skills | Mahmoud Fawzy",
+    "width": 1440
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 117,
+    "overflow": false,
+    "overlay": false,
+    "route": "/contact/",
+    "title": "Contact Mahmoud Fawzy | Developer Opportunities & Projects",
+    "width": 1440
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 117,
+    "overflow": false,
+    "overlay": false,
+    "route": "/privacy/",
+    "title": "Contact Privacy | Mahmoud Fawzy",
+    "width": 1440
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 0,
+    "overflow": false,
+    "overlay": false,
+    "route": "/work/",
+    "title": "Work & Projects | Mahmoud Fawzy",
+    "width": 390
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 0,
+    "overflow": false,
+    "overlay": false,
+    "route": "/case-studies/",
+    "title": "Development Case Studies | Mahmoud Fawzy",
+    "width": 390
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 0,
+    "overflow": false,
+    "overlay": false,
+    "route": "/experience/",
+    "title": "Experience & Technical Skills | Mahmoud Fawzy",
+    "width": 390
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 0,
+    "overflow": false,
+    "overlay": false,
+    "route": "/contact/",
+    "title": "Contact Mahmoud Fawzy | Developer Opportunities & Projects",
+    "width": 390
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 0,
+    "overflow": false,
+    "overlay": false,
+    "route": "/privacy/",
+    "title": "Contact Privacy | Mahmoud Fawzy",
+    "width": 390
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 0,
+    "overflow": false,
+    "overlay": false,
+    "route": "/work/",
+    "title": "Work & Projects | Mahmoud Fawzy",
+    "width": 320
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 0,
+    "overflow": false,
+    "overlay": false,
+    "route": "/case-studies/",
+    "title": "Development Case Studies | Mahmoud Fawzy",
+    "width": 320
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 0,
+    "overflow": false,
+    "overlay": false,
+    "route": "/experience/",
+    "title": "Experience & Technical Skills | Mahmoud Fawzy",
+    "width": 320
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 0,
+    "overflow": false,
+    "overlay": false,
+    "route": "/contact/",
+    "title": "Contact Mahmoud Fawzy | Developer Opportunities & Projects",
+    "width": 320
+  },
+  {
+    "brokenImages": 0,
+    "heroLeft": 0,
+    "overflow": false,
+    "overlay": false,
+    "route": "/privacy/",
+    "title": "Contact Privacy | Mahmoud Fawzy",
+    "width": 320
+  }
+]

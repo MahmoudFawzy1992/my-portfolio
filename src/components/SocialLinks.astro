@@ -1,0 +1,8 @@
+---
+import Icon from './Icon.astro';
+import { profile } from '../data/profile';
+---
+<div class="social-links">
+  <a class="icon-button" href={profile.linkedin} target="_blank" rel="noopener noreferrer" aria-label="LinkedIn (opens in a new tab)"><Icon name="linkedin" /></a>
+  <a class="icon-button" href={profile.github} target="_blank" rel="noopener noreferrer" aria-label="GitHub (opens in a new tab)"><Icon name="github" /></a>
+</div>

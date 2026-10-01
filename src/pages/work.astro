@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ProjectGallery from '../components/ProjectGallery.astro';
+import { projects } from '../data/projects';
+---
+<BaseLayout title="Work & Projects | Mahmoud Fawzy" description="Explore Mahmoud Fawzy’s WordPress, Shopify, and React project portfolio, including Happylife Tourism and UPC Realty, with live website and case-study links.">
+  <section class="page-hero container"><p class="eyebrow">Portfolio</p><h1>My <span class="accent">Projects</span></h1><p class="page-intro">{projects.length} websites across WordPress, Shopify and React, from travel and real estate to retail and professional services.</p><a class="text-link" href="/case-studies/">Explore the case studies ↗</a></section>
+  <section class="section gallery-section" aria-label="Project gallery"><div class="container"><ProjectGallery /><p class="archive-note">These projects include work with agency teams. Live websites may have changed since delivery; the case studies describe my contribution in more detail.</p></div></section>
+</BaseLayout>

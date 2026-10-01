@@ -1,0 +1,6 @@
+# Only Astro's content-hashed filenames may use long immutable caching.
+<IfModule mod_headers.c>
+  <FilesMatch "\.[A-Za-z0-9_-]{8,}\.(?:js|css|woff2?)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>

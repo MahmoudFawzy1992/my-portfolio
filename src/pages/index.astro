@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionHeading from '../components/SectionHeading.astro';
+import CaseStudyCard from '../components/CaseStudyCard.astro';
+import ExperienceList from '../components/ExperienceList.astro';
+import ProjectGallery from '../components/ProjectGallery.astro';
+import TechnologyGroups from '../components/TechnologyGroups.astro';
+import ContactSection from '../components/ContactSection.astro';
+import Icon from '../components/Icon.astro';
+import SocialLinks from '../components/SocialLinks.astro';
+import { profile, capabilities } from '../data/profile';
+import { caseStudies } from '../data/caseStudies';
+import { projects } from '../data/projects';
+---
+<BaseLayout title="Mahmoud Fawzy | Senior Web Developer & Automation Engineer" description="Senior web developer based in Giza, Egypt. WordPress, React, Next.js and business automation. Explore Mahmoud Fawzy’s projects, experience and CV.">
+  <section id="home" class="hero section" aria-labelledby="hero-heading">
+    <div class="container hero-grid">
+      <div class="hero-copy" data-hero-reveal="left">
+        <p class="hero-greeting">Welcome to my world</p>
+        <h1 id="hero-heading">Hi, I’m <span class="accent">Mahmoud Fawzy</span></h1>
+        <p class="hero-role"><span class="sr-only">Senior Web Developer, Full-Stack Developer and Automation Engineer.</span><span aria-hidden="true">a <span class="hero-typed accent" data-typing>Web Developer.</span><span class="typing-cursor">|</span></span></p>
+        <p class="hero-description">I’m a senior web developer and automation engineer in Giza, Egypt, with web development experience since 2018. I build WordPress and Shopify websites, React/Next.js applications and n8n workflows. My work includes headless CMS architecture, backend integrations and deployment. I use coding agents to help implement, debug and test software.</p>
+        <div class="hero-actions"><a class="button button-primary" href={profile.cv} download="Mahmoud-Fawzy-CV.pdf"><Icon name="download" /> Download my CV</a><a class="button button-secondary" href="#portfolio">Explore my work <Icon name="arrow" /></a></div>
+        <div class="hero-footer"><div><p class="hero-footer-title">Find me in</p><SocialLinks /></div><div><p class="hero-footer-title">My core tools</p><div class="technology-icons">{[{ name: 'react', label: 'React' }, { name: 'wordpress', label: 'WordPress' }, { name: 'zap', label: 'n8n' }, { name: 'javascript', label: 'JavaScript' }].map(tech => <a class="icon-button" href="#technologies-heading" aria-label={`${tech.label} — view technical skills`} title={tech.label}><Icon name={tech.name} /></a>)}</div></div></div>
+      </div>
+      <div class="hero-art" data-hero-reveal="right"><div class="hero-image-frame"><img src="/assets/images/optimized/hero-profile-800.webp" srcset="/assets/images/optimized/hero-profile-480.webp 480w, /assets/images/optimized/hero-profile-800.webp 800w" sizes="(max-width: 991px) min(85vw, 470px), 30vw" alt="Mahmoud Fawzy" width="800" height="754" fetchpriority="high" /></div></div>
+    </div>
+  </section>
+  <section id="expertise" class="section" aria-labelledby="capabilities-heading"><div class="container"><SectionHeading eyebrow="Expertise" title="What I Do" id="capabilities-heading" /><div class="capability-grid">{capabilities.map(item => <article class="capability-card surface" data-reveal><Icon name={item.icon} class="capability-icon" /><h3>{item.title}</h3><p>{item.description}</p></article>)}</div></div></section>
+  <section id="portfolio" class="section" aria-labelledby="work-heading"><div class="container"><SectionHeading eyebrow="Portfolio" title="My Projects" id="work-heading" /><ProjectGallery compact /><div class="section-end-link"><a class="button button-secondary" href="/work/">Explore all {projects.length} projects <Icon name="arrow" /></a></div></div></section>
+  <section id="selected-work" class="section selected-section" aria-labelledby="selected-heading"><div class="container"><SectionHeading eyebrow="Selected work" title="Case Studies" id="selected-heading" description="A closer look at two websites and an automation workflow." /><div class="case-grid">{caseStudies.map((study, index) => <CaseStudyCard study={study} index={index} />)}</div><div class="section-end-link"><a class="text-link" href="/case-studies/">View all case studies ↗</a></div></div></section>
+  <section id="resume" class="section" aria-labelledby="experience-heading"><div class="container"><SectionHeading eyebrow="Resume" title="My Experience" id="experience-heading" /><ExperienceList compact /><div class="section-end-link"><a class="button button-secondary" href="/experience/">Full experience & skills <Icon name="arrow" /></a></div></div></section>
+  <section class="section technologies-section" aria-labelledby="technologies-heading"><div class="container"><SectionHeading eyebrow="Professional skills" title="My Technical Toolkit" id="technologies-heading" /><TechnologyGroups compact /><div class="section-end-link"><a class="text-link" href="/experience/#skills-heading">Explore my full technical skills ↗</a></div></div></section>
+  <ContactSection />
+</BaseLayout>

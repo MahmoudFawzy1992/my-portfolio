@@ -70,3 +70,9 @@ coverage/
 .cache/
 *.tmp
 *.temp
+
+.astro/
+tmp/
+output/
+public/assets/images/optimized/
+public/assets/images/social-card.png

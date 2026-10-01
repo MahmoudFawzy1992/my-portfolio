@@ -3,30 +3,36 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0"
+    "dev": "node scripts/prepare-assets.mjs && astro dev",
+    "build": "node scripts/prepare-assets.mjs && astro build",
+    "preview": "node scripts/static-server.mjs",
+    "lint": "eslint . --max-warnings 0",
+    "check": "astro check",
+    "test": "node --test tests/*.test.mjs",
+    "verify:static": "node scripts/verify-static.mjs",
+    "verify:http": "node scripts/verify-http.mjs",
+    "measure": "node scripts/measure-build.mjs",
+    "package:hostinger": "npm run build && node scripts/package-hostinger.mjs"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-scroll": "^1.9.0",
-    "framer-motion": "^11.3.0",
-    "react-type-animation": "^3.2.0",
-    "react-icons": "^5.2.1",
-    "@emailjs/browser": "^4.4.1",
-    "react-helmet-async": "^2.0.5"
+    "@astrojs/sitemap": "^3.7.4",
+    "@fontsource/poppins": "^5.2.7",
+    "astro": "^7.3.5"
   },
   "devDependencies": {
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
-    "eslint": "^8.57.0",
-    "eslint-plugin-react": "^7.34.3",
-    "eslint-plugin-react-hooks": "^4.6.2",
-    "eslint-plugin-react-refresh": "^0.4.7",
-    "vite": "^5.3.1"
+    "@astrojs/check": "^0.9.9",
+    "@eslint/js": "^9.39.0",
+    "@typescript-eslint/parser": "^8.46.0",
+    "eslint": "^9.39.0",
+    "eslint-plugin-astro": "^1.5.0",
+    "fflate": "^0.8.2",
+    "globals": "^16.4.0",
+    "linkedom": "^0.18.12",
+    "sharp": "^0.35.5",
+    "typescript": "^5.9.3"
   }
 }

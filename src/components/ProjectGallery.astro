@@ -1,0 +1,26 @@
+---
+import { projects } from '../data/projects';
+import { responsiveImage } from '../lib/images';
+interface Props { compact?: boolean; }
+const { compact = false } = Astro.props;
+const selected = projects;
+const list = await Promise.all(selected.map(async project => ({ ...project, preview: await responsiveImage(project.image) })));
+const filters = ['All', 'WordPress', 'Shopify', 'React'];
+---
+<div class="project-gallery" data-gallery data-page-size={compact ? 9 : undefined}>
+  {!compact && <h2 class="sr-only">Project gallery</h2>}
+  <div class="project-filters" aria-label="Filter projects" role="group" hidden>{filters.map(filter => {
+    const count = filter === 'All' ? selected.length : selected.filter(p => p.platform === filter).length;
+    return <button type="button" data-filter={filter} aria-label={`${filter === 'All' ? 'All projects' : `${filter} projects`} (${count})`} aria-pressed={filter === 'All'}>{filter}<span aria-hidden="true">{count}</span></button>;
+  })}</div>
+  <p class:list={['gallery-status', { 'sr-only': compact }]} data-gallery-status role="status" aria-live="polite">Showing all {selected.length} projects</p>
+  <div class="project-grid">{list.map(project => {
+    const caseSlug = project.title === 'Happylife Tourism' ? 'happylife-tourism' : project.title === 'UPC Realty' ? 'upc-realty' : undefined;
+    return <article class="project-card" data-platform={project.platform} data-reveal>
+      <a href={project.url} target="_blank" rel="noopener noreferrer" class="project-visual" aria-label={`Visit ${project.title} website (opens in a new tab)`}><img {...project.preview} sizes="(max-width: 767px) 90vw, (max-width: 1024px) 45vw, 30vw" alt={`${project.title} website`} loading="lazy" /><span class="platform-badge">{project.platform}</span><span class="project-overlay" aria-hidden="true"><span>View Project ↗</span></span></a>
+      <h3><a href={project.url} target="_blank" rel="noopener noreferrer"><bdi>{project.title}</bdi></a></h3><p>{project.description}</p>
+      <div class="project-actions">{caseSlug ? <a href={`/case-studies/${caseSlug}/`}>Case study ↗</a> : <a href={project.url} target="_blank" rel="noopener noreferrer">Live website ↗</a>}</div>
+    </article>;
+  })}</div>
+  {compact && <div class="section-end-link"><button class="button button-secondary" type="button" data-load-more hidden>Load more projects</button></div>}
+</div>

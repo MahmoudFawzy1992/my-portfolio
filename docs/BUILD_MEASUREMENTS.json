@@ -1,0 +1,41 @@
+{
+  "method": "Local build file sizes; separate gzip per asset. These are not Lighthouse, network timing, or field performance scores.",
+  "totals": {
+    "js": {
+      "files": 0,
+      "bytes": 0,
+      "gzipBytes": 0
+    },
+    "css": {
+      "files": 1,
+      "bytes": 25925,
+      "gzipBytes": 6024
+    },
+    "woff2": {
+      "files": 4,
+      "bytes": 31448,
+      "gzipBytes": 31540
+    }
+  },
+  "pages": {
+    "index.html": {
+      "htmlBytes": 64789,
+      "inlineModuleBytes": 3947,
+      "reactIslands": 0
+    },
+    "work/index.html": {
+      "htmlBytes": 42639,
+      "inlineModuleBytes": 3947,
+      "reactIslands": 0
+    },
+    "contact/index.html": {
+      "htmlBytes": 14767,
+      "inlineModuleBytes": 3947,
+      "reactIslands": 0
+    }
+  },
+  "hero": {
+    "originalBytes": 252680,
+    "optimized800Bytes": 59294
+  }
+}
