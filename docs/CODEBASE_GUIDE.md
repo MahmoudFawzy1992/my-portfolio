@@ -8,7 +8,7 @@ Astro statically generates eight indexable pages plus the custom 404. No SSR ada
 
 BaseLayout assembles local Poppins fonts, metadata, canonical/social tags, Person/WebSite/case Article JSON-LD, header/footer, skip link and the shared enhancement script. ContactSection is static Astro markup reused on Home and Contact: existing portrait/profile plus direct email/profile cards. Email text supports full selection and mailto links open the visitor's email application. Nothing is submitted by the website.
 
-site.ts retains the approved typing roles, active section links, drawer dismissal/focus containment, reveals, project filters and Load More. Native details handles the mobile menu without JavaScript. All 31 projects are initially HTML; Home enhances to nine, revealing six per action, while Work shows all. Experience keeps all nine roles visible. Reduced-motion support remains; essential content never starts fully transparent. Reveal classes clear after completion so hover transforms work.
+site.ts retains the approved typing roles, active section links, drawer dismissal/focus containment, reveals, project filters and Load More. Native details handles the mobile menu without JavaScript. All 31 projects are initially HTML; Home enhances to nine, revealing six per action, while Work shows all. Experience keeps all eight roles visible. Reduced-motion support remains; essential content never starts fully transparent. Reveal classes clear after completion so hover transforms work.
 
 ## Routes
 

@@ -75,7 +75,16 @@ assert.equal(projects.length, 31);
 const { document: cases } = parseHTML(await readFile('dist/case-studies/index.html', 'utf8'));
 assert.equal(cases.querySelectorAll('.case-card').length, 3);
 const { document: experience } = parseHTML(await readFile('dist/experience/index.html', 'utf8'));
-assert.equal(experience.querySelectorAll('.experience-card').length, 9);
+assert.equal(experience.querySelectorAll('.experience-card').length, 8);
+assert.equal(home.querySelectorAll('.experience-card').length, 3, 'Homepage retains WOT, Comma and JMI');
+for (const document of [home, experience]) {
+  assert(!document.querySelector('main').textContent.includes('Memory Farm'), 'Removed employment must not render');
+  for (const company of ['WOT Agency', 'Comma Agency']) {
+    const card = [...document.querySelectorAll('.experience-card')].find(item => item.querySelector('.eyebrow').textContent === company);
+    assert(card, `Missing ${company} employment`);
+    assert.equal(card.querySelector('.experience-date span:last-child').textContent, 'Dokki - Egypt', `${company} location`);
+  }
+}
 for (const skill of ['OpenAI Codex', 'Docker', 'Caddy', 'PostgreSQL', 'GitHub Actions', 'TypeScript', 'Prisma', 'Paymob', 'Systemd', 'Transactional email']) assert(experience.querySelector('main')?.textContent.includes(skill), `Missing confirmed skill ${skill}`);
 assert((await readFile('dist/assets/mahmoud-fawzy c.v.pdf')).subarray(0, 5).toString() === '%PDF-');
 assert.deepEqual(await readFile('dist/assets/mahmoud-fawzy c.v.pdf'), await readFile('public/assets/mahmoud-fawzy c.v.pdf'));
@@ -92,4 +101,4 @@ const cssFiles = (await readdir('dist/_astro')).filter(file => file.endsWith('.c
 for (const file of cssFiles) assert(!/#(?:ff5b8d|ec0049|cc0040|ff8fa8)\b|contact-form|contact-field/i.test(await readFile(`dist/_astro/${file}`, 'utf8')), `${file}: obsolete colors/form styles`);
 const rootFiles = await readdir(root);
 assert(!rootFiles.some(file => file.startsWith('.env') || file === 'src' || file === 'node_modules'));
-console.log(`Verified ${pages.length} static pages: links/assets, headings, metadata/schema, 31 projects, 3 cases, 9 roles, CV, sitemap and private-data exclusion.`);
+console.log(`Verified ${pages.length} static pages: links/assets, headings, metadata/schema, 31 projects, 3 cases, 8 roles, CV, sitemap and private-data exclusion.`);

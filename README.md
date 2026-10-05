@@ -1,6 +1,6 @@
 # Mahmoud Fawzy — Developer Portfolio
 
-A static Astro portfolio for developer applications, with 31 projects, three case studies, nine employment entries, technical skills, the current CV and direct contact links. The approved original design and animations are retained. No React runtime, form service, environment configuration or production Node server is required.
+A static Astro portfolio for developer applications, with 31 projects, three case studies, eight employment entries, technical skills, the current CV and direct contact links. The approved original design and animations are retained. No React runtime, form service, environment configuration or production Node server is required.
 
 ## Run locally
 

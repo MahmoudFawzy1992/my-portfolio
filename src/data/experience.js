@@ -14,26 +14,12 @@ export const experienceItems = [
     ]
   },
   {
-    "id": 2,
-    "type": "senior",
-    "title": "Founder & Developer",
-    "company": "Memory Farm",
-    "period": "June 2025 – Present",
-    "location": "Remote",
-    "bullets": [
-      "Designed and built Memory Farm, an emotional journaling application with AI-assisted insights.",
-      "Implemented a block-based memory editor, mood tracking, calendar view, user following and AI insights.",
-      "Built AI analysis services, analytics endpoints and a React interface using Vite and Tailwind CSS.",
-      "Deployed the application on Netlify and Railway, with analytics and error logging."
-    ]
-  },
-  {
     "id": 3,
     "type": "senior",
     "title": "Senior AI Full-Stack Developer",
     "company": "WOT Agency",
     "period": "October 2025 – Present",
-    "location": "Remote",
+    "location": "Dokki - Egypt",
     "bullets": [
       "Lead web platform development, including the move from traditional WordPress websites to headless architecture.",
       "Architected and launched the headless WordPress website for Happylife Tourism, connecting a WordPress backend to a custom frontend on Vercel.",
@@ -46,7 +32,7 @@ export const experienceItems = [
     "title": "Senior WordPress / Front-End Developer",
     "company": "Comma Agency",
     "period": "October 2024 – September 2025",
-    "location": "Remote",
+    "location": "Dokki - Egypt",
     "bullets": [
       "Led development and maintenance of multiple WordPress sites from domain acquisition to server setup and ongoing support.",
       "Worked on SEO optimization using WooRank and SEMrush, including performance improvements and on-page SEO."
